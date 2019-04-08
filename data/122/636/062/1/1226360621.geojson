@@ -1,0 +1,70 @@
+{
+  "id": 1226360621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.74991,16.07807,-61.74991,16.07807",
+    "geom:latitude":16.07807,
+    "geom:longitude":-61.74991,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Habitation Getz",
+    "gn:country_code":"GP",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11543853,
+    "gn:latitude":16.07807,
+    "gn:longitude":-61.74991,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Habitation Getz",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Habitation Getz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543853
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"7f147d9b5128589ae9aad4d9acc50d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226360621,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1226360621,
+    "wof:lastmodified":1537624037,
+    "wof:name":"Habitation Getz",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.74991,
+    16.07807,
+    -61.74991,
+    16.07807
+],
+  "geometry": {"coordinates":[-61.74991,16.07807],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360303579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.75333,16.09161,-61.75333,16.09161",
+    "geom:latitude":16.09161,
+    "geom:longitude":-61.75333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"L'Hermine",
+    "gn:country_code":"GP",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11543824,
+    "gn:latitude":16.09161,
+    "gn:longitude":-61.75333,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"L\u2019Hermine",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "L\u2019Hermine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543824
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"4e26f31f91aa0733db85deb00b6fdc68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1360303579,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1360303579,
+    "wof:lastmodified":1537624035,
+    "wof:name":"L'Hermine",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.75333000000001,
+    16.09161,
+    -61.75333000000001,
+    16.09161
+],
+  "geometry": {"coordinates":[-61.75333000000001,16.09161],"type":"Point"}
+}

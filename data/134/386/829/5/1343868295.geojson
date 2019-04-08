@@ -1,0 +1,70 @@
+{
+  "id": 1343868295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.65113,16.28772,-61.65113,16.28772",
+    "geom:latitude":16.28772,
+    "geom:longitude":-61.65113,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Raizet Sainte-Marie",
+    "gn:country_code":"GP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11543468,
+    "gn:latitude":16.28772,
+    "gn:longitude":-61.65113,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Raizet Sainte-Marie",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Raizet Sainte-Marie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543468
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"11ca72929564b13b85bf854eeba9e853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343868295,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1343868295,
+    "wof:lastmodified":1537624035,
+    "wof:name":"Raizet Sainte-Marie",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.65113,
+    16.28772,
+    -61.65113,
+    16.28772
+],
+  "geometry": {"coordinates":[-61.65113,16.28772],"type":"Point"}
+}

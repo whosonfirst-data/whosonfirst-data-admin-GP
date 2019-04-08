@@ -1,0 +1,73 @@
+{
+  "id": 1276474277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.72824,16.07778,-61.72824,16.07778",
+    "geom:latitude":16.07778,
+    "geom:longitude":-61.72824,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9711.0",
+    "gn:admin4_code":"97134.0",
+    "gn:asciiname":"Beausejour",
+    "gn:country_code":"GP",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579716,
+    "gn:latitude":16.07778,
+    "gn:longitude":-61.72824,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Beaus\u00e9jour",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Beaus\u00e9jour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579716
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"f360da7e56b21a6219804f85ce9bf695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276474277,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1276474277,
+    "wof:lastmodified":1537624022,
+    "wof:name":"Beausejour",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.72824,
+    16.07777999999999,
+    -61.72824,
+    16.07777999999999
+],
+  "geometry": {"coordinates":[-61.72824,16.07777999999999],"type":"Point"}
+}

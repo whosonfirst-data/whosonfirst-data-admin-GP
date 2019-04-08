@@ -1,0 +1,70 @@
+{
+  "id": 1226554759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.44433,16.297,-61.44433,16.297",
+    "geom:latitude":16.297,
+    "geom:longitude":-61.44433,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sonel",
+    "gn:country_code":"GP",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11563439,
+    "gn:latitude":16.297,
+    "gn:longitude":-61.44433,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Sonel",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sonel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11563439
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"1bb13629c31c1d48514f7c2b5dc8a308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226554759,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1226554759,
+    "wof:lastmodified":1537624058,
+    "wof:name":"Sonel",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.44433000000001,
+    16.297,
+    -61.44433000000001,
+    16.297
+],
+  "geometry": {"coordinates":[-61.44433000000001,16.297],"type":"Point"}
+}

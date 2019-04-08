@@ -1,0 +1,70 @@
+{
+  "id": 1344066785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.63773,16.23438,-61.63773,16.23438",
+    "geom:latitude":16.23438,
+    "geom:longitude":-61.63773,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dumonter",
+    "gn:country_code":"GP",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11542085,
+    "gn:latitude":16.23438,
+    "gn:longitude":-61.63773,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Dumonter",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dumonter"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542085
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"e3d9c78c64fa5ef0b54ed38a6ba4f6fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1344066785,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1344066785,
+    "wof:lastmodified":1537624030,
+    "wof:name":"Dumonter",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.63773000000001,
+    16.23438,
+    -61.63773000000001,
+    16.23438
+],
+  "geometry": {"coordinates":[-61.63773000000001,16.23438],"type":"Point"}
+}

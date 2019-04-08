@@ -1,0 +1,73 @@
+{
+  "id": 1326563599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.24599,15.9378,-61.24599,15.9378",
+    "geom:latitude":15.9378,
+    "geom:longitude":-61.24599,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9712.0",
+    "gn:admin4_code":"97108.0",
+    "gn:asciiname":"L'Etang Noir",
+    "gn:country_code":"GP",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578926,
+    "gn:latitude":15.9378,
+    "gn:longitude":-61.24599,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"L\u2019\u00c9tang Noir",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "L\u2019\u00c9tang Noir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578926
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"7a9d7d67c64efe6739a283632506290e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1326563599,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1326563599,
+    "wof:lastmodified":1537624014,
+    "wof:name":"L'Etang Noir",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.24599,
+    15.9378,
+    -61.24599,
+    15.9378
+],
+  "geometry": {"coordinates":[-61.24599,15.9378],"type":"Point"}
+}

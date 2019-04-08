@@ -1,0 +1,70 @@
+{
+  "id": 1209725533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.39982,16.29775,-61.39982,16.29775",
+    "geom:latitude":16.29775,
+    "geom:longitude":-61.39982,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Saint-Guillaume",
+    "gn:country_code":"GP",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11563351,
+    "gn:latitude":16.29775,
+    "gn:longitude":-61.39982,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Saint-Guillaume",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Saint-Guillaume"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11563351
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"b244352d4d2071f408ba6e2606cb182a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1209725533,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209725533,
+    "wof:lastmodified":1537624055,
+    "wof:name":"Saint-Guillaume",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.39982,
+    16.29775,
+    -61.39982,
+    16.29775
+],
+  "geometry": {"coordinates":[-61.39982,16.29775],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309813503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.62487,16.22921,-61.62487,16.22921",
+    "geom:latitude":16.22921,
+    "geom:longitude":-61.62487,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Saint-Alban",
+    "gn:country_code":"GP",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11541078,
+    "gn:latitude":16.22921,
+    "gn:longitude":-61.62487,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Saint-Alban",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Saint-Alban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11541078
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"c904d3f956820d87cfff48a7574c6567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1309813503,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1309813503,
+    "wof:lastmodified":1537624026,
+    "wof:name":"Saint-Alban",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.62487,
+    16.22921,
+    -61.62487,
+    16.22921
+],
+  "geometry": {"coordinates":[-61.62487,16.22921],"type":"Point"}
+}

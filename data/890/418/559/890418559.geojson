@@ -1,0 +1,68 @@
+{
+  "id": 890418559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.68333,15.98333,-61.68333,15.98333",
+    "geom:latitude":15.98333,
+    "geom:longitude":-61.68333,
+    "gn:country":"GP",
+    "gn:fcode":"ADM4",
+    "gn:pop":8088,
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Gourbeyre",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":527,
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6690405,
+        "qs:id":643875,
+        "wd:id":"Q996284",
+        "wk:page":"Gourbeyre"
+    },
+    "wof:country":"GP",
+    "wof:created":1469051252,
+    "wof:geomhash":"08daab721804cddb36527c492caa38d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":890418559,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":890418559,
+    "wof:lastmodified":1527792814,
+    "wof:name":"Gourbeyre",
+    "wof:parent_id":85671209,
+    "wof:placetype":"localadmin",
+    "wof:population":8088,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.68333,
+    15.98333,
+    -61.68333,
+    15.98333
+],
+  "geometry": {"coordinates":[-61.68333,15.98333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259894713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.39784,16.23433,-61.39784,16.23433",
+    "geom:latitude":16.23433,
+    "geom:longitude":-61.39784,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Burat",
+    "gn:country_code":"GP",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11563290,
+    "gn:latitude":16.23433,
+    "gn:longitude":-61.39784,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Burat",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Burat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11563290
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"a5564b472142c541251479d610d6b99c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259894713,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1259894713,
+    "wof:lastmodified":1537624053,
+    "wof:name":"Burat",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.39784,
+    16.23433,
+    -61.39784,
+    16.23433
+],
+  "geometry": {"coordinates":[-61.39784,16.23433],"type":"Point"}
+}

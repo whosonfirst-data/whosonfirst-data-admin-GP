@@ -1,0 +1,64 @@
+{
+  "id": 1327144279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.49591,16.37881,-61.49591,16.37881",
+    "geom:latitude":16.37881,
+    "geom:longitude":-61.49591,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Darse",
+    "gn:country_code":"GP",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11577714,
+    "gn:latitude":16.37881,
+    "gn:longitude":-61.49591,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"La Darse",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Darse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11577714
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"b5b3f59f9a7fd085a6afe444ee782c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327144279,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327144279,
+    "wof:lastmodified":1537624072,
+    "wof:name":"La Darse",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.49591,
+    16.37881,
+    -61.49591,
+    16.37881
+],
+  "geometry": {"coordinates":[-61.49591,16.37881],"type":"Point"}
+}

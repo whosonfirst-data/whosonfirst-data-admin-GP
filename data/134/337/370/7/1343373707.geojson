@@ -1,0 +1,64 @@
+{
+  "id": 1343373707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.73892,16.01205,-61.73892,16.01205",
+    "geom:latitude":16.01205,
+    "geom:longitude":-61.73892,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Peres Blancs",
+    "gn:country_code":"GP",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545154,
+    "gn:latitude":16.01205,
+    "gn:longitude":-61.73892,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"P\u00e8res Blancs",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "P\u00e8res Blancs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545154
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"ff060a820885362abd0c33bbecb14c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343373707,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343373707,
+    "wof:lastmodified":1537624041,
+    "wof:name":"Peres Blancs",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.73891999999999,
+    16.01205,
+    -61.73891999999999,
+    16.01205
+],
+  "geometry": {"coordinates":[-61.73891999999999,16.01205],"type":"Point"}
+}

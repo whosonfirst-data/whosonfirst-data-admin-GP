@@ -1,0 +1,70 @@
+{
+  "id": 1276128579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.46061,16.25915,-61.46061,16.25915",
+    "geom:latitude":16.25915,
+    "geom:longitude":-61.46061,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Carruel",
+    "gn:country_code":"GP",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11546626,
+    "gn:latitude":16.25915,
+    "gn:longitude":-61.46061,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Carruel",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Carruel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546626
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"e18a009ce9fbca46ba1d81fd1daa3b42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276128579,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1276128579,
+    "wof:lastmodified":1537624047,
+    "wof:name":"Carruel",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.46061,
+    16.25915,
+    -61.46061,
+    16.25915
+],
+  "geometry": {"coordinates":[-61.46061,16.25915],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360103065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.56167,16.09942,-61.56167,16.09942",
+    "geom:latitude":16.09942,
+    "geom:longitude":-61.56167,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Poudriere",
+    "gn:country_code":"GP",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11544081,
+    "gn:latitude":16.09942,
+    "gn:longitude":-61.56167,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"La Poudri\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Poudri\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11544081
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"9d88c22211583b97ecd541a5c8c64d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1360103065,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1360103065,
+    "wof:lastmodified":1537624037,
+    "wof:name":"La Poudriere",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.56166999999999,
+    16.09942,
+    -61.56166999999999,
+    16.09942
+],
+  "geometry": {"coordinates":[-61.56166999999999,16.09942],"type":"Point"}
+}

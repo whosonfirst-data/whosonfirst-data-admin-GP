@@ -1,0 +1,70 @@
+{
+  "id": 1226660817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.65943,15.97627,-61.65943,15.97627",
+    "geom:latitude":15.97627,
+    "geom:longitude":-61.65943,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cardonnet",
+    "gn:country_code":"GP",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545416,
+    "gn:latitude":15.97627,
+    "gn:longitude":-61.65943,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Cardonnet",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cardonnet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545416
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"7b20e7af4d689e8f18b3b1f977d18a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226660817,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1226660817,
+    "wof:lastmodified":1537624044,
+    "wof:name":"Cardonnet",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.65943000000001,
+    15.97627,
+    -61.65943000000001,
+    15.97627
+],
+  "geometry": {"coordinates":[-61.65943000000001,15.97627],"type":"Point"}
+}

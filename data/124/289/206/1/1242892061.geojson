@@ -1,0 +1,70 @@
+{
+  "id": 1242892061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.62471,15.98126,-61.62471,15.98126",
+    "geom:latitude":15.98126,
+    "geom:longitude":-61.62471,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sapotille",
+    "gn:country_code":"GP",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545434,
+    "gn:latitude":15.98126,
+    "gn:longitude":-61.62471,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Sapotille",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sapotille"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545434
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"3878ba4292d2d31012b46ab1eda95068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1242892061,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1242892061,
+    "wof:lastmodified":1537624044,
+    "wof:name":"Sapotille",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.62471,
+    15.98126,
+    -61.62471,
+    15.98126
+],
+  "geometry": {"coordinates":[-61.62471,15.98126],"type":"Point"}
+}

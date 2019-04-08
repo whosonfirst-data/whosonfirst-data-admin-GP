@@ -1,0 +1,70 @@
+{
+  "id": 1343571317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.26197,15.99299,-61.26197,15.99299",
+    "geom:latitude":15.99299,
+    "geom:longitude":-61.26197,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"L'Anse du Vent",
+    "gn:country_code":"GP",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567873,
+    "gn:latitude":15.99299,
+    "gn:longitude":-61.26197,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"L\u2019Anse du Vent",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "L\u2019Anse du Vent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567873
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"7361fe690387cf38f3627b5e5eacb388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343571317,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1343571317,
+    "wof:lastmodified":1537624059,
+    "wof:name":"L'Anse du Vent",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.26197,
+    15.99299,
+    -61.26197,
+    15.99299
+],
+  "geometry": {"coordinates":[-61.26197,15.99299],"type":"Point"}
+}

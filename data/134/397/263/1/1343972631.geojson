@@ -1,0 +1,64 @@
+{
+  "id": 1343972631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.63026,15.97518,-61.63026,15.97518",
+    "geom:latitude":15.97518,
+    "geom:longitude":-61.63026,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Habitation la Coulisse",
+    "gn:country_code":"GP",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545409,
+    "gn:latitude":15.97518,
+    "gn:longitude":-61.63026,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Habitation la Coulisse",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Habitation la Coulisse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545409
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"324728a0783a8858ef2d7452e23f1a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343972631,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343972631,
+    "wof:lastmodified":1537624043,
+    "wof:name":"Habitation la Coulisse",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.63026,
+    15.97518,
+    -61.63026,
+    15.97518
+],
+  "geometry": {"coordinates":[-61.63026,15.97518],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293404575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.45699,16.31749,-61.45699,16.31749",
+    "geom:latitude":16.31749,
+    "geom:longitude":-61.45699,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mompierre",
+    "gn:country_code":"GP",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11547159,
+    "gn:latitude":16.31749,
+    "gn:longitude":-61.45699,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Mompierre",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mompierre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11547159
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"d1b1017a88d3a9c2a3ad54aeade02704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293404575,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1293404575,
+    "wof:lastmodified":1537624052,
+    "wof:name":"Mompierre",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.45699000000001,
+    16.31749,
+    -61.45699000000001,
+    16.31749
+],
+  "geometry": {"coordinates":[-61.45699000000001,16.31749],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259798383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.40938,16.2741,-61.40938,16.2741",
+    "geom:latitude":16.2741,
+    "geom:longitude":-61.40938,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Liard Saint-Robert",
+    "gn:country_code":"GP",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11563406,
+    "gn:latitude":16.2741,
+    "gn:longitude":-61.40938,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Liard Saint-Robert",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Liard Saint-Robert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11563406
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"3c61d2fa550a198f42c0bbb149ec9946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259798383,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1259798383,
+    "wof:lastmodified":1537624057,
+    "wof:name":"Liard Saint-Robert",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.40938000000001,
+    16.2741,
+    -61.40938000000001,
+    16.2741
+],
+  "geometry": {"coordinates":[-61.40938000000001,16.2741],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209329299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.29971,15.89417,-61.29971,15.89417",
+    "geom:latitude":15.89417,
+    "geom:longitude":-61.29971,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ferreol",
+    "gn:country_code":"GP",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567904,
+    "gn:latitude":15.89417,
+    "gn:longitude":-61.29971,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ferr\u00e9ol",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ferr\u00e9ol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567904
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"45443b5ff0418252fe616647acda9e03",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209329299,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209329299,
+    "wof:lastmodified":1537624061,
+    "wof:name":"Ferreol",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.29971,
+    15.89417,
+    -61.29971,
+    15.89417
+],
+  "geometry": {"coordinates":[-61.29971,15.89417],"type":"Point"}
+}

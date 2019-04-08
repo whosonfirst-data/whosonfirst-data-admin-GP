@@ -1,0 +1,70 @@
+{
+  "id": 1344066793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.69064,15.98927,-61.69064,15.98927",
+    "geom:latitude":15.98927,
+    "geom:longitude":-61.69064,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Grande Savane",
+    "gn:country_code":"GP",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545306,
+    "gn:latitude":15.98927,
+    "gn:longitude":-61.69064,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Grande Savane",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Grande Savane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545306
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"a95002c7670018a79bba3d8d663fab5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1344066793,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1344066793,
+    "wof:lastmodified":1537624041,
+    "wof:name":"Grande Savane",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.69064,
+    15.98927,
+    -61.69064,
+    15.98927
+],
+  "geometry": {"coordinates":[-61.69064,15.98927],"type":"Point"}
+}

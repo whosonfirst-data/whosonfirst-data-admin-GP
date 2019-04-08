@@ -1,0 +1,70 @@
+{
+  "id": 1360300385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.71508,16.05732,-61.71508,16.05732",
+    "geom:latitude":16.05732,
+    "geom:longitude":-61.71508,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mont d'Or",
+    "gn:country_code":"GP",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11544778,
+    "gn:latitude":16.05732,
+    "gn:longitude":-61.71508,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Mont d\u2019Or",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mont d\u2019Or"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11544778
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"c7a6520c7939cff917e28c8b4dfe5a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1360300385,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1360300385,
+    "wof:lastmodified":1537624039,
+    "wof:name":"Mont d'Or",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.71508000000001,
+    16.05732,
+    -61.71508000000001,
+    16.05732
+],
+  "geometry": {"coordinates":[-61.71508000000001,16.05732],"type":"Point"}
+}

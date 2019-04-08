@@ -1,0 +1,67 @@
+{
+  "id": 890445595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.56667,16.13333,-61.56667,16.13333",
+    "geom:latitude":16.13333,
+    "geom:longitude":-61.56667,
+    "gn:country":"GP",
+    "gn:fcode":"ADM4",
+    "gn:pop":7661,
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Goyave",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":242,
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6690404,
+        "qs:id":643874,
+        "wk:page":"Goyave"
+    },
+    "wof:country":"GP",
+    "wof:created":1469052515,
+    "wof:geomhash":"0c6f39473175185c7261b02eb7b61578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":890445595,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":890445595,
+    "wof:lastmodified":1527792867,
+    "wof:name":"Goyave",
+    "wof:parent_id":85671209,
+    "wof:placetype":"localadmin",
+    "wof:population":7661,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.56667,
+    16.13333,
+    -61.56667,
+    16.13333
+],
+  "geometry": {"coordinates":[-61.56667,16.13333],"type":"Point"}
+}

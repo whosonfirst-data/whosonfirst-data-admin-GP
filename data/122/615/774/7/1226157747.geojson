@@ -1,0 +1,70 @@
+{
+  "id": 1226157747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.64861,16.18264,-61.64861,16.18264",
+    "geom:latitude":16.18264,
+    "geom:longitude":-61.64861,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bois Gris",
+    "gn:country_code":"GP",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11542944,
+    "gn:latitude":16.18264,
+    "gn:longitude":-61.64861,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Bois Gris",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bois Gris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542944
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"05b63c8bedb59293b578734642a65baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226157747,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1226157747,
+    "wof:lastmodified":1537624034,
+    "wof:name":"Bois Gris",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.64861,
+    16.18264,
+    -61.64861,
+    16.18264
+],
+  "geometry": {"coordinates":[-61.64861,16.18264],"type":"Point"}
+}

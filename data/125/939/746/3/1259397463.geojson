@@ -1,0 +1,70 @@
+{
+  "id": 1259397463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.41792,16.23138,-61.41792,16.23138",
+    "geom:latitude":16.23138,
+    "geom:longitude":-61.41792,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Germain",
+    "gn:country_code":"GP",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11563294,
+    "gn:latitude":16.23138,
+    "gn:longitude":-61.41792,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Germain",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Germain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11563294
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"d92603ec82c7deb5534d071e35a3eb14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259397463,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1259397463,
+    "wof:lastmodified":1537624054,
+    "wof:name":"Germain",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.41792,
+    16.23138,
+    -61.41792,
+    16.23138
+],
+  "geometry": {"coordinates":[-61.41792,16.23138],"type":"Point"}
+}

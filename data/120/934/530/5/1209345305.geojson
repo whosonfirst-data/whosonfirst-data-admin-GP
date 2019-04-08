@@ -1,0 +1,69 @@
+{
+  "id": 1209345305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.50313,16.2177,-61.50313,16.2177",
+    "geom:latitude":16.2177,
+    "geom:longitude":-61.50313,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9712.0",
+    "gn:admin4_code":"97113.0",
+    "gn:asciiname":"Poucet",
+    "gn:country_code":"GP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578573,
+    "gn:latitude":16.2177,
+    "gn:longitude":-61.50313,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Poucet",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poussette",
+        "Pousset",
+        "Poucet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578573
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"db4a5a1a18f74ddd418656c06e6f5162",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209345305,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209345305,
+    "wof:lastmodified":1537624010,
+    "wof:name":"Poucet",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.50313000000001,
+    16.2177,
+    -61.50313000000001,
+    16.2177
+],
+  "geometry": {"coordinates":[-61.50313000000001,16.2177],"type":"Point"}
+}

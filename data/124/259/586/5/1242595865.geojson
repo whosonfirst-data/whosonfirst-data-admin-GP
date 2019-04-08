@@ -1,0 +1,70 @@
+{
+  "id": 1242595865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.31765,16.32633,-61.31765,16.32633",
+    "geom:latitude":16.32633,
+    "geom:longitude":-61.31765,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Salmon",
+    "gn:country_code":"GP",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11571769,
+    "gn:latitude":16.32633,
+    "gn:longitude":-61.31765,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Salmon",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Salmon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11571769
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"bf432eea95c8bdfb8eaff45620eb3ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1242595865,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1242595865,
+    "wof:lastmodified":1537624067,
+    "wof:name":"Salmon",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.31765,
+    16.32633,
+    -61.31765,
+    16.32633
+],
+  "geometry": {"coordinates":[-61.31765,16.32633],"type":"Point"}
+}

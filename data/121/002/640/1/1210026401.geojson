@@ -1,0 +1,64 @@
+{
+  "id": 1210026401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.7416,16.02601,-61.7416,16.02601",
+    "geom:latitude":16.02601,
+    "geom:longitude":-61.7416,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bois Raimbault",
+    "gn:country_code":"GP",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545149,
+    "gn:latitude":16.02601,
+    "gn:longitude":-61.7416,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Bois Raimbault",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bois Raimbault"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545149
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"8b080751e536e0b8bb914443b5844033",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1210026401,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1210026401,
+    "wof:lastmodified":1537624041,
+    "wof:name":"Bois Raimbault",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.7416,
+    16.02601,
+    -61.7416,
+    16.02601
+],
+  "geometry": {"coordinates":[-61.7416,16.02601],"type":"Point"}
+}

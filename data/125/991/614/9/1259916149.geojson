@@ -1,0 +1,73 @@
+{
+  "id": 1259916149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.42396,16.26309,-61.42396,16.26309",
+    "geom:latitude":16.26309,
+    "geom:longitude":-61.42396,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9712.0",
+    "gn:admin4_code":"97128.0",
+    "gn:asciiname":"Grands Fonds",
+    "gn:country_code":"GP",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579183,
+    "gn:latitude":16.26309,
+    "gn:longitude":-61.42396,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Grands Fonds",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Grands Fonds"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579183
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"72c6c325a2dff727e8dda12828d46a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259916149,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1259916149,
+    "wof:lastmodified":1537624016,
+    "wof:name":"Grands Fonds",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.42396,
+    16.26309,
+    -61.42396,
+    16.26309
+],
+  "geometry": {"coordinates":[-61.42396,16.26309],"type":"Point"}
+}

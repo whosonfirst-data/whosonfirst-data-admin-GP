@@ -1,0 +1,70 @@
+{
+  "id": 1225859533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.52544,16.42297,-61.52544,16.42297",
+    "geom:latitude":16.42297,
+    "geom:longitude":-61.52544,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Rodrigue",
+    "gn:country_code":"GP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11577288,
+    "gn:latitude":16.42297,
+    "gn:longitude":-61.52544,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Rodrigue",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Rodrigue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11577288
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"8161baa51181a9ee5f29dbc88e84021a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1225859533,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1225859533,
+    "wof:lastmodified":1537624069,
+    "wof:name":"Rodrigue",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.52544,
+    16.42297,
+    -61.52544,
+    16.42297
+],
+  "geometry": {"coordinates":[-61.52544,16.42297],"type":"Point"}
+}

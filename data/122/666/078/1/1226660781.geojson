@@ -1,0 +1,70 @@
+{
+  "id": 1226660781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.2601,15.91426,-61.2601,15.91426",
+    "geom:latitude":15.91426,
+    "geom:longitude":-61.2601,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gagneron",
+    "gn:country_code":"GP",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567855,
+    "gn:latitude":15.91426,
+    "gn:longitude":-61.2601,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Gagneron",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gagneron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567855
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"865bec6a69c38a927a63227c62234bb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226660781,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1226660781,
+    "wof:lastmodified":1537624059,
+    "wof:name":"Gagneron",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.2601,
+    15.91426,
+    -61.2601,
+    15.91426
+],
+  "geometry": {"coordinates":[-61.2601,15.91426],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125372251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.76667,16.13333,-61.76667,16.13333",
+    "geom:latitude":16.13333,
+    "geom:longitude":-61.76667,
+    "gn:gn_country":"GP",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":7536,
+    "gn:population":7536,
+    "iso:country":"GP",
+    "lbl:latitude":16.13333,
+    "lbl:longitude":-61.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GP",
+    "qs_pg:gn_country":"GP",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6690409,
+    "qs_pg:gn_pop":7536,
+    "qs_pg:name":"Bouillante",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":643879,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6690409,
+        "qs_pg:id":643879
+    },
+    "wof:country":"GP",
+    "wof:created":1497047489,
+    "wof:geomhash":"c66aa411d227d577786d341117b557aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":1125372251,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1125372251,
+    "wof:lastmodified":1509389351,
+    "wof:name":"Bouillante",
+    "wof:parent_id":85671209,
+    "wof:placetype":"localadmin",
+    "wof:population":7536,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.76667,
+    16.13333,
+    -61.76667,
+    16.13333
+],
+  "geometry": {"coordinates":[-61.76667,16.13333],"type":"Point"}
+}

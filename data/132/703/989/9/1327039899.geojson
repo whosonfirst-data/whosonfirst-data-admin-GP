@@ -1,0 +1,70 @@
+{
+  "id": 1327039899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.64087,16.1684,-61.64087,16.1684",
+    "geom:latitude":16.1684,
+    "geom:longitude":-61.64087,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tambour",
+    "gn:country_code":"GP",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11541020,
+    "gn:latitude":16.1684,
+    "gn:longitude":-61.64087,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Tambour",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tambour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11541020
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"4d999d00266cde856e5fd8ea8ebf1fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1327039899,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1327039899,
+    "wof:lastmodified":1537624023,
+    "wof:name":"Tambour",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.64086999999999,
+    16.1684,
+    -61.64086999999999,
+    16.1684
+],
+  "geometry": {"coordinates":[-61.64086999999999,16.1684],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209552029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.02032,16.32974,-61.02032,16.32974",
+    "geom:latitude":16.32974,
+    "geom:longitude":-61.02032,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9712.0",
+    "gn:admin4_code":"97110.0",
+    "gn:asciiname":"Baie Mahault",
+    "gn:country_code":"GP",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579766,
+    "gn:latitude":16.32974,
+    "gn:longitude":-61.02032,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Baie Mahault",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Baie Mahault"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579766
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"cf0d6b6169ff52ea6a44710606259d4e",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209552029,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209552029,
+    "wof:lastmodified":1537624023,
+    "wof:name":"Baie Mahault",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.02032,
+    16.32974,
+    -61.02032,
+    16.32974
+],
+  "geometry": {"coordinates":[-61.02032,16.32974],"type":"Point"}
+}

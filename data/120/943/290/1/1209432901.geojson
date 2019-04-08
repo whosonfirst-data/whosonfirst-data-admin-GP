@@ -1,0 +1,64 @@
+{
+  "id": 1209432901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.26253,16.28976,-61.26253,16.28976",
+    "geom:latitude":16.28976,
+    "geom:longitude":-61.26253,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Esperance",
+    "gn:country_code":"GP",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11571793,
+    "gn:latitude":16.28976,
+    "gn:longitude":-61.26253,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Esp\u00e9rance",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Esp\u00e9rance"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11571793
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"c63760b5f44ba64aea99a559cb659c3c",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209432901,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209432901,
+    "wof:lastmodified":1537624068,
+    "wof:name":"Esperance",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.26253000000001,
+    16.28976,
+    -61.26253000000001,
+    16.28976
+],
+  "geometry": {"coordinates":[-61.26253000000001,16.28976],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343373351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.45862,16.24124,-61.45862,16.24124",
+    "geom:latitude":16.24124,
+    "geom:longitude":-61.45862,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jeandron",
+    "gn:country_code":"GP",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11546800,
+    "gn:latitude":16.24124,
+    "gn:longitude":-61.45862,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Jeandron",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jeandron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546800
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"13fae39459dce968687d62e684ebab36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343373351,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1343373351,
+    "wof:lastmodified":1537624051,
+    "wof:name":"Jeandron",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.45862,
+    16.24124,
+    -61.45862,
+    16.24124
+],
+  "geometry": {"coordinates":[-61.45862,16.24124],"type":"Point"}
+}

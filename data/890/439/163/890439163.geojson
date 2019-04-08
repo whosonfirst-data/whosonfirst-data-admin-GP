@@ -1,0 +1,68 @@
+{
+  "id": 890439163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.75,16.05,-61.75,16.05",
+    "geom:latitude":16.05,
+    "geom:longitude":-61.75,
+    "gn:country":"GP",
+    "gn:fcode":"ADM4",
+    "gn:pop":7684,
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Vieux-Habitants",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":329,
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6690388,
+        "qs:id":643858,
+        "wd:id":"Q996336",
+        "wk:page":"Vieux-Habitants"
+    },
+    "wof:country":"GP",
+    "wof:created":1469052223,
+    "wof:geomhash":"c42de7413cb63f3598e667ca0c819538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":890439163,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":890439163,
+    "wof:lastmodified":1527729732,
+    "wof:name":"Vieux-Habitants",
+    "wof:parent_id":85671209,
+    "wof:placetype":"localadmin",
+    "wof:population":7684,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.75,
+    16.05,
+    -61.75,
+    16.05
+],
+  "geometry": {"coordinates":[-61.75,16.05],"type":"Point"}
+}

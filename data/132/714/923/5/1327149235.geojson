@@ -1,0 +1,70 @@
+{
+  "id": 1327149235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.65452,16.00582,-61.65452,16.00582",
+    "geom:latitude":16.00582,
+    "geom:longitude":-61.65452,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"L'Etang Paille",
+    "gn:country_code":"GP",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11545449,
+    "gn:latitude":16.00582,
+    "gn:longitude":-61.65452,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"L\u2019\u00c9tang Paille",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "L\u2019\u00c9tang Paille"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545449
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"b515d259ca4fbfd7a357024be7e54681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1327149235,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1327149235,
+    "wof:lastmodified":1537624045,
+    "wof:name":"L'Etang Paille",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.65452,
+    16.00582,
+    -61.65452,
+    16.00582
+],
+  "geometry": {"coordinates":[-61.65452,16.00582],"type":"Point"}
+}

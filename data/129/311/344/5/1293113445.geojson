@@ -1,0 +1,70 @@
+{
+  "id": 1293113445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.49735,16.45715,-61.49735,16.45715",
+    "geom:latitude":16.45715,
+    "geom:longitude":-61.49735,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pavillot",
+    "gn:country_code":"GP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11577564,
+    "gn:latitude":16.45715,
+    "gn:longitude":-61.49735,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Pavillot",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pavillot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11577564
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"44cd84f2411fe13173fa2a248901e2a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293113445,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1293113445,
+    "wof:lastmodified":1537624071,
+    "wof:name":"Pavillot",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.49735,
+    16.45715,
+    -61.49735,
+    16.45715
+],
+  "geometry": {"coordinates":[-61.49735,16.45715],"type":"Point"}
+}

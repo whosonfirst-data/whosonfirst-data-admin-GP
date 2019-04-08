@@ -1,0 +1,70 @@
+{
+  "id": 1310719867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.57686,16.06576,-61.57686,16.06576",
+    "geom:latitude":16.06576,
+    "geom:longitude":-61.57686,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bois-Riant",
+    "gn:country_code":"GP",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11544822,
+    "gn:latitude":16.06576,
+    "gn:longitude":-61.57686,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Bois-Riant",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bois-Riant"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11544822
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"b9adfc674b463d584b14eeb45b136a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310719867,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1310719867,
+    "wof:lastmodified":1537624039,
+    "wof:name":"Bois-Riant",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.57686,
+    16.06576,
+    -61.57686,
+    16.06576
+],
+  "geometry": {"coordinates":[-61.57686,16.06576],"type":"Point"}
+}

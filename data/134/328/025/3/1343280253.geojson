@@ -1,0 +1,70 @@
+{
+  "id": 1343280253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.59494,16.12829,-61.59494,16.12829",
+    "geom:latitude":16.12829,
+    "geom:longitude":-61.59494,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Moreau",
+    "gn:country_code":"GP",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11543841,
+    "gn:latitude":16.12829,
+    "gn:longitude":-61.59494,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Moreau",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Moreau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543841
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"9041cad30a2f007af68f17c54ce9a7b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343280253,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1343280253,
+    "wof:lastmodified":1537624036,
+    "wof:name":"Moreau",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.59494,
+    16.12829,
+    -61.59494,
+    16.12829
+],
+  "geometry": {"coordinates":[-61.59494,16.12829],"type":"Point"}
+}

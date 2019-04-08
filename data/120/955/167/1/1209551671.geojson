@@ -1,0 +1,67 @@
+{
+  "id": 1209551671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.72411,16.05905,-61.72411,16.05905",
+    "geom:latitude":16.05905,
+    "geom:longitude":-61.72411,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9711.0",
+    "gn:admin4_code":"97104.0",
+    "gn:asciiname":"Montval",
+    "gn:country_code":"GP",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578790,
+    "gn:latitude":16.05905,
+    "gn:longitude":-61.72411,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Montval",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Montval"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578790
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"e9e6e8d04177eef7b259e11c4a1c3847",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209551671,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209551671,
+    "wof:lastmodified":1537624012,
+    "wof:name":"Montval",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.72411,
+    16.05905,
+    -61.72411,
+    16.05905
+],
+  "geometry": {"coordinates":[-61.72411,16.05905],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259898137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.66746,16.31244,-61.66746,16.31244",
+    "geom:latitude":16.31244,
+    "geom:longitude":-61.66746,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Marie-Therese",
+    "gn:country_code":"GP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11542933,
+    "gn:latitude":16.31244,
+    "gn:longitude":-61.66746,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Marie-Th\u00e9r\u00e8se",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Marie-Th\u00e9r\u00e8se"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542933
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"14924c066eefa50f82f3282abb565c90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259898137,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1259898137,
+    "wof:lastmodified":1537624034,
+    "wof:name":"Marie-Therese",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.66746,
+    16.31244,
+    -61.66746,
+    16.31244
+],
+  "geometry": {"coordinates":[-61.66746,16.31244],"type":"Point"}
+}

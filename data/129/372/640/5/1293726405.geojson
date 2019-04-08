@@ -1,0 +1,70 @@
+{
+  "id": 1293726405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.2995,15.99094,-61.2995,15.99094",
+    "geom:latitude":15.99094,
+    "geom:longitude":-61.2995,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9712.0",
+    "gn:admin4_code":"97126.0",
+    "gn:asciiname":"Vieux Fort",
+    "gn:country_code":"GP",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578287,
+    "gn:latitude":15.99094,
+    "gn:longitude":-61.2995,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Vieux Fort",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vieux Fort"
+    ],
+    "name:und_x_variant":[
+        "Vieux-Fort"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578287
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"66beb577a69c6b1114c6aa95bcf36fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293726405,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293726405,
+    "wof:lastmodified":1537624008,
+    "wof:name":"Vieux Fort",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.2995,
+    15.99094,
+    -61.2995,
+    15.99094
+],
+  "geometry": {"coordinates":[-61.2995,15.99094],"type":"Point"}
+}

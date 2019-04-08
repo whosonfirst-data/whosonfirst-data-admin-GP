@@ -1,0 +1,70 @@
+{
+  "id": 1209730033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.76596,16.11452,-61.76596,16.11452",
+    "geom:latitude":16.11452,
+    "geom:longitude":-61.76596,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Massieux",
+    "gn:country_code":"GP",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11543668,
+    "gn:latitude":16.11452,
+    "gn:longitude":-61.76596,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Massieux",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Massieux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543668
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"7b4fba7e41fc7644ebeb582ccedd66ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1209730033,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209730033,
+    "wof:lastmodified":1537624035,
+    "wof:name":"Massieux",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.76596,
+    16.11452,
+    -61.76596,
+    16.11452
+],
+  "geometry": {"coordinates":[-61.76596,16.11452],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242985241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.2077,15.93672,-61.2077,15.93672",
+    "geom:latitude":15.93672,
+    "geom:longitude":-61.2077,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Celery",
+    "gn:country_code":"GP",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567936,
+    "gn:latitude":15.93672,
+    "gn:longitude":-61.2077,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Celery",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Celery"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567936
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"7c7ce00ef72235ef5482e35c4d8793e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1242985241,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1242985241,
+    "wof:lastmodified":1537624062,
+    "wof:name":"Celery",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.2077,
+    15.93672,
+    -61.2077,
+    15.93672
+],
+  "geometry": {"coordinates":[-61.2077,15.93672],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293599293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.61566,16.12241,-61.61566,16.12241",
+    "geom:latitude":16.12241,
+    "geom:longitude":-61.61566,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Beauregard",
+    "gn:country_code":"GP",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3579719,
+    "gn:latitude":16.12241,
+    "gn:longitude":-61.61566,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Beauregard",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Beauregard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579719
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"e75445b7933258290c7565e9dec899f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293599293,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1293599293,
+    "wof:lastmodified":1537624022,
+    "wof:name":"Beauregard",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.61566,
+    16.12241,
+    -61.61566,
+    16.12241
+],
+  "geometry": {"coordinates":[-61.61566,16.12241],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343972689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.48632,16.32704,-61.48632,16.32704",
+    "geom:latitude":16.32704,
+    "geom:longitude":-61.48632,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sauvia",
+    "gn:country_code":"GP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11546732,
+    "gn:latitude":16.32704,
+    "gn:longitude":-61.48632,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Sauvia",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sauvia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546732
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"dfbef75362b3a8187dc1305d1e75ab81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343972689,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1343972689,
+    "wof:lastmodified":1537624050,
+    "wof:name":"Sauvia",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.48631999999999,
+    16.32704,
+    -61.48631999999999,
+    16.32704
+],
+  "geometry": {"coordinates":[-61.48631999999999,16.32704],"type":"Point"}
+}

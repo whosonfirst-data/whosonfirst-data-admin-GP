@@ -1,0 +1,70 @@
+{
+  "id": 1343671853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.69167,15.98559,-61.69167,15.98559",
+    "geom:latitude":15.98559,
+    "geom:longitude":-61.69167,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Robert",
+    "gn:country_code":"GP",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11545420,
+    "gn:latitude":15.98559,
+    "gn:longitude":-61.69167,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Robert",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Robert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545420
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"dee6ebf52cbda7b887a587b8f1cc382a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343671853,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1343671853,
+    "wof:lastmodified":1537624044,
+    "wof:name":"Robert",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.69167,
+    15.98559,
+    -61.69167,
+    15.98559
+],
+  "geometry": {"coordinates":[-61.69167,15.98559],"type":"Point"}
+}

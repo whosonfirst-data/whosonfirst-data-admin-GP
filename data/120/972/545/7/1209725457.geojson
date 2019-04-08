@@ -1,0 +1,70 @@
+{
+  "id": 1209725457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.34175,16.25418,-61.34175,16.25418",
+    "geom:latitude":16.25418,
+    "geom:longitude":-61.34175,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Boisvin",
+    "gn:country_code":"GP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11571295,
+    "gn:latitude":16.25418,
+    "gn:longitude":-61.34175,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Boisvin",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Boisvin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11571295
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"72bdbe0e24fa93c442f838b11163e16c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1209725457,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209725457,
+    "wof:lastmodified":1537624065,
+    "wof:name":"Boisvin",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.34175,
+    16.25418,
+    -61.34175,
+    16.25418
+],
+  "geometry": {"coordinates":[-61.34175,16.25418],"type":"Point"}
+}

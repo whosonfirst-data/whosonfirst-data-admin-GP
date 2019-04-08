@@ -1,0 +1,70 @@
+{
+  "id": 1242884089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.64393,16.21521,-61.64393,16.21521",
+    "geom:latitude":16.21521,
+    "geom:longitude":-61.64393,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lalung",
+    "gn:country_code":"GP",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11541040,
+    "gn:latitude":16.21521,
+    "gn:longitude":-61.64393,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Lalung",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lalung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11541040
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"12167a5985d3d6cfa392d8d91ae84f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1242884089,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1242884089,
+    "wof:lastmodified":1537624024,
+    "wof:name":"Lalung",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.64393000000001,
+    16.21521,
+    -61.64393000000001,
+    16.21521
+],
+  "geometry": {"coordinates":[-61.64393000000001,16.21521],"type":"Point"}
+}

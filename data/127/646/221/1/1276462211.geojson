@@ -1,0 +1,70 @@
+{
+  "id": 1276462211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.44374,16.22762,-61.44374,16.22762",
+    "geom:latitude":16.22762,
+    "geom:longitude":-61.44374,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Digue Vieux Bertin",
+    "gn:country_code":"GP",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11563302,
+    "gn:latitude":16.22762,
+    "gn:longitude":-61.44374,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Digue Vieux Bertin",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Digue Vieux Bertin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11563302
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"9167860fac3e8ac126254b46e98b7b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276462211,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1276462211,
+    "wof:lastmodified":1537624054,
+    "wof:name":"Digue Vieux Bertin",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.44374000000001,
+    16.22762,
+    -61.44374000000001,
+    16.22762
+],
+  "geometry": {"coordinates":[-61.44374000000001,16.22762],"type":"Point"}
+}

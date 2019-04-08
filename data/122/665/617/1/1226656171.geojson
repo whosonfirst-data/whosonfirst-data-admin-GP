@@ -1,0 +1,70 @@
+{
+  "id": 1226656171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.65172,16.24952,-61.65172,16.24952",
+    "geom:latitude":16.24952,
+    "geom:longitude":-61.65172,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bagatelle",
+    "gn:country_code":"GP",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11541046,
+    "gn:latitude":16.24952,
+    "gn:longitude":-61.65172,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Bagatelle",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bagatelle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11541046
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"c03e65758ac3e6f6bc9fa836ab33d450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226656171,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1226656171,
+    "wof:lastmodified":1537624025,
+    "wof:name":"Bagatelle",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.65172,
+    16.24952,
+    -61.65172,
+    16.24952
+],
+  "geometry": {"coordinates":[-61.65172,16.24952],"type":"Point"}
+}

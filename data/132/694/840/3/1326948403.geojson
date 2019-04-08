@@ -1,0 +1,70 @@
+{
+  "id": 1326948403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.59741,16.16309,-61.59741,16.16309",
+    "geom:latitude":16.16309,
+    "geom:longitude":-61.59741,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Juston",
+    "gn:country_code":"GP",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11542203,
+    "gn:latitude":16.16309,
+    "gn:longitude":-61.59741,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Juston",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Juston"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542203
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"e96f3839caf8318b4fefe15789d057a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1326948403,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1326948403,
+    "wof:lastmodified":1537624030,
+    "wof:name":"Juston",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.59741,
+    16.16309,
+    -61.59741,
+    16.16309
+],
+  "geometry": {"coordinates":[-61.59741,16.16309],"type":"Point"}
+}

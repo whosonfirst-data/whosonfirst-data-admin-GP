@@ -1,0 +1,70 @@
+{
+  "id": 1343888461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.71667,16.08333,-61.71667,16.08333",
+    "geom:latitude":16.08333,
+    "geom:longitude":-61.71667,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9711.0",
+    "gn:admin4_code":"97134.0",
+    "gn:asciiname":"Grande Riviere",
+    "gn:country_code":"GP",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579214,
+    "gn:latitude":16.08333,
+    "gn:longitude":-61.71667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Grande Rivi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579214
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"0598da8caeeb1b3a2f375572b0ea091f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343888461,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1343888461,
+    "wof:lastmodified":1536624360,
+    "wof:name":"Grande Riviere",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.71666999999999,
+    16.08333,
+    -61.71666999999999,
+    16.08333
+],
+  "geometry": {"coordinates":[-61.71666999999999,16.08333],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1260304103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.77468,16.15359,-61.77468,16.15359",
+    "geom:latitude":16.15359,
+    "geom:longitude":-61.77468,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Coton",
+    "gn:country_code":"GP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11541989,
+    "gn:latitude":16.15359,
+    "gn:longitude":-61.77468,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Coton",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Coton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11541989
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"00a79bb4f4eaebb2ce580cb72fd9c468",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260304103,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260304103,
+    "wof:lastmodified":1537624028,
+    "wof:name":"Coton",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.77468,
+    16.15359,
+    -61.77468,
+    16.15359
+],
+  "geometry": {"coordinates":[-61.77468,16.15359],"type":"Point"}
+}

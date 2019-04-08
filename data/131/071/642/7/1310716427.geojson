@@ -1,0 +1,70 @@
+{
+  "id": 1310716427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.51531,16.26045,-61.51531,16.26045",
+    "geom:latitude":16.26045,
+    "geom:longitude":-61.51531,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mamiel",
+    "gn:country_code":"GP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11546638,
+    "gn:latitude":16.26045,
+    "gn:longitude":-61.51531,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Mamiel",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mamiel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546638
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"5633ccf2a7a163b09674f73b60a95cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310716427,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1310716427,
+    "wof:lastmodified":1537624047,
+    "wof:name":"Mamiel",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.51531,
+    16.26045,
+    -61.51531,
+    16.26045
+],
+  "geometry": {"coordinates":[-61.51531,16.26045],"type":"Point"}
+}

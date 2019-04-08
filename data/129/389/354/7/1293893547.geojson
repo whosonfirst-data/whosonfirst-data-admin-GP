@@ -1,0 +1,70 @@
+{
+  "id": 1293893547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.5028,16.23329,-61.5028,16.23329",
+    "geom:latitude":16.23329,
+    "geom:longitude":-61.5028,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Rejoui",
+    "gn:country_code":"GP",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11546666,
+    "gn:latitude":16.23329,
+    "gn:longitude":-61.5028,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"R\u00e9joui",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "R\u00e9joui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546666
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"6388627413da2849cca632454351e7c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293893547,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1293893547,
+    "wof:lastmodified":1537624048,
+    "wof:name":"Rejoui",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.5028,
+    16.23329,
+    -61.5028,
+    16.23329
+],
+  "geometry": {"coordinates":[-61.5028,16.23329],"type":"Point"}
+}

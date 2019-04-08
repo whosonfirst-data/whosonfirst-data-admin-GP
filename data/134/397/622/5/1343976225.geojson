@@ -1,0 +1,70 @@
+{
+  "id": 1343976225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.46602,16.34293,-61.46602,16.34293",
+    "geom:latitude":16.34293,
+    "geom:longitude":-61.46602,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pointe a Retz",
+    "gn:country_code":"GP",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11577797,
+    "gn:latitude":16.34293,
+    "gn:longitude":-61.46602,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Pointe \u00e0 Retz",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pointe \u00e0 Retz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11577797
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"d2a36ae73b3ac782df2b3a0d569c78da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343976225,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1343976225,
+    "wof:lastmodified":1537624072,
+    "wof:name":"Pointe a Retz",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.46601999999999,
+    16.34293,
+    -61.46601999999999,
+    16.34293
+],
+  "geometry": {"coordinates":[-61.46601999999999,16.34293],"type":"Point"}
+}

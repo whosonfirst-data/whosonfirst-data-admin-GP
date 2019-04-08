@@ -1,0 +1,70 @@
+{
+  "id": 1310124215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.46503,16.27899,-61.46503,16.27899",
+    "geom:latitude":16.27899,
+    "geom:longitude":-61.46503,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mascou",
+    "gn:country_code":"GP",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11546852,
+    "gn:latitude":16.27899,
+    "gn:longitude":-61.46503,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Mascou",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mascou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546852
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"3bb595739c1651d76e8cdfe7066f7f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310124215,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1310124215,
+    "wof:lastmodified":1537624052,
+    "wof:name":"Mascou",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.46503000000001,
+    16.27899,
+    -61.46503000000001,
+    16.27899
+],
+  "geometry": {"coordinates":[-61.46503000000001,16.27899],"type":"Point"}
+}

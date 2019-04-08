@@ -1,0 +1,64 @@
+{
+  "id": 1209116229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.37927,16.27792,-61.37927,16.27792",
+    "geom:latitude":16.27792,
+    "geom:longitude":-61.37927,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Moulin Dupaty",
+    "gn:country_code":"GP",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11563281,
+    "gn:latitude":16.27792,
+    "gn:longitude":-61.37927,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Moulin Dupaty",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Moulin Dupaty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11563281
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"949e15cb1e44de843103599c2d55c4f6",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209116229,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209116229,
+    "wof:lastmodified":1537624053,
+    "wof:name":"Moulin Dupaty",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.37927,
+    16.27792,
+    -61.37927,
+    16.27792
+],
+  "geometry": {"coordinates":[-61.37927,16.27792],"type":"Point"}
+}

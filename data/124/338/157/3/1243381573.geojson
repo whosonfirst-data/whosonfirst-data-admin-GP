@@ -1,0 +1,70 @@
+{
+  "id": 1243381573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.66509,16.2402,-61.66509,16.2402",
+    "geom:latitude":16.2402,
+    "geom:longitude":-61.66509,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Paul",
+    "gn:country_code":"GP",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11542290,
+    "gn:latitude":16.2402,
+    "gn:longitude":-61.66509,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Paul",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Paul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542290
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"70cfed83e838438c3c8976c4dd138c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1243381573,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1243381573,
+    "wof:lastmodified":1537624032,
+    "wof:name":"Paul",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.66509,
+    16.2402,
+    -61.66509,
+    16.2402
+],
+  "geometry": {"coordinates":[-61.66509,16.2402],"type":"Point"}
+}

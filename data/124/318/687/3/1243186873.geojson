@@ -1,0 +1,70 @@
+{
+  "id": 1243186873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.47737,16.227,-61.47737,16.227",
+    "geom:latitude":16.227,
+    "geom:longitude":-61.47737,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tombeau",
+    "gn:country_code":"GP",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11546758,
+    "gn:latitude":16.227,
+    "gn:longitude":-61.47737,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Tombeau",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tombeau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546758
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"252be89d3e03f8a0de04871b33a1c3c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1243186873,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1243186873,
+    "wof:lastmodified":1537624051,
+    "wof:name":"Tombeau",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.47736999999999,
+    16.227,
+    -61.47736999999999,
+    16.227
+],
+  "geometry": {"coordinates":[-61.47736999999999,16.227],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360103043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.77522,16.33505,-61.77522,16.33505",
+    "geom:latitude":16.33505,
+    "geom:longitude":-61.77522,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Rate",
+    "gn:country_code":"GP",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11542044,
+    "gn:latitude":16.33505,
+    "gn:longitude":-61.77522,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"La Rate",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Rate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542044
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"0ce07edc8f7313c3e9f3f53b1e777c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1360103043,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1360103043,
+    "wof:lastmodified":1537624029,
+    "wof:name":"La Rate",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.77522,
+    16.33505,
+    -61.77522,
+    16.33505
+],
+  "geometry": {"coordinates":[-61.77522,16.33505],"type":"Point"}
+}

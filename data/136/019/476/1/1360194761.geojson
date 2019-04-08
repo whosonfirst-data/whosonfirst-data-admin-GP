@@ -1,0 +1,70 @@
+{
+  "id": 1360194761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.73636,16.08368,-61.73636,16.08368",
+    "geom:latitude":16.08368,
+    "geom:longitude":-61.73636,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Petit Bel-Air",
+    "gn:country_code":"GP",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11543899,
+    "gn:latitude":16.08368,
+    "gn:longitude":-61.73636,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Petit Bel-Air",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Petit Bel-Air"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543899
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"104ac92f536a85b0236c5de7eecef20e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1360194761,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1360194761,
+    "wof:lastmodified":1537624037,
+    "wof:name":"Petit Bel-Air",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.73636,
+    16.08368,
+    -61.73636,
+    16.08368
+],
+  "geometry": {"coordinates":[-61.73636,16.08368],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310223229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.23975,15.89369,-61.23975,15.89369",
+    "geom:latitude":15.89369,
+    "geom:longitude":-61.23975,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pichery",
+    "gn:country_code":"GP",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578630,
+    "gn:latitude":15.89369,
+    "gn:longitude":-61.23975,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Pichery",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pichery"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578630
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"abcf70b8995cc232b5d23dc2a1191b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310223229,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1310223229,
+    "wof:lastmodified":1537624011,
+    "wof:name":"Pichery",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.23975,
+    15.89369,
+    -61.23975,
+    15.89369
+],
+  "geometry": {"coordinates":[-61.23975,15.89369],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243205967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.70924,15.98874,-61.70924,15.98874",
+    "geom:latitude":15.98874,
+    "geom:longitude":-61.70924,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9711.0",
+    "gn:admin4_code":"97109.0",
+    "gn:asciiname":"Bisdary",
+    "gn:country_code":"GP",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579686,
+    "gn:latitude":15.98874,
+    "gn:longitude":-61.70924,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Bisdary",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bisdary"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579686
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"c5d5aad974a9d34f96a4c8a133903ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243205967,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243205967,
+    "wof:lastmodified":1537624021,
+    "wof:name":"Bisdary",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.70924,
+    15.98874,
+    -61.70924,
+    15.98874
+],
+  "geometry": {"coordinates":[-61.70924,15.98874],"type":"Point"}
+}

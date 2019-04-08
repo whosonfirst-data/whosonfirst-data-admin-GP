@@ -1,0 +1,70 @@
+{
+  "id": 1259419661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.43333,16.4,-61.43333,16.4",
+    "geom:latitude":16.4,
+    "geom:longitude":-61.43333,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9712.0",
+    "gn:admin4_code":"97119.0",
+    "gn:asciiname":"Lacroix",
+    "gn:country_code":"GP",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579052,
+    "gn:latitude":16.4,
+    "gn:longitude":-61.43333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lacroix",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579052
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"593ffb18a084d3e3c40f4db3651d662a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259419661,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1259419661,
+    "wof:lastmodified":1536950589,
+    "wof:name":"Lacroix",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.43333000000001,
+    16.4,
+    -61.43333000000001,
+    16.4
+],
+  "geometry": {"coordinates":[-61.43333000000001,16.4],"type":"Point"}
+}

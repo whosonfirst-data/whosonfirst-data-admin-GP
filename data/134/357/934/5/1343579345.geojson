@@ -1,0 +1,70 @@
+{
+  "id": 1343579345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.58985,16.18662,-61.58985,16.18662",
+    "geom:latitude":16.18662,
+    "geom:longitude":-61.58985,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bovis",
+    "gn:country_code":"GP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11546571,
+    "gn:latitude":16.18662,
+    "gn:longitude":-61.58985,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Bovis",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bovis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546571
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"c4650f288291a4686f2153d8e2fa2ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343579345,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1343579345,
+    "wof:lastmodified":1537624046,
+    "wof:name":"Bovis",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.58985,
+    16.18662,
+    -61.58985,
+    16.18662
+],
+  "geometry": {"coordinates":[-61.58985,16.18662],"type":"Point"}
+}

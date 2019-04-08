@@ -1,0 +1,70 @@
+{
+  "id": 1293302667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.62024,16.20038,-61.62024,16.20038",
+    "geom:latitude":16.20038,
+    "geom:longitude":-61.62024,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Roche Blanche",
+    "gn:country_code":"GP",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11541025,
+    "gn:latitude":16.20038,
+    "gn:longitude":-61.62024,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Roche Blanche",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Roche Blanche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11541025
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"46b4b0c02a8cd22232f7b0221fd8eb18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293302667,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1293302667,
+    "wof:lastmodified":1537624024,
+    "wof:name":"Roche Blanche",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.62024,
+    16.20038,
+    -61.62024,
+    16.20038
+],
+  "geometry": {"coordinates":[-61.62024,16.20038],"type":"Point"}
+}

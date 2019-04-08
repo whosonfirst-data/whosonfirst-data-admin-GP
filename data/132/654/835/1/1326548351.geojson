@@ -1,0 +1,70 @@
+{
+  "id": 1326548351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.42563,16.43013,-61.42563,16.43013",
+    "geom:latitude":16.43013,
+    "geom:longitude":-61.42563,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bonneveine",
+    "gn:country_code":"GP",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11577610,
+    "gn:latitude":16.43013,
+    "gn:longitude":-61.42563,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bonneveine",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bonneveine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11577610
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"6c943517517e5c226b29383c5c2aa570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1326548351,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1326548351,
+    "wof:lastmodified":1537624071,
+    "wof:name":"Bonneveine",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.42563000000001,
+    16.43013,
+    -61.42563000000001,
+    16.43013
+],
+  "geometry": {"coordinates":[-61.42563000000001,16.43013],"type":"Point"}
+}

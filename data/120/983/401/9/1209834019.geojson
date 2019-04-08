@@ -1,0 +1,70 @@
+{
+  "id": 1209834019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.43225,16.36306,-61.43225,16.36306",
+    "geom:latitude":16.36306,
+    "geom:longitude":-61.43225,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bon Air",
+    "gn:country_code":"GP",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11577307,
+    "gn:latitude":16.36306,
+    "gn:longitude":-61.43225,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bon Air",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bon Air"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11577307
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"6f8d06be611f828c8b590028588552be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1209834019,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209834019,
+    "wof:lastmodified":1537624070,
+    "wof:name":"Bon Air",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.43225,
+    16.36306,
+    -61.43225,
+    16.36306
+],
+  "geometry": {"coordinates":[-61.43225,16.36306],"type":"Point"}
+}

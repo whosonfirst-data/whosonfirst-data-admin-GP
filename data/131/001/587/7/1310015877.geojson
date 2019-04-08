@@ -1,0 +1,64 @@
+{
+  "id": 1310015877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.56044,16.05365,-61.56044,16.05365",
+    "geom:latitude":16.05365,
+    "geom:longitude":-61.56044,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Petit Perou",
+    "gn:country_code":"GP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11544988,
+    "gn:latitude":16.05365,
+    "gn:longitude":-61.56044,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Petit P\u00e9rou",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Petit P\u00e9rou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11544988
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"a4656525568ab0185a1f52cb868b9b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310015877,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310015877,
+    "wof:lastmodified":1537624040,
+    "wof:name":"Petit Perou",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.56044,
+    16.05365,
+    -61.56044,
+    16.05365
+],
+  "geometry": {"coordinates":[-61.56044,16.05365],"type":"Point"}
+}

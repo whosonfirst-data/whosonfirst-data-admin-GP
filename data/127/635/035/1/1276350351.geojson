@@ -1,0 +1,70 @@
+{
+  "id": 1276350351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.48673,16.28257,-61.48673,16.28257",
+    "geom:latitude":16.28257,
+    "geom:longitude":-61.48673,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tamarin",
+    "gn:country_code":"GP",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11546718,
+    "gn:latitude":16.28257,
+    "gn:longitude":-61.48673,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Tamarin",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tamarin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546718
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"50c02941a124600f8df207d03f05eeb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276350351,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1276350351,
+    "wof:lastmodified":1537624049,
+    "wof:name":"Tamarin",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.48673,
+    16.28257,
+    -61.48673,
+    16.28257
+],
+  "geometry": {"coordinates":[-61.48673,16.28257],"type":"Point"}
+}

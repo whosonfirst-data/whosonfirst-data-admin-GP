@@ -1,0 +1,64 @@
+{
+  "id": 1344167083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.09279,16.30033,-61.09279,16.30033",
+    "geom:latitude":16.30033,
+    "geom:longitude":-61.09279,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Ramee",
+    "gn:country_code":"GP",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11572285,
+    "gn:latitude":16.30033,
+    "gn:longitude":-61.09279,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"La Ram\u00e9e",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Ram\u00e9e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11572285
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"89683876f290d73032776dc1ef213913",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344167083,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344167083,
+    "wof:lastmodified":1537624068,
+    "wof:name":"La Ramee",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.09279,
+    16.30033,
+    -61.09279,
+    16.30033
+],
+  "geometry": {"coordinates":[-61.09279,16.30033],"type":"Point"}
+}

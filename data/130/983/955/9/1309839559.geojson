@@ -1,0 +1,73 @@
+{
+  "id": 1309839559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.26689,15.99781,-61.26689,15.99781",
+    "geom:latitude":15.99781,
+    "geom:longitude":-61.26689,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9712.0",
+    "gn:admin4_code":"97126.0",
+    "gn:asciiname":"Maletie",
+    "gn:country_code":"GP",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578874,
+    "gn:latitude":15.99781,
+    "gn:longitude":-61.26689,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Maletie",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Maletie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578874
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"e57902715e9867ef34fd95b5c281ce7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1309839559,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1309839559,
+    "wof:lastmodified":1537624013,
+    "wof:name":"Maletie",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.26689,
+    15.99781,
+    -61.26689,
+    15.99781
+],
+  "geometry": {"coordinates":[-61.26689,15.99781],"type":"Point"}
+}

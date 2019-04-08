@@ -1,0 +1,75 @@
+{
+  "id": 1327063821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.27647,16.29478,-61.27647,16.29478",
+    "geom:latitude":16.29478,
+    "geom:longitude":-61.27647,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9712.0",
+    "gn:admin4_code":"97125.0",
+    "gn:asciiname":"Vezoux",
+    "gn:country_code":"GP",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578296,
+    "gn:latitude":16.29478,
+    "gn:longitude":-61.27647,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Vezoux",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00e9union",
+        "Vezou",
+        "Vezoux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578296
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"8e04c4e0ae255c25ea13c8a8f80c2f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1327063821,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1327063821,
+    "wof:lastmodified":1537624008,
+    "wof:name":"Vezoux",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.27647,
+    16.29478,
+    -61.27647,
+    16.29478
+],
+  "geometry": {"coordinates":[-61.27647,16.29478],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209115983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.75205,16.22975,-61.75205,16.22975",
+    "geom:latitude":16.22975,
+    "geom:longitude":-61.75205,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"L'Esperance",
+    "gn:country_code":"GP",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11542207,
+    "gn:latitude":16.22975,
+    "gn:longitude":-61.75205,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"L\u2019Esp\u00e9rance",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "L\u2019Esp\u00e9rance"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542207
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"79b59fa73a9fe135585559d078472ef3",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209115983,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209115983,
+    "wof:lastmodified":1537624030,
+    "wof:name":"L'Esperance",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.75205,
+    16.22975,
+    -61.75205,
+    16.22975
+],
+  "geometry": {"coordinates":[-61.75205,16.22975],"type":"Point"}
+}

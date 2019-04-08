@@ -1,0 +1,70 @@
+{
+  "id": 1193151495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.2539,15.98476,-61.2539,15.98476",
+    "geom:latitude":15.98476,
+    "geom:longitude":-61.2539,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Martin",
+    "gn:country_code":"GP",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567875,
+    "gn:latitude":15.98476,
+    "gn:longitude":-61.2539,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Martin",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Martin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567875
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"8f7e65309234261aa2c625b1329f056b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1193151495,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1193151495,
+    "wof:lastmodified":1537624059,
+    "wof:name":"Martin",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.2539,
+    15.98476,
+    -61.2539,
+    15.98476
+],
+  "geometry": {"coordinates":[-61.2539,15.98476],"type":"Point"}
+}

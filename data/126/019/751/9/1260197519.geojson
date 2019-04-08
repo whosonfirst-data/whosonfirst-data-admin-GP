@@ -1,0 +1,70 @@
+{
+  "id": 1260197519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.49903,16.24598,-61.49903,16.24598",
+    "geom:latitude":16.24598,
+    "geom:longitude":-61.49903,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Medaille",
+    "gn:country_code":"GP",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11546696,
+    "gn:latitude":16.24598,
+    "gn:longitude":-61.49903,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"M\u00e9daille",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "M\u00e9daille"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546696
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"5ef7fcca861a9224193ed6b87061a4b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1260197519,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1260197519,
+    "wof:lastmodified":1537624049,
+    "wof:name":"Medaille",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.49903000000001,
+    16.24598,
+    -61.49903000000001,
+    16.24598
+],
+  "geometry": {"coordinates":[-61.49903000000001,16.24598],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293218547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.44453,16.40034,-61.44453,16.40034",
+    "geom:latitude":16.40034,
+    "geom:longitude":-61.44453,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Duval",
+    "gn:country_code":"GP",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11577285,
+    "gn:latitude":16.40034,
+    "gn:longitude":-61.44453,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Duval",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Duval"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11577285
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"bf10e71265e7e5bcfe2230c1db5bce72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293218547,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1293218547,
+    "wof:lastmodified":1537624069,
+    "wof:name":"Duval",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.44453000000001,
+    16.40034,
+    -61.44453000000001,
+    16.40034
+],
+  "geometry": {"coordinates":[-61.44453000000001,16.40034],"type":"Point"}
+}

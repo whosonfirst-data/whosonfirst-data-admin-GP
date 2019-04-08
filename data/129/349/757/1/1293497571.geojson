@@ -1,0 +1,70 @@
+{
+  "id": 1293497571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.45044,16.24792,-61.45044,16.24792",
+    "geom:latitude":16.24792,
+    "geom:longitude":-61.45044,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fond Homard",
+    "gn:country_code":"GP",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11566508,
+    "gn:latitude":16.24792,
+    "gn:longitude":-61.45044,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Fond Homard",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fond Homard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11566508
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"d980ab7be1c162e24b8ba75461cbe180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293497571,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1293497571,
+    "wof:lastmodified":1537624058,
+    "wof:name":"Fond Homard",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.45044,
+    16.24792,
+    -61.45044,
+    16.24792
+],
+  "geometry": {"coordinates":[-61.45044,16.24792],"type":"Point"}
+}

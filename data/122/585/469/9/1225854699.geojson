@@ -1,0 +1,70 @@
+{
+  "id": 1225854699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.56275,16.0765,-61.56275,16.0765",
+    "geom:latitude":16.0765,
+    "geom:longitude":-61.56275,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Doyon",
+    "gn:country_code":"GP",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11543847,
+    "gn:latitude":16.0765,
+    "gn:longitude":-61.56275,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Doyon",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Doyon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543847
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"11f7bf40d07fff18a0e991cfb0ef443e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1225854699,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1225854699,
+    "wof:lastmodified":1537624036,
+    "wof:name":"Doyon",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.56275,
+    16.0765,
+    -61.56275,
+    16.0765
+],
+  "geometry": {"coordinates":[-61.56275,16.0765],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243182167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.42813,16.21932,-61.42813,16.21932",
+    "geom:latitude":16.21932,
+    "geom:longitude":-61.42813,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Beline",
+    "gn:country_code":"GP",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11563304,
+    "gn:latitude":16.21932,
+    "gn:longitude":-61.42813,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"B\u00e9line",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00e9line"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11563304
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"9d441806f6b072b148c6828305f4daf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1243182167,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1243182167,
+    "wof:lastmodified":1537624054,
+    "wof:name":"Beline",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.42813,
+    16.21932,
+    -61.42813,
+    16.21932
+],
+  "geometry": {"coordinates":[-61.42813,16.21932],"type":"Point"}
+}

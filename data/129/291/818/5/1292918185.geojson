@@ -1,0 +1,70 @@
+{
+  "id": 1292918185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.35275,16.23921,-61.35275,16.23921",
+    "geom:latitude":16.23921,
+    "geom:longitude":-61.35275,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bois Jolan",
+    "gn:country_code":"GP",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11571729,
+    "gn:latitude":16.23921,
+    "gn:longitude":-61.35275,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bois Jolan",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bois Jolan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11571729
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"e67bef0745427634aea3d3bdb61b0788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1292918185,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1292918185,
+    "wof:lastmodified":1537624066,
+    "wof:name":"Bois Jolan",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.35275,
+    16.23921,
+    -61.35275,
+    16.23921
+],
+  "geometry": {"coordinates":[-61.35275,16.23921],"type":"Point"}
+}

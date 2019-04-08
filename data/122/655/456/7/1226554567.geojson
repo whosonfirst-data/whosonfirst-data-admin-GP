@@ -1,0 +1,70 @@
+{
+  "id": 1226554567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.31199,16.24459,-61.31199,16.24459",
+    "geom:latitude":16.24459,
+    "geom:longitude":-61.31199,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Daube",
+    "gn:country_code":"GP",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11571290,
+    "gn:latitude":16.24459,
+    "gn:longitude":-61.31199,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Daube",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Daube"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11571290
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"1774f95cc3ef33c1d2655c105bc0ded6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226554567,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1226554567,
+    "wof:lastmodified":1537624065,
+    "wof:name":"Daube",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.31199,
+    16.24459,
+    -61.31199,
+    16.24459
+],
+  "geometry": {"coordinates":[-61.31199,16.24459],"type":"Point"}
+}

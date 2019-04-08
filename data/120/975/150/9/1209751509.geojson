@@ -1,0 +1,75 @@
+{
+  "id": 1209751509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.36667,16.31667,-61.36667,16.31667",
+    "geom:latitude":16.31667,
+    "geom:longitude":-61.36667,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9712.0",
+    "gn:admin4_code":"97117.0",
+    "gn:asciiname":"La Martiniere",
+    "gn:cc2":"GP",
+    "gn:country_code":"GP",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579025,
+    "gn:latitude":16.31667,
+    "gn:longitude":-61.36667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"La Martini\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Martiniere",
+        "La Martini\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579025
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"3fe414dea237f609f1df49eb92b2f2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1209751509,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209751509,
+    "wof:lastmodified":1537624015,
+    "wof:name":"La Martiniere",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.36666999999999,
+    16.31667,
+    -61.36666999999999,
+    16.31667
+],
+  "geometry": {"coordinates":[-61.36666999999999,16.31667],"type":"Point"}
+}

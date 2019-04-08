@@ -1,0 +1,64 @@
+{
+  "id": 1209928927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.77556,16.1716,-61.77556,16.1716",
+    "geom:latitude":16.1716,
+    "geom:longitude":-61.77556,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Malendure",
+    "gn:country_code":"GP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11541976,
+    "gn:latitude":16.1716,
+    "gn:longitude":-61.77556,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Malendure",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Malendure"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11541976
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"12b510f6a47b4dee20e809672a673b7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209928927,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209928927,
+    "wof:lastmodified":1537624028,
+    "wof:name":"Malendure",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.77556,
+    16.1716,
+    -61.77556,
+    16.1716
+],
+  "geometry": {"coordinates":[-61.77556,16.1716],"type":"Point"}
+}

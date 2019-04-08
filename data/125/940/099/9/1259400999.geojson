@@ -1,0 +1,70 @@
+{
+  "id": 1259400999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.4744,16.21857,-61.4744,16.21857",
+    "geom:latitude":16.21857,
+    "geom:longitude":-61.4744,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Frechou",
+    "gn:country_code":"GP",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11546760,
+    "gn:latitude":16.21857,
+    "gn:longitude":-61.4744,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"La Fr\u00e9chou",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Fr\u00e9chou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546760
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"b7fd0cee7900507e49496b917118ce88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259400999,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1259400999,
+    "wof:lastmodified":1537624051,
+    "wof:name":"La Frechou",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.4744,
+    16.21857,
+    -61.4744,
+    16.21857
+],
+  "geometry": {"coordinates":[-61.4744,16.21857],"type":"Point"}
+}

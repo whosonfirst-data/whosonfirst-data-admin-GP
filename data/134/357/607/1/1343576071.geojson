@@ -1,0 +1,70 @@
+{
+  "id": 1343576071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.7316,16.06737,-61.7316,16.06737",
+    "geom:latitude":16.06737,
+    "geom:longitude":-61.7316,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Vitalis",
+    "gn:country_code":"GP",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11544148,
+    "gn:latitude":16.06737,
+    "gn:longitude":-61.7316,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Vitalis",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vitalis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11544148
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"c7d97772d3021a5fb7e29f31d429eaa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343576071,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1343576071,
+    "wof:lastmodified":1537624039,
+    "wof:name":"Vitalis",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.7316,
+    16.06737,
+    -61.7316,
+    16.06737
+],
+  "geometry": {"coordinates":[-61.7316,16.06737],"type":"Point"}
+}

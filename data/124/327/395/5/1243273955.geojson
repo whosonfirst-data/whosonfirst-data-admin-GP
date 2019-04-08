@@ -1,0 +1,70 @@
+{
+  "id": 1243273955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.45931,16.30304,-61.45931,16.30304",
+    "geom:latitude":16.30304,
+    "geom:longitude":-61.45931,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bourdon",
+    "gn:country_code":"GP",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11547155,
+    "gn:latitude":16.30304,
+    "gn:longitude":-61.45931,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Bourdon",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bourdon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11547155
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"754a5322a0593533a8d989497bd6b6b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1243273955,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1243273955,
+    "wof:lastmodified":1537624052,
+    "wof:name":"Bourdon",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.45931,
+    16.30304,
+    -61.45931,
+    16.30304
+],
+  "geometry": {"coordinates":[-61.45931,16.30304],"type":"Point"}
+}

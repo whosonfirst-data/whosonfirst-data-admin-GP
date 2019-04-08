@@ -1,0 +1,70 @@
+{
+  "id": 1276137455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.49381,16.21869,-61.49381,16.21869",
+    "geom:latitude":16.21869,
+    "geom:longitude":-61.49381,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Bouaye",
+    "gn:country_code":"GP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11546700,
+    "gn:latitude":16.21869,
+    "gn:longitude":-61.49381,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"La Bouaye",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Bouaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546700
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"93c77124d19cbbc9421b22cff7f41e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276137455,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1276137455,
+    "wof:lastmodified":1537624049,
+    "wof:name":"La Bouaye",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.49381,
+    16.21869,
+    -61.49381,
+    16.21869
+],
+  "geometry": {"coordinates":[-61.49381,16.21869],"type":"Point"}
+}

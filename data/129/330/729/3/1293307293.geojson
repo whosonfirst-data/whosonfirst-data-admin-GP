@@ -1,0 +1,70 @@
+{
+  "id": 1293307293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.71494,16.31569,-61.71494,16.31569",
+    "geom:latitude":16.31569,
+    "geom:longitude":-61.71494,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jobeti",
+    "gn:country_code":"GP",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11542880,
+    "gn:latitude":16.31569,
+    "gn:longitude":-61.71494,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Job\u00e9ti",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Job\u00e9ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542880
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"57f616923e89e326e0a4e950618472a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293307293,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1293307293,
+    "wof:lastmodified":1537624033,
+    "wof:name":"Jobeti",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.71494000000001,
+    16.31569,
+    -61.71494000000001,
+    16.31569
+],
+  "geometry": {"coordinates":[-61.71494000000001,16.31569],"type":"Point"}
+}

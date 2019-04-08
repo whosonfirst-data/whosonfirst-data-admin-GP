@@ -1,0 +1,64 @@
+{
+  "id": 1209022541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.30219,15.98335,-61.30219,15.98335",
+    "geom:latitude":15.98335,
+    "geom:longitude":-61.30219,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Massicot",
+    "gn:country_code":"GP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11568445,
+    "gn:latitude":15.98335,
+    "gn:longitude":-61.30219,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Massicot",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Massicot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11568445
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"02f8b50cbfa5bf564aa999da45ddc79e",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209022541,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209022541,
+    "wof:lastmodified":1537624063,
+    "wof:name":"Massicot",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.30219,
+    15.98335,
+    -61.30219,
+    15.98335
+],
+  "geometry": {"coordinates":[-61.30219,15.98335],"type":"Point"}
+}

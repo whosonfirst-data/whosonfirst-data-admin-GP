@@ -1,0 +1,70 @@
+{
+  "id": 1193030609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.38713,16.33235,-61.38713,16.33235",
+    "geom:latitude":16.33235,
+    "geom:longitude":-61.38713,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Houssaie",
+    "gn:country_code":"GP",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11563348,
+    "gn:latitude":16.33235,
+    "gn:longitude":-61.38713,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"La Houssaie",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Houssaie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11563348
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"be1149cf6d89da347b79176958946913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1193030609,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1193030609,
+    "wof:lastmodified":1537624055,
+    "wof:name":"La Houssaie",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.38713000000001,
+    16.33235,
+    -61.38713000000001,
+    16.33235
+],
+  "geometry": {"coordinates":[-61.38713000000001,16.33235],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209629733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.61381,16.20151,-61.61381,16.20151",
+    "geom:latitude":16.20151,
+    "geom:longitude":-61.61381,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Clede",
+    "gn:country_code":"GP",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11541030,
+    "gn:latitude":16.20151,
+    "gn:longitude":-61.61381,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Cl\u00e8de",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cl\u00e8de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11541030
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"c65229faf29678a82d3d720e78f61d9f",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209629733,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209629733,
+    "wof:lastmodified":1537624024,
+    "wof:name":"Clede",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.61381,
+    16.20151,
+    -61.61381,
+    16.20151
+],
+  "geometry": {"coordinates":[-61.61381,16.20151],"type":"Point"}
+}

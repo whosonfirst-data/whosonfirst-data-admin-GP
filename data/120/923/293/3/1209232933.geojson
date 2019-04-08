@@ -1,0 +1,64 @@
+{
+  "id": 1209232933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.70572,16.2789,-61.70572,16.2789",
+    "geom:latitude":16.2789,
+    "geom:longitude":-61.70572,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Latour-Santeuil",
+    "gn:country_code":"GP",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11542897,
+    "gn:latitude":16.2789,
+    "gn:longitude":-61.70572,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Latour-Santeuil",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Latour-Santeuil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542897
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"eda9e130b2730e88beea7f33df21610e",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209232933,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209232933,
+    "wof:lastmodified":1537624033,
+    "wof:name":"Latour-Santeuil",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.70571999999999,
+    16.2789,
+    -61.70571999999999,
+    16.2789
+],
+  "geometry": {"coordinates":[-61.70571999999999,16.2789],"type":"Point"}
+}

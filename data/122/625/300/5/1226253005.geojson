@@ -1,0 +1,64 @@
+{
+  "id": 1226253005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.7709,16.10724,-61.7709,16.10724",
+    "geom:latitude":16.10724,
+    "geom:longitude":-61.7709,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bord de Mer",
+    "gn:country_code":"GP",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11543809,
+    "gn:latitude":16.10724,
+    "gn:longitude":-61.7709,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Bord de Mer",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bord de Mer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543809
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"c098df3dbb6d28043da6d2e1a54234aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226253005,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226253005,
+    "wof:lastmodified":1537624035,
+    "wof:name":"Bord de Mer",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.7709,
+    16.10724,
+    -61.7709,
+    16.10724
+],
+  "geometry": {"coordinates":[-61.7709,16.10724],"type":"Point"}
+}

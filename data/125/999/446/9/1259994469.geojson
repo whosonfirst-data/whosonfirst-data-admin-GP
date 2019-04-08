@@ -1,0 +1,70 @@
+{
+  "id": 1259994469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.65595,16.26537,-61.65595,16.26537",
+    "geom:latitude":16.26537,
+    "geom:longitude":-61.65595,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jaula",
+    "gn:country_code":"GP",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11542240,
+    "gn:latitude":16.26537,
+    "gn:longitude":-61.65595,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Jaula",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jaula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542240
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"8a6ae1784dac6b0328403b2769a311c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259994469,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1259994469,
+    "wof:lastmodified":1537624031,
+    "wof:name":"Jaula",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.65595,
+    16.26537,
+    -61.65595,
+    16.26537
+],
+  "geometry": {"coordinates":[-61.65595,16.26537],"type":"Point"}
+}

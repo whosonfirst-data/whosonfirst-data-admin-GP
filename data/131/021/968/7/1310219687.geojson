@@ -1,0 +1,70 @@
+{
+  "id": 1310219687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.76358,16.07317,-61.76358,16.07317",
+    "geom:latitude":16.07317,
+    "geom:longitude":-61.76358,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Morne a Jules",
+    "gn:country_code":"GP",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11543819,
+    "gn:latitude":16.07317,
+    "gn:longitude":-61.76358,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Morne \u00e0 Jules",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Morne \u00e0 Jules"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543819
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"1f1e0e579127f696136720e24ba05531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310219687,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1310219687,
+    "wof:lastmodified":1537624035,
+    "wof:name":"Morne a Jules",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.76358000000001,
+    16.07317,
+    -61.76358000000001,
+    16.07317
+],
+  "geometry": {"coordinates":[-61.76358000000001,16.07317],"type":"Point"}
+}

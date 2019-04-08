@@ -1,0 +1,70 @@
+{
+  "id": 1225962361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.44417,16.31594,-61.44417,16.31594",
+    "geom:latitude":16.31594,
+    "geom:longitude":-61.44417,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jabrun Saint-Cyr",
+    "gn:country_code":"GP",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567030,
+    "gn:latitude":16.31594,
+    "gn:longitude":-61.44417,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Jabrun Saint-Cyr",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jabrun Saint-Cyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567030
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"bf804ba8aad4e652060268358f79eed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1225962361,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1225962361,
+    "wof:lastmodified":1537624059,
+    "wof:name":"Jabrun Saint-Cyr",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.44416999999999,
+    16.31594,
+    -61.44416999999999,
+    16.31594
+],
+  "geometry": {"coordinates":[-61.44416999999999,16.31594],"type":"Point"}
+}

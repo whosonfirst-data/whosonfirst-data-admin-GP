@@ -1,0 +1,70 @@
+{
+  "id": 1242692435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.01525,16.34447,-61.01525,16.34447",
+    "geom:latitude":16.34447,
+    "geom:longitude":-61.01525,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Le Grand Abaque",
+    "gn:country_code":"GP",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11572308,
+    "gn:latitude":16.34447,
+    "gn:longitude":-61.01525,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Le Grand Abaque",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Le Grand Abaque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11572308
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"2224462c059b282077acd68b177b225c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1242692435,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1242692435,
+    "wof:lastmodified":1537624068,
+    "wof:name":"Le Grand Abaque",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.01525,
+    16.34447,
+    -61.01525,
+    16.34447
+],
+  "geometry": {"coordinates":[-61.01525,16.34447],"type":"Point"}
+}

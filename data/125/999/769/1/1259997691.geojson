@@ -1,0 +1,70 @@
+{
+  "id": 1259997691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.68085,16.00585,-61.68085,16.00585",
+    "geom:latitude":16.00585,
+    "geom:longitude":-61.68085,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Plateau du Palmiste",
+    "gn:country_code":"GP",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545125,
+    "gn:latitude":16.00585,
+    "gn:longitude":-61.68085,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Plateau du Palmiste",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Plateau du Palmiste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545125
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"e2538967ce8957c3053f1f842d33cbc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259997691,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1259997691,
+    "wof:lastmodified":1537624040,
+    "wof:name":"Plateau du Palmiste",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.68085,
+    16.00585,
+    -61.68085,
+    16.00585
+],
+  "geometry": {"coordinates":[-61.68085,16.00585],"type":"Point"}
+}

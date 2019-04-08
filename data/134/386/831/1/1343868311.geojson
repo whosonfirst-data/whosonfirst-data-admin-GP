@@ -1,0 +1,70 @@
+{
+  "id": 1343868311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.65366,15.97195,-61.65366,15.97195",
+    "geom:latitude":15.97195,
+    "geom:longitude":-61.65366,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Le Faubourg",
+    "gn:country_code":"GP",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545414,
+    "gn:latitude":15.97195,
+    "gn:longitude":-61.65366,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Le Faubourg",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Le Faubourg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545414
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"29b0cbb9475df6dd5dbe88eedb9be97f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343868311,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1343868311,
+    "wof:lastmodified":1537624044,
+    "wof:name":"Le Faubourg",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.65366,
+    15.97195,
+    -61.65366,
+    15.97195
+],
+  "geometry": {"coordinates":[-61.65366,15.97195],"type":"Point"}
+}

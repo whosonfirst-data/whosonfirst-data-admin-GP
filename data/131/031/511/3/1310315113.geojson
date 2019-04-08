@@ -1,0 +1,70 @@
+{
+  "id": 1310315113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.38705,16.24573,-61.38705,16.24573",
+    "geom:latitude":16.24573,
+    "geom:longitude":-61.38705,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Monrepos",
+    "gn:country_code":"GP",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11563390,
+    "gn:latitude":16.24573,
+    "gn:longitude":-61.38705,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Monrepos",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Monrepos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11563390
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"62d28aec99d0abf5b271861ccaa469ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310315113,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1310315113,
+    "wof:lastmodified":1537624056,
+    "wof:name":"Monrepos",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.38705,
+    16.24573,
+    -61.38705,
+    16.24573
+],
+  "geometry": {"coordinates":[-61.38705,16.24573],"type":"Point"}
+}

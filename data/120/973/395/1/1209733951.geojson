@@ -1,0 +1,70 @@
+{
+  "id": 1209733951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.59316,16.06556,-61.59316,16.06556",
+    "geom:latitude":16.06556,
+    "geom:longitude":-61.59316,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Richebois",
+    "gn:country_code":"GP",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11544821,
+    "gn:latitude":16.06556,
+    "gn:longitude":-61.59316,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Richebois",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Richebois"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11544821
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"3de04aa679b1f2b692c8a0cc0c002d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1209733951,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209733951,
+    "wof:lastmodified":1537624039,
+    "wof:name":"Richebois",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.59316,
+    16.06556,
+    -61.59316,
+    16.06556
+],
+  "geometry": {"coordinates":[-61.59316,16.06556],"type":"Point"}
+}

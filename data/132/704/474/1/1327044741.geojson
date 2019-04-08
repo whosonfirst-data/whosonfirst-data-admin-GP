@@ -1,0 +1,70 @@
+{
+  "id": 1327044741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.76715,16.32035,-61.76715,16.32035",
+    "geom:latitude":16.32035,
+    "geom:longitude":-61.76715,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Morne Cafeiere",
+    "gn:country_code":"GP",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11558186,
+    "gn:latitude":16.32035,
+    "gn:longitude":-61.76715,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Morne Caf\u00e9i\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Morne Caf\u00e9i\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558186
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"2fefcbc3a203892266f31287b497867e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1327044741,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1327044741,
+    "wof:lastmodified":1537624052,
+    "wof:name":"Morne Cafeiere",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.76715,
+    16.32035,
+    -61.76715,
+    16.32035
+],
+  "geometry": {"coordinates":[-61.76715,16.32035],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 890422909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.51667,16.23333,-61.51667,16.23333",
+    "geom:latitude":16.23333,
+    "geom:longitude":-61.51667,
+    "gn:country":"GP",
+    "gn:fcode":"ADM4",
+    "gn:pop":17408,
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pointe-\u00e0-Pitre"
+    ],
+    "name:eng_x_preferred":[
+        "Pointe-\u00e0-Pitre"
+    ],
+    "name:fra_x_preferred":[
+        "Pointe-\u00e0-Pitre"
+    ],
+    "name:gcf_x_preferred":[
+        "Lapwent"
+    ],
+    "qs:name":"Pointe-\u00e0-Pitre",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":1158,
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6690399,
+        "qs:id":643869,
+        "wd:id":"Q335322",
+        "wk:page":"Pointe-\u00e0-Pitre"
+    },
+    "wof:country":"GP",
+    "wof:created":1469051471,
+    "wof:geomhash":"e344a75b1c7131a1d115b5e17236b623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":890422909,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":890422909,
+    "wof:lastmodified":1527727158,
+    "wof:name":"Pointe-\u00e0-Pitre",
+    "wof:parent_id":85671209,
+    "wof:placetype":"localadmin",
+    "wof:population":17408,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.51667,
+    16.23333,
+    -61.51667,
+    16.23333
+],
+  "geometry": {"coordinates":[-61.51667,16.23333],"type":"Point"}
+}

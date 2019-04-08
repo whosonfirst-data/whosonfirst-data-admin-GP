@@ -1,0 +1,70 @@
+{
+  "id": 1293215195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.69793,16.04022,-61.69793,16.04022",
+    "geom:latitude":16.04022,
+    "geom:longitude":-61.69793,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sainte-Anne",
+    "gn:country_code":"GP",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545328,
+    "gn:latitude":16.04022,
+    "gn:longitude":-61.69793,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Sainte-Anne",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sainte-Anne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545328
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"a5ed0903f8d64c473b322521878b8522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293215195,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1293215195,
+    "wof:lastmodified":1537624042,
+    "wof:name":"Sainte-Anne",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.69793000000001,
+    16.04022,
+    -61.69793000000001,
+    16.04022
+],
+  "geometry": {"coordinates":[-61.69793000000001,16.04022],"type":"Point"}
+}

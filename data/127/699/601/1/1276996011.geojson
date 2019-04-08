@@ -1,0 +1,70 @@
+{
+  "id": 1276996011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.7761,16.25225,-61.7761,16.25225",
+    "geom:latitude":16.25225,
+    "geom:longitude":-61.7761,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Perou",
+    "gn:country_code":"GP",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11542732,
+    "gn:latitude":16.25225,
+    "gn:longitude":-61.7761,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"P\u00e9rou",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "P\u00e9rou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542732
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"a3c739887ef67dedbfb20c547b3bf5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276996011,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1276996011,
+    "wof:lastmodified":1537624032,
+    "wof:name":"Perou",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.7761,
+    16.25225,
+    -61.7761,
+    16.25225
+],
+  "geometry": {"coordinates":[-61.7761,16.25225],"type":"Point"}
+}

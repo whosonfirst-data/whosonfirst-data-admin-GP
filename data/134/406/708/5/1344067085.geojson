@@ -1,0 +1,70 @@
+{
+  "id": 1344067085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.76869,16.13478,-61.76869,16.13478",
+    "geom:latitude":16.13478,
+    "geom:longitude":-61.76869,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Courbaril",
+    "gn:country_code":"GP",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11541981,
+    "gn:latitude":16.13478,
+    "gn:longitude":-61.76869,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Courbaril",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Courbaril"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11541981
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"6b843a8a65e8b5adbfad1158ae2b1b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1344067085,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1344067085,
+    "wof:lastmodified":1537624028,
+    "wof:name":"Courbaril",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.76869,
+    16.13478,
+    -61.76869,
+    16.13478
+],
+  "geometry": {"coordinates":[-61.76869,16.13478],"type":"Point"}
+}

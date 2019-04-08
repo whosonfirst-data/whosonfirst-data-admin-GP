@@ -1,0 +1,64 @@
+{
+  "id": 1243572573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.65915,15.96312,-61.65915,15.96312",
+    "geom:latitude":15.96312,
+    "geom:longitude":-61.65915,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Habitation Grande Anse",
+    "gn:country_code":"GP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11559057,
+    "gn:latitude":15.96312,
+    "gn:longitude":-61.65915,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Habitation Grande Anse",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Habitation Grande Anse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11559057
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"1ad86aaddcef21543793241a50bc4b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243572573,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243572573,
+    "wof:lastmodified":1537624052,
+    "wof:name":"Habitation Grande Anse",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.65915,
+    15.96312,
+    -61.65915,
+    15.96312
+],
+  "geometry": {"coordinates":[-61.65915,15.96312],"type":"Point"}
+}

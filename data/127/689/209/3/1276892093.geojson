@@ -1,0 +1,70 @@
+{
+  "id": 1276892093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.69255,16.32802,-61.69255,16.32802",
+    "geom:latitude":16.32802,
+    "geom:longitude":-61.69255,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Doublon",
+    "gn:country_code":"GP",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11542070,
+    "gn:latitude":16.32802,
+    "gn:longitude":-61.69255,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Doublon",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Doublon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542070
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"d661c1d45d3f61b38a896aabbbc925f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276892093,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1276892093,
+    "wof:lastmodified":1537624029,
+    "wof:name":"Doublon",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.69255,
+    16.32802,
+    -61.69255,
+    16.32802
+],
+  "geometry": {"coordinates":[-61.69255,16.32802],"type":"Point"}
+}

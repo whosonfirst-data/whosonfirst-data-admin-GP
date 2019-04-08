@@ -1,0 +1,64 @@
+{
+  "id": 1293607461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.77173,16.13785,-61.77173,16.13785",
+    "geom:latitude":16.13785,
+    "geom:longitude":-61.77173,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Falaise",
+    "gn:country_code":"GP",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11541982,
+    "gn:latitude":16.13785,
+    "gn:longitude":-61.77173,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Falaise",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Falaise"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11541982
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"027d60634f8637e425520324891c4282",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293607461,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293607461,
+    "wof:lastmodified":1537624028,
+    "wof:name":"Falaise",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.77173000000001,
+    16.13785,
+    -61.77173000000001,
+    16.13785
+],
+  "geometry": {"coordinates":[-61.77173000000001,16.13785],"type":"Point"}
+}

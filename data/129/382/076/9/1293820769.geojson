@@ -1,0 +1,73 @@
+{
+  "id": 1293820769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.76421,16.22512,-61.76421,16.22512",
+    "geom:latitude":16.22512,
+    "geom:longitude":-61.76421,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9711.0",
+    "gn:admin4_code":"97121.0",
+    "gn:asciiname":"Les Plaines",
+    "gn:country_code":"GP",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578938,
+    "gn:latitude":16.22512,
+    "gn:longitude":-61.76421,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Les Plaines",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Les Plaines"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578938
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"8f526249ef7931e24e5cb51e9694d7bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293820769,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1293820769,
+    "wof:lastmodified":1537624014,
+    "wof:name":"Les Plaines",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.76421,
+    16.22512,
+    -61.76421,
+    16.22512
+],
+  "geometry": {"coordinates":[-61.76421,16.22512],"type":"Point"}
+}

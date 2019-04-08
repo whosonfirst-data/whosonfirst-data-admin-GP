@@ -1,0 +1,70 @@
+{
+  "id": 1260016071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.78839,16.2948,-61.78839,16.2948",
+    "geom:latitude":16.2948,
+    "geom:longitude":-61.78839,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9711.0",
+    "gn:admin4_code":"97111.0",
+    "gn:asciiname":"Mazeau",
+    "gn:country_code":"GP",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578818,
+    "gn:latitude":16.2948,
+    "gn:longitude":-61.78839,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mazeau",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578818
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"211890e0968971c9194a49a424a948f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1260016071,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1260016071,
+    "wof:lastmodified":1537081831,
+    "wof:name":"Mazeau",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.78839,
+    16.2948,
+    -61.78839,
+    16.2948
+],
+  "geometry": {"coordinates":[-61.78839,16.2948],"type":"Point"}
+}

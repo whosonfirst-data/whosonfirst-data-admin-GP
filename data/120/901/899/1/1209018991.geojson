@@ -1,0 +1,64 @@
+{
+  "id": 1209018991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.37444,16.24788,-61.37444,16.24788",
+    "geom:latitude":16.24788,
+    "geom:longitude":-61.37444,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Boissel",
+    "gn:country_code":"GP",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11563392,
+    "gn:latitude":16.24788,
+    "gn:longitude":-61.37444,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Boissel",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Boissel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11563392
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"aba4afa5058d2ad57fa5f968bc5eeabd",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209018991,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209018991,
+    "wof:lastmodified":1537624056,
+    "wof:name":"Boissel",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.37444,
+    16.24788,
+    -61.37444,
+    16.24788
+],
+  "geometry": {"coordinates":[-61.37444,16.24788],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276128605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.31557,15.90836,-61.31557,15.90836",
+    "geom:latitude":15.90836,
+    "geom:longitude":-61.31557,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Passonne",
+    "gn:country_code":"GP",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567899,
+    "gn:latitude":15.90836,
+    "gn:longitude":-61.31557,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Passonne",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Passonne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567899
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"20e19d99cfb1754b1ae1a112851b902f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276128605,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1276128605,
+    "wof:lastmodified":1537624060,
+    "wof:name":"Passonne",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.31557,
+    15.90836,
+    -61.31557,
+    15.90836
+],
+  "geometry": {"coordinates":[-61.31557,15.90836],"type":"Point"}
+}

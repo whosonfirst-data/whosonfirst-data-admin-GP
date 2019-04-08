@@ -1,0 +1,70 @@
+{
+  "id": 1259798277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.2894,16.28568,-61.2894,16.28568",
+    "geom:latitude":16.28568,
+    "geom:longitude":-61.2894,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Simoniere",
+    "gn:country_code":"GP",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11571780,
+    "gn:latitude":16.28568,
+    "gn:longitude":-61.2894,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"La Simoni\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Simoni\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11571780
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"459c18d43a59158174258e2c7362dfb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259798277,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1259798277,
+    "wof:lastmodified":1537624067,
+    "wof:name":"La Simoniere",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.2894,
+    16.28568,
+    -61.2894,
+    16.28568
+],
+  "geometry": {"coordinates":[-61.2894,16.28568],"type":"Point"}
+}

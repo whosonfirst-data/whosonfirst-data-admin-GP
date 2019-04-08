@@ -1,0 +1,70 @@
+{
+  "id": 1293210403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.44786,16.22521,-61.44786,16.22521",
+    "geom:latitude":16.22521,
+    "geom:longitude":-61.44786,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Grande Mare",
+    "gn:country_code":"GP",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11566516,
+    "gn:latitude":16.22521,
+    "gn:longitude":-61.44786,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Grande Mare",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Grande Mare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11566516
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"83a4fb86bdb6d90d2ecf3d0fdaed7ec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293210403,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1293210403,
+    "wof:lastmodified":1537624058,
+    "wof:name":"Grande Mare",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.44786,
+    16.22521,
+    -61.44786,
+    16.22521
+],
+  "geometry": {"coordinates":[-61.44786,16.22521],"type":"Point"}
+}

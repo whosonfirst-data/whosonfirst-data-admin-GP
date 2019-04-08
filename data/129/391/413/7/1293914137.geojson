@@ -1,0 +1,73 @@
+{
+  "id": 1293914137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.24076,15.9603,-61.24076,15.9603",
+    "geom:latitude":15.9603,
+    "geom:longitude":-61.24076,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9712.0",
+    "gn:admin4_code":"97126.0",
+    "gn:asciiname":"Grand Bassin",
+    "gn:country_code":"GP",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579253,
+    "gn:latitude":15.9603,
+    "gn:longitude":-61.24076,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Grand Bassin",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Grand Bassin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579253
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"1ed857371a865c368e613599899cc4b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293914137,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1293914137,
+    "wof:lastmodified":1537624017,
+    "wof:name":"Grand Bassin",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.24076,
+    15.9603,
+    -61.24076,
+    15.9603
+],
+  "geometry": {"coordinates":[-61.24076,15.9603],"type":"Point"}
+}

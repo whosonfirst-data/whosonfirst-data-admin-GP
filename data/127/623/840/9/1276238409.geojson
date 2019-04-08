@@ -1,0 +1,70 @@
+{
+  "id": 1276238409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.27518,15.87839,-61.27518,15.87839",
+    "geom:latitude":15.87839,
+    "geom:longitude":-61.27518,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lalane",
+    "gn:country_code":"GP",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567923,
+    "gn:latitude":15.87839,
+    "gn:longitude":-61.27518,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Lalane",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lalane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567923
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"01c3d11cf562effedc8f6e29ea274977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276238409,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1276238409,
+    "wof:lastmodified":1537624061,
+    "wof:name":"Lalane",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.27518000000001,
+    15.87839,
+    -61.27518000000001,
+    15.87839
+],
+  "geometry": {"coordinates":[-61.27518000000001,15.87839],"type":"Point"}
+}

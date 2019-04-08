@@ -1,0 +1,70 @@
+{
+  "id": 1259894509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.69071,16.04171,-61.69071,16.04171",
+    "geom:latitude":16.04171,
+    "geom:longitude":-61.69071,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Papaye",
+    "gn:country_code":"GP",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11544787,
+    "gn:latitude":16.04171,
+    "gn:longitude":-61.69071,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Papaye",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Papaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11544787
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"d32267429c661f72596d9c909e9f1442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259894509,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1259894509,
+    "wof:lastmodified":1537624039,
+    "wof:name":"Papaye",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.69071,
+    16.04171,
+    -61.69071,
+    16.04171
+],
+  "geometry": {"coordinates":[-61.69071,16.04171],"type":"Point"}
+}

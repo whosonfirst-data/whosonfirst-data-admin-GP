@@ -1,0 +1,64 @@
+{
+  "id": 1209429537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.60554,16.18233,-61.60554,16.18233",
+    "geom:latitude":16.18233,
+    "geom:longitude":-61.60554,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Saussaye",
+    "gn:country_code":"GP",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11542956,
+    "gn:latitude":16.18233,
+    "gn:longitude":-61.60554,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Saussaye",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Saussaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542956
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"52ea65c013ba344393fc9e3c5af8cfd3",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209429537,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209429537,
+    "wof:lastmodified":1537624034,
+    "wof:name":"Saussaye",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.60554000000001,
+    16.18233,
+    -61.60554000000001,
+    16.18233
+],
+  "geometry": {"coordinates":[-61.60554000000001,16.18233],"type":"Point"}
+}

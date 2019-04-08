@@ -1,0 +1,72 @@
+{
+  "id": 1125372261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.48333,16.2,-61.48333,16.2",
+    "geom:latitude":16.2,
+    "geom:longitude":-61.48333,
+    "gn:gn_country":"GP",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":27193,
+    "gn:population":27193,
+    "iso:country":"GP",
+    "lbl:latitude":16.2,
+    "lbl:longitude":-61.48333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GP",
+    "qs_pg:gn_country":"GP",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6690414,
+    "qs_pg:gn_pop":27193,
+    "qs_pg:name":"Le Gosier",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":643884,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6690414,
+        "qs_pg:id":643884
+    },
+    "wof:country":"GP",
+    "wof:created":1497047490,
+    "wof:geomhash":"c38ea0e121c57f6fe6fa603d2d90f4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1125372261,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125372261,
+    "wof:lastmodified":1509389351,
+    "wof:name":"Le Gosier",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":27193,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.48333,
+    16.2,
+    -61.48333,
+    16.2
+],
+  "geometry": {"coordinates":[-61.48333,16.2],"type":"Point"}
+}

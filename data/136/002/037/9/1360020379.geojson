@@ -1,0 +1,73 @@
+{
+  "id": 1360020379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.59575,16.188,-61.59575,16.188",
+    "geom:latitude":16.188,
+    "geom:longitude":-61.59575,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9711.0",
+    "gn:admin4_code":"97118.0",
+    "gn:asciiname":"Morne Bourg",
+    "gn:country_code":"GP",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578776,
+    "gn:latitude":16.188,
+    "gn:longitude":-61.59575,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Morne Bourg",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Morne Bourg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578776
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"d39ea725686e678993d44d07f9beb1e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1360020379,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1360020379,
+    "wof:lastmodified":1537624012,
+    "wof:name":"Morne Bourg",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.59575,
+    16.188,
+    -61.59575,
+    16.188
+],
+  "geometry": {"coordinates":[-61.59575,16.188],"type":"Point"}
+}

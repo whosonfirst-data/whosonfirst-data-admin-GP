@@ -1,0 +1,70 @@
+{
+  "id": 1259702065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.26488,15.8793,-61.26488,15.8793",
+    "geom:latitude":15.8793,
+    "geom:longitude":-61.26488,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Thibault",
+    "gn:country_code":"GP",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578341,
+    "gn:latitude":15.8793,
+    "gn:longitude":-61.26488,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Thibault",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Thibault"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578341
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"faaeb9f0249df3e05c190586bcd31cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259702065,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1259702065,
+    "wof:lastmodified":1537624008,
+    "wof:name":"Thibault",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.26488000000001,
+    15.8793,
+    -61.26488000000001,
+    15.8793
+],
+  "geometry": {"coordinates":[-61.26488000000001,15.8793],"type":"Point"}
+}

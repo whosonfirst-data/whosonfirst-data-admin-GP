@@ -1,0 +1,64 @@
+{
+  "id": 1310416057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.52782,16.22024,-61.52782,16.22024",
+    "geom:latitude":16.22024,
+    "geom:longitude":-61.52782,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Marina",
+    "gn:country_code":"GP",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11546606,
+    "gn:latitude":16.22024,
+    "gn:longitude":-61.52782,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"La Marina",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Marina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546606
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"9fc95b0b659cb62d1fdf824f99ec7d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310416057,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310416057,
+    "wof:lastmodified":1537624047,
+    "wof:name":"La Marina",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.52782,
+    16.22024,
+    -61.52782,
+    16.22024
+],
+  "geometry": {"coordinates":[-61.52782,16.22024],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 890418561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.78333,16.3,-61.78333,16.3",
+    "geom:latitude":16.3,
+    "geom:longitude":-61.78333,
+    "gn:country":"GP",
+    "gn:fcode":"ADM4",
+    "gn:pop":4322,
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Deshaies",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":1044,
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6690406,
+        "qs:id":643876,
+        "wd:id":"Q996301",
+        "wk:page":"Deshaies"
+    },
+    "wof:country":"GP",
+    "wof:created":1469051253,
+    "wof:geomhash":"35d3a06aa7c51837eeff7556ab1db5b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":890418561,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":890418561,
+    "wof:lastmodified":1527792814,
+    "wof:name":"Deshaies",
+    "wof:parent_id":85671209,
+    "wof:placetype":"localadmin",
+    "wof:population":4322,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.78333,
+    16.3,
+    -61.78333,
+    16.3
+],
+  "geometry": {"coordinates":[-61.78333,16.3],"type":"Point"}
+}

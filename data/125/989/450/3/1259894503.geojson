@@ -1,0 +1,70 @@
+{
+  "id": 1259894503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.70685,16.31687,-61.70685,16.31687",
+    "geom:latitude":16.31687,
+    "geom:longitude":-61.70685,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Massy",
+    "gn:country_code":"GP",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11542891,
+    "gn:latitude":16.31687,
+    "gn:longitude":-61.70685,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Massy",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Massy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542891
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"39a84c2c7894432124688dedc00d35bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259894503,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1259894503,
+    "wof:lastmodified":1537624033,
+    "wof:name":"Massy",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.70685,
+    16.31687,
+    -61.70685,
+    16.31687
+],
+  "geometry": {"coordinates":[-61.70685,16.31687],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209433157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.71261,16.02074,-61.71261,16.02074",
+    "geom:latitude":16.02074,
+    "geom:longitude":-61.71261,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fond Vaillant",
+    "gn:country_code":"GP",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545143,
+    "gn:latitude":16.02074,
+    "gn:longitude":-61.71261,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Fond Vaillant",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fond Vaillant"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545143
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"6226b7658cacd08ea1cbce3716caaf20",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209433157,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209433157,
+    "wof:lastmodified":1537624040,
+    "wof:name":"Fond Vaillant",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.71261,
+    16.02074,
+    -61.71261,
+    16.02074
+],
+  "geometry": {"coordinates":[-61.71261,16.02074],"type":"Point"}
+}

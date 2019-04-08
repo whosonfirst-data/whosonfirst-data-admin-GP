@@ -1,0 +1,64 @@
+{
+  "id": 1293019285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.70756,15.99457,-61.70756,15.99457",
+    "geom:latitude":15.99457,
+    "geom:longitude":-61.70756,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Vanibel",
+    "gn:country_code":"GP",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545305,
+    "gn:latitude":15.99457,
+    "gn:longitude":-61.70756,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Vanibel",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vanibel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545305
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"f3e425e2dfdc8aa873884f59704d8214",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293019285,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293019285,
+    "wof:lastmodified":1537624041,
+    "wof:name":"Vanibel",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.70756,
+    15.99457,
+    -61.70756,
+    15.99457
+],
+  "geometry": {"coordinates":[-61.70756,15.99457],"type":"Point"}
+}

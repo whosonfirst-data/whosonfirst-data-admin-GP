@@ -1,0 +1,70 @@
+{
+  "id": 1276892039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.76551,16.13163,-61.76551,16.13163",
+    "geom:latitude":16.13163,
+    "geom:longitude":-61.76551,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Rollier",
+    "gn:country_code":"GP",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11543663,
+    "gn:latitude":16.13163,
+    "gn:longitude":-61.76551,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Rollier",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Rollier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543663
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"9d1fa66354f99375a95175a98aa8dd5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276892039,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1276892039,
+    "wof:lastmodified":1537624035,
+    "wof:name":"Rollier",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.76551,
+    16.13163,
+    -61.76551,
+    16.13163
+],
+  "geometry": {"coordinates":[-61.76551,16.13163],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343373389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.45526,16.31149,-61.45526,16.31149",
+    "geom:latitude":16.31149,
+    "geom:longitude":-61.45526,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dessale",
+    "gn:country_code":"GP",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567020,
+    "gn:latitude":16.31149,
+    "gn:longitude":-61.45526,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Dessale",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dessale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567020
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"35f63a81f9b78249bdfe83d321365797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343373389,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1343373389,
+    "wof:lastmodified":1537624059,
+    "wof:name":"Dessale",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.45526,
+    16.31149,
+    -61.45526,
+    16.31149
+],
+  "geometry": {"coordinates":[-61.45526,16.31149],"type":"Point"}
+}

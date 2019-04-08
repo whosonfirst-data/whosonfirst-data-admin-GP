@@ -1,0 +1,70 @@
+{
+  "id": 1260098563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.31571,16.29536,-61.31571,16.29536",
+    "geom:latitude":16.29536,
+    "geom:longitude":-61.31571,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Letaye",
+    "gn:country_code":"GP",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11571765,
+    "gn:latitude":16.29536,
+    "gn:longitude":-61.31571,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"L\u00e9taye",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "L\u00e9taye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11571765
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"5f6997152e082bec0229068ccc05f544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1260098563,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1260098563,
+    "wof:lastmodified":1537624067,
+    "wof:name":"Letaye",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.31571,
+    16.29536,
+    -61.31571,
+    16.29536
+],
+  "geometry": {"coordinates":[-61.31571,16.29536],"type":"Point"}
+}

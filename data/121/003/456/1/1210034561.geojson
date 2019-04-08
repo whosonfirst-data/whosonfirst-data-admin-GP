@@ -1,0 +1,70 @@
+{
+  "id": 1210034561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.65341,16.25761,-61.65341,16.25761",
+    "geom:latitude":16.25761,
+    "geom:longitude":-61.65341,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Boisbert",
+    "gn:country_code":"GP",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11541051,
+    "gn:latitude":16.25761,
+    "gn:longitude":-61.65341,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Boisbert",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Boisbert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11541051
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"2742ae056ec59d203da0dfe8647134c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1210034561,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1210034561,
+    "wof:lastmodified":1537624025,
+    "wof:name":"Boisbert",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.65341,
+    16.25761,
+    -61.65341,
+    16.25761
+],
+  "geometry": {"coordinates":[-61.65341,16.25761],"type":"Point"}
+}

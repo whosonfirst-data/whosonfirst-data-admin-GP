@@ -1,0 +1,64 @@
+{
+  "id": 1293705039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.76313,16.05809,-61.76313,16.05809",
+    "geom:latitude":16.05809,
+    "geom:longitude":-61.76313,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Le Boulevard",
+    "gn:country_code":"GP",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11544135,
+    "gn:latitude":16.05809,
+    "gn:longitude":-61.76313,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Le Boulevard",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Le Boulevard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11544135
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"b3ca4dd871c6a476665afbed38eec63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293705039,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293705039,
+    "wof:lastmodified":1537624038,
+    "wof:name":"Le Boulevard",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.76313,
+    16.05809,
+    -61.76313,
+    16.05809
+],
+  "geometry": {"coordinates":[-61.76313,16.05809],"type":"Point"}
+}

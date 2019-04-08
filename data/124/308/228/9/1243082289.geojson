@@ -1,0 +1,70 @@
+{
+  "id": 1243082289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.25162,15.97825,-61.25162,15.97825",
+    "geom:latitude":15.97825,
+    "geom:longitude":-61.25162,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mayolette",
+    "gn:country_code":"GP",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567880,
+    "gn:latitude":15.97825,
+    "gn:longitude":-61.25162,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Mayolette",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mayolette"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567880
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"3a18b691c711b3f098faa24f506b919c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1243082289,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1243082289,
+    "wof:lastmodified":1537624060,
+    "wof:name":"Mayolette",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.25162,
+    15.97825,
+    -61.25162,
+    15.97825
+],
+  "geometry": {"coordinates":[-61.25162,15.97825],"type":"Point"}
+}

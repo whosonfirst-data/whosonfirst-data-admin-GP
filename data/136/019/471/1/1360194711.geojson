@@ -1,0 +1,70 @@
+{
+  "id": 1360194711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.47456,16.42353,-61.47456,16.42353",
+    "geom:latitude":16.42353,
+    "geom:longitude":-61.47456,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pelletan",
+    "gn:country_code":"GP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11577168,
+    "gn:latitude":16.42353,
+    "gn:longitude":-61.47456,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Pelletan",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pelletan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11577168
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"bbd2a66dbee84995a588c47690f296ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1360194711,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1360194711,
+    "wof:lastmodified":1537624069,
+    "wof:name":"Pelletan",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.47456,
+    16.42353,
+    -61.47456,
+    16.42353
+],
+  "geometry": {"coordinates":[-61.47456,16.42353],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293408329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.66223,15.99661,-61.66223,15.99661",
+    "geom:latitude":15.99661,
+    "geom:longitude":-61.66223,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Grand Fond",
+    "gn:country_code":"GP",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545130,
+    "gn:latitude":15.99661,
+    "gn:longitude":-61.66223,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Grand Fond",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Grand Fond"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545130
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"d51ca4f556108f01c98015bbff5a76f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293408329,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1293408329,
+    "wof:lastmodified":1537624040,
+    "wof:name":"Grand Fond",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.66223000000001,
+    15.99661,
+    -61.66223000000001,
+    15.99661
+],
+  "geometry": {"coordinates":[-61.66223000000001,15.99661],"type":"Point"}
+}

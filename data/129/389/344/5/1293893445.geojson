@@ -1,0 +1,70 @@
+{
+  "id": 1293893445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.65399,16.29983,-61.65399,16.29983",
+    "geom:latitude":16.29983,
+    "geom:longitude":-61.65399,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Levens",
+    "gn:country_code":"GP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11542932,
+    "gn:latitude":16.29983,
+    "gn:longitude":-61.65399,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Levens",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Levens"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542932
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"fe5818cc9b8386d6e2195339c58fd9e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293893445,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1293893445,
+    "wof:lastmodified":1537624034,
+    "wof:name":"Levens",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.65399,
+    16.29983,
+    -61.65399,
+    16.29983
+],
+  "geometry": {"coordinates":[-61.65399,16.29983],"type":"Point"}
+}

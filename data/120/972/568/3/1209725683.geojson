@@ -1,0 +1,70 @@
+{
+  "id": 1209725683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.5136,16.24458,-61.5136,16.24458",
+    "geom:latitude":16.24458,
+    "geom:longitude":-61.5136,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pages",
+    "gn:country_code":"GP",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11546633,
+    "gn:latitude":16.24458,
+    "gn:longitude":-61.5136,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Pag\u00e8s",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pag\u00e8s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546633
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"0012709265753616360ae8c1160f00cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1209725683,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209725683,
+    "wof:lastmodified":1537624047,
+    "wof:name":"Pages",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.5136,
+    16.24458,
+    -61.5136,
+    16.24458
+],
+  "geometry": {"coordinates":[-61.5136,16.24458],"type":"Point"}
+}

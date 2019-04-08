@@ -1,0 +1,70 @@
+{
+  "id": 1310315363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.34826,16.29131,-61.34826,16.29131",
+    "geom:latitude":16.29131,
+    "geom:longitude":-61.34826,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Devarieux",
+    "gn:country_code":"GP",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11571297,
+    "gn:latitude":16.29131,
+    "gn:longitude":-61.34826,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"D\u00e9varieux",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "D\u00e9varieux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11571297
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"4592b687592f604d54beb2d839d0c640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310315363,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1310315363,
+    "wof:lastmodified":1537624065,
+    "wof:name":"Devarieux",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.34826,
+    16.29131,
+    -61.34826,
+    16.29131
+],
+  "geometry": {"coordinates":[-61.34826,16.29131],"type":"Point"}
+}

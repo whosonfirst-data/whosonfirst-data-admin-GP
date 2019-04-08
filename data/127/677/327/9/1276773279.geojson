@@ -1,0 +1,70 @@
+{
+  "id": 1276773279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.42005,16.35002,-61.42005,16.35002",
+    "geom:latitude":16.35002,
+    "geom:longitude":-61.42005,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Durival",
+    "gn:country_code":"GP",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11577306,
+    "gn:latitude":16.35002,
+    "gn:longitude":-61.42005,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Durival",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Durival"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11577306
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"3d902cce9898f4cfce47f1d73a18249f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276773279,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1276773279,
+    "wof:lastmodified":1537624070,
+    "wof:name":"Durival",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.42005,
+    16.35002,
+    -61.42005,
+    16.35002
+],
+  "geometry": {"coordinates":[-61.42005,16.35002],"type":"Point"}
+}

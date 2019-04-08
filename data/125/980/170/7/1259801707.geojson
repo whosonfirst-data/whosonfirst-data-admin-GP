@@ -1,0 +1,70 @@
+{
+  "id": 1259801707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.61962,16.2379,-61.61962,16.2379",
+    "geom:latitude":16.2379,
+    "geom:longitude":-61.61962,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Castera",
+    "gn:country_code":"GP",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11541075,
+    "gn:latitude":16.2379,
+    "gn:longitude":-61.61962,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Cast\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cast\u00e9ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11541075
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"e8d57153e0e22f6d97ab0cf2df909627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259801707,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1259801707,
+    "wof:lastmodified":1537624025,
+    "wof:name":"Castera",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.61962,
+    16.2379,
+    -61.61962,
+    16.2379
+],
+  "geometry": {"coordinates":[-61.61962,16.2379],"type":"Point"}
+}

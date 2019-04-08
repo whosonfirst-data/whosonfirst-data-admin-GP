@@ -1,0 +1,70 @@
+{
+  "id": 1260317967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.44534,16.48348,-61.44534,16.48348",
+    "geom:latitude":16.48348,
+    "geom:longitude":-61.44534,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9712.0",
+    "gn:admin4_code":"97102.0",
+    "gn:asciiname":"Desbonnes",
+    "gn:country_code":"GP",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579435,
+    "gn:latitude":16.48348,
+    "gn:longitude":-61.44534,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Desbonnes",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579435
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"e611493fda5bc6f897bd9e7168699b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1260317967,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1260317967,
+    "wof:lastmodified":1536665740,
+    "wof:name":"Desbonnes",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.44534,
+    16.48348,
+    -61.44534,
+    16.48348
+],
+  "geometry": {"coordinates":[-61.44534,16.48348],"type":"Point"}
+}

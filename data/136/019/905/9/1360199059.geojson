@@ -1,0 +1,70 @@
+{
+  "id": 1360199059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.74879,16.33595,-61.74879,16.33595",
+    "geom:latitude":16.33595,
+    "geom:longitude":-61.74879,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"D'Aubin",
+    "gn:country_code":"GP",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11542213,
+    "gn:latitude":16.33595,
+    "gn:longitude":-61.74879,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"D\u2019Aubin",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "D\u2019Aubin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542213
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"6a684e825834830a21cbe948b2049dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1360199059,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1360199059,
+    "wof:lastmodified":1537624030,
+    "wof:name":"D'Aubin",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.74879,
+    16.33595,
+    -61.74879,
+    16.33595
+],
+  "geometry": {"coordinates":[-61.74879,16.33595],"type":"Point"}
+}

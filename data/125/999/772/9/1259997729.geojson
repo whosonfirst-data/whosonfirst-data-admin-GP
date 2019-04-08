@@ -1,0 +1,70 @@
+{
+  "id": 1259997729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.22584,15.9548,-61.22584,15.9548",
+    "geom:latitude":15.9548,
+    "geom:longitude":-61.22584,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bourgelac",
+    "gn:country_code":"GP",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567885,
+    "gn:latitude":15.9548,
+    "gn:longitude":-61.22584,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bourgelac",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bourgelac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567885
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"4c6baf873fb6568b8305dd512c386d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259997729,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1259997729,
+    "wof:lastmodified":1537624060,
+    "wof:name":"Bourgelac",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.22584000000001,
+    15.9548,
+    -61.22584000000001,
+    15.9548
+],
+  "geometry": {"coordinates":[-61.22584000000001,15.9548],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259793481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.70498,16.01732,-61.70498,16.01732",
+    "geom:latitude":16.01732,
+    "geom:longitude":-61.70498,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Belfond",
+    "gn:country_code":"GP",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545141,
+    "gn:latitude":16.01732,
+    "gn:longitude":-61.70498,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Belfond",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Belfond"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545141
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"85711b2627424b3761a9cb776eadbe7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259793481,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1259793481,
+    "wof:lastmodified":1537624040,
+    "wof:name":"Belfond",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.70498000000001,
+    16.01732,
+    -61.70498000000001,
+    16.01732
+],
+  "geometry": {"coordinates":[-61.70498000000001,16.01732],"type":"Point"}
+}

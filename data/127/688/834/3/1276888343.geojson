@@ -1,0 +1,70 @@
+{
+  "id": 1276888343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.50178,16.25037,-61.50178,16.25037",
+    "geom:latitude":16.25037,
+    "geom:longitude":-61.50178,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Terrasson",
+    "gn:country_code":"GP",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11546664,
+    "gn:latitude":16.25037,
+    "gn:longitude":-61.50178,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Terrasson",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Terrasson"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546664
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"d89d5f9635ee24d93071539514fb3afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276888343,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1276888343,
+    "wof:lastmodified":1537624048,
+    "wof:name":"Terrasson",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.50178,
+    16.25037,
+    -61.50178,
+    16.25037
+],
+  "geometry": {"coordinates":[-61.50178,16.25037],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343369071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.27926,15.90669,-61.27926,15.90669",
+    "geom:latitude":15.90669,
+    "geom:longitude":-61.27926,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Morne Lolo",
+    "gn:country_code":"GP",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567849,
+    "gn:latitude":15.90669,
+    "gn:longitude":-61.27926,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Morne Lolo",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Morne Lolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567849
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"6f05e1e76a0e9a0115fc63620ec961dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343369071,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1343369071,
+    "wof:lastmodified":1537624059,
+    "wof:name":"Morne Lolo",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.27926,
+    15.90669,
+    -61.27926,
+    15.90669
+],
+  "geometry": {"coordinates":[-61.27926,15.90669],"type":"Point"}
+}

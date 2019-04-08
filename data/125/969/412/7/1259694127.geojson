@@ -1,0 +1,70 @@
+{
+  "id": 1259694127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.77793,16.27537,-61.77793,16.27537",
+    "geom:latitude":16.27537,
+    "geom:longitude":-61.77793,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Betes Rouges",
+    "gn:country_code":"GP",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11542728,
+    "gn:latitude":16.27537,
+    "gn:longitude":-61.77793,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"B\u00eates Rouges",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00eates Rouges"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542728
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"cd233275220f4930238999e8d9345321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259694127,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1259694127,
+    "wof:lastmodified":1537624032,
+    "wof:name":"Betes Rouges",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.77793000000001,
+    16.27537,
+    -61.77793000000001,
+    16.27537
+],
+  "geometry": {"coordinates":[-61.77793000000001,16.27537],"type":"Point"}
+}

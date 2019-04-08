@@ -1,0 +1,70 @@
+{
+  "id": 1242888667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.45052,16.29532,-61.45052,16.29532",
+    "geom:latitude":16.29532,
+    "geom:longitude":-61.45052,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Croix",
+    "gn:country_code":"GP",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11566854,
+    "gn:latitude":16.29532,
+    "gn:longitude":-61.45052,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"La Croix",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Croix"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11566854
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"d17cf52fa518008161594b342da5e6e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1242888667,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1242888667,
+    "wof:lastmodified":1537624058,
+    "wof:name":"La Croix",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.45052,
+    16.29532,
+    -61.45052,
+    16.29532
+],
+  "geometry": {"coordinates":[-61.45052,16.29532],"type":"Point"}
+}

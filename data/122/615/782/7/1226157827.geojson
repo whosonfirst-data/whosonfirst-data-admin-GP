@@ -1,0 +1,70 @@
+{
+  "id": 1226157827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.48212,16.46326,-61.48212,16.46326",
+    "geom:latitude":16.46326,
+    "geom:longitude":-61.48212,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mon Tresor",
+    "gn:country_code":"GP",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11577326,
+    "gn:latitude":16.46326,
+    "gn:longitude":-61.48212,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Mon Tr\u00e9sor",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mon Tr\u00e9sor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11577326
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"91c8b61c55be3f55448bdcecc89d231d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226157827,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1226157827,
+    "wof:lastmodified":1537624070,
+    "wof:name":"Mon Tresor",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.48212,
+    16.46326,
+    -61.48212,
+    16.46326
+],
+  "geometry": {"coordinates":[-61.48212,16.46326],"type":"Point"}
+}

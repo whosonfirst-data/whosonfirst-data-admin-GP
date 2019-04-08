@@ -1,0 +1,76 @@
+{
+  "id": 1326661331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.77072,16.3423,-61.77072,16.3423",
+    "geom:latitude":16.3423,
+    "geom:longitude":-61.77072,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9711.0",
+    "gn:admin4_code":"97111.0",
+    "gn:asciiname":"Bas-Vent",
+    "gn:country_code":"GP",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579729,
+    "gn:latitude":16.3423,
+    "gn:longitude":-61.77072,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Bas-Vent",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bas-Vent"
+    ],
+    "name:und_x_variant":[
+        "Bas Vent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579729
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"623ea14a26da017aa8fed9373e04942b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1326661331,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1326661331,
+    "wof:lastmodified":1537624023,
+    "wof:name":"Bas-Vent",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.77072,
+    16.3423,
+    -61.77072,
+    16.3423
+],
+  "geometry": {"coordinates":[-61.77072,16.3423],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242595911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.56262,16.25677,-61.56262,16.25677",
+    "geom:latitude":16.25677,
+    "geom:longitude":-61.56262,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Camp Dugommier",
+    "gn:country_code":"GP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11546560,
+    "gn:latitude":16.25677,
+    "gn:longitude":-61.56262,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Camp Dugommier",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Camp Dugommier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546560
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"fba4a84093666bfbbd1d9b9552414bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1242595911,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1242595911,
+    "wof:lastmodified":1537624046,
+    "wof:name":"Camp Dugommier",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.56262,
+    16.25677,
+    -61.56262,
+    16.25677
+],
+  "geometry": {"coordinates":[-61.56262,16.25677],"type":"Point"}
+}

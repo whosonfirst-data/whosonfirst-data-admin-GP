@@ -1,0 +1,68 @@
+{
+  "id": 890437323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.58333,16.18333,-61.58333,16.18333",
+    "geom:latitude":16.18333,
+    "geom:longitude":-61.58333,
+    "gn:country":"GP",
+    "gn:fcode":"ADM4",
+    "gn:pop":21283,
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Petit-Bourg",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":81,
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6690401,
+        "qs:id":643871,
+        "wd:id":"Q844987",
+        "wk:page":"Petit-Bourg"
+    },
+    "wof:country":"GP",
+    "wof:created":1469052147,
+    "wof:geomhash":"3bba6f13547b9f3fbd09afa3672285a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":890437323,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":890437323,
+    "wof:lastmodified":1527729750,
+    "wof:name":"Petit-Bourg",
+    "wof:parent_id":85671209,
+    "wof:placetype":"localadmin",
+    "wof:population":21283,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.58333,
+    16.18333,
+    -61.58333,
+    16.18333
+],
+  "geometry": {"coordinates":[-61.58333,16.18333],"type":"Point"}
+}

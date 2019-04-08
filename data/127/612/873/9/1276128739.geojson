@@ -1,0 +1,70 @@
+{
+  "id": 1276128739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.50647,16.29799,-61.50647,16.29799",
+    "geom:latitude":16.29799,
+    "geom:longitude":-61.50647,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Leonie",
+    "gn:country_code":"GP",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11546610,
+    "gn:latitude":16.29799,
+    "gn:longitude":-61.50647,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"L\u00e9onie",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "L\u00e9onie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546610
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"12a97db8af2b0970b1e6af3997ef6fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276128739,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1276128739,
+    "wof:lastmodified":1537624047,
+    "wof:name":"Leonie",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.50646999999999,
+    16.29799,
+    -61.50646999999999,
+    16.29799
+],
+  "geometry": {"coordinates":[-61.50646999999999,16.29799],"type":"Point"}
+}

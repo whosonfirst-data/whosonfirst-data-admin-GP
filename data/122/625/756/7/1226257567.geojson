@@ -1,0 +1,70 @@
+{
+  "id": 1226257567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.43283,16.25052,-61.43283,16.25052",
+    "geom:latitude":16.25052,
+    "geom:longitude":-61.43283,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Douce",
+    "gn:country_code":"GP",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11563310,
+    "gn:latitude":16.25052,
+    "gn:longitude":-61.43283,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"La Douce",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Douce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11563310
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"5bf180e8eab7e74727c9be8e2d2044a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226257567,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1226257567,
+    "wof:lastmodified":1537624054,
+    "wof:name":"La Douce",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.43283,
+    16.25052,
+    -61.43283,
+    16.25052
+],
+  "geometry": {"coordinates":[-61.43283,16.25052],"type":"Point"}
+}

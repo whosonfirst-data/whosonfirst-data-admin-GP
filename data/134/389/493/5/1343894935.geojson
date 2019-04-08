@@ -1,0 +1,77 @@
+{
+  "id": 1343894935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.33507,16.32928,-61.33507,16.32928",
+    "geom:latitude":16.32928,
+    "geom:longitude":-61.33507,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9712.0",
+    "gn:admin4_code":"97117.0",
+    "gn:asciiname":"Guenette",
+    "gn:country_code":"GP",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3579141,
+    "gn:latitude":16.32928,
+    "gn:longitude":-61.33507,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Guenette",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Guenette"
+    ],
+    "name:und_x_variant":[
+        "Gu\u00e9nette"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579141,
+        "wk:page":"Guenette"
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"e820e94b4dfb4bb4eb7e27123a2a36fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343894935,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1343894935,
+    "wof:lastmodified":1537624016,
+    "wof:name":"Guenette",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.33507,
+    16.32927999999999,
+    -61.33507,
+    16.32927999999999
+],
+  "geometry": {"coordinates":[-61.33507,16.32927999999999],"type":"Point"}
+}

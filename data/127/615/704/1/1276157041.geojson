@@ -1,0 +1,70 @@
+{
+  "id": 1276157041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.65,15.98333,-61.65,15.98333",
+    "geom:latitude":15.98333,
+    "geom:longitude":-61.65,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9711.0",
+    "gn:admin4_code":"97132.0",
+    "gn:asciiname":"Boyer",
+    "gn:country_code":"GP",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579628,
+    "gn:latitude":15.98333,
+    "gn:longitude":-61.65,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boyer",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579628
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"8d147194d816376c951b11f9e68de1aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276157041,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1276157041,
+    "wof:lastmodified":1537014314,
+    "wof:name":"Boyer",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.65,
+    15.98333,
+    -61.65,
+    15.98333
+],
+  "geometry": {"coordinates":[-61.65,15.98333],"type":"Point"}
+}

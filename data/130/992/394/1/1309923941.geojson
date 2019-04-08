@@ -1,0 +1,64 @@
+{
+  "id": 1309923941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.67832,15.95323,-61.67832,15.95323",
+    "geom:latitude":15.95323,
+    "geom:longitude":-61.67832,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Blondeau",
+    "gn:country_code":"GP",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545386,
+    "gn:latitude":15.95323,
+    "gn:longitude":-61.67832,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Blondeau",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Blondeau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545386
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"3188dd13410158d27b9d8e32ab59c716",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309923941,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309923941,
+    "wof:lastmodified":1537624043,
+    "wof:name":"Blondeau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.67831999999999,
+    15.95323,
+    -61.67831999999999,
+    15.95323
+],
+  "geometry": {"coordinates":[-61.67831999999999,15.95323],"type":"Point"}
+}

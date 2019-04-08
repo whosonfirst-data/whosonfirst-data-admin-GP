@@ -1,0 +1,70 @@
+{
+  "id": 1193030677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.49459,16.27682,-61.49459,16.27682",
+    "geom:latitude":16.27682,
+    "geom:longitude":-61.49459,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Belance",
+    "gn:country_code":"GP",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11546675,
+    "gn:latitude":16.27682,
+    "gn:longitude":-61.49459,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"B\u00e9lance",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00e9lance"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546675
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"c892ad9c648900e9daa82f13f05e3a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1193030677,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1193030677,
+    "wof:lastmodified":1537624048,
+    "wof:name":"Belance",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.49459,
+    16.27682,
+    -61.49459,
+    16.27682
+],
+  "geometry": {"coordinates":[-61.49459,16.27682],"type":"Point"}
+}

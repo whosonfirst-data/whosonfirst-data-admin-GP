@@ -1,0 +1,64 @@
+{
+  "id": 1360303849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.08395,16.29838,-61.08395,16.29838",
+    "geom:latitude":16.29838,
+    "geom:longitude":-61.08395,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Saline",
+    "gn:country_code":"GP",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11572376,
+    "gn:latitude":16.29838,
+    "gn:longitude":-61.08395,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"La Saline",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Saline"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11572376
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"f3f5b9c7bf7f52ecd5a8448783ba2a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360303849,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360303849,
+    "wof:lastmodified":1537624068,
+    "wof:name":"La Saline",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.08395,
+    16.29838,
+    -61.08395,
+    16.29838
+],
+  "geometry": {"coordinates":[-61.08395,16.29838],"type":"Point"}
+}

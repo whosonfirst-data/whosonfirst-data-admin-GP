@@ -1,0 +1,67 @@
+{
+  "id": 1209348605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.5142,16.44763,-61.5142,16.44763",
+    "geom:latitude":16.44763,
+    "geom:longitude":-61.5142,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9712.0",
+    "gn:admin4_code":"97122.0",
+    "gn:asciiname":"Betin",
+    "gn:country_code":"GP",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579691,
+    "gn:latitude":16.44763,
+    "gn:longitude":-61.5142,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"B\u00e9tin",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00e9tin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579691
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"4855780c80f7c1ac35a9a47ae501b4e4",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209348605,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209348605,
+    "wof:lastmodified":1537624022,
+    "wof:name":"Betin",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.5142,
+    16.44763,
+    -61.5142,
+    16.44763
+],
+  "geometry": {"coordinates":[-61.5142,16.44763],"type":"Point"}
+}

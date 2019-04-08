@@ -1,0 +1,70 @@
+{
+  "id": 1243373533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.37322,16.28339,-61.37322,16.28339",
+    "geom:latitude":16.28339,
+    "geom:longitude":-61.37322,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"L'Henriette",
+    "gn:country_code":"GP",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11563280,
+    "gn:latitude":16.28339,
+    "gn:longitude":-61.37322,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"L\u2019Henriette",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "L\u2019Henriette"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11563280
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"ed6f80eb2ef00f84588bbd72b4f43f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1243373533,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1243373533,
+    "wof:lastmodified":1537624053,
+    "wof:name":"L'Henriette",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.37322,
+    16.28339,
+    -61.37322,
+    16.28339
+],
+  "geometry": {"coordinates":[-61.37322,16.28339],"type":"Point"}
+}

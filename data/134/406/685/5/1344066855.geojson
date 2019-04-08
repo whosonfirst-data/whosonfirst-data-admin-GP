@@ -1,0 +1,64 @@
+{
+  "id": 1344066855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.70295,15.95297,-61.70295,15.95297",
+    "geom:latitude":15.95297,
+    "geom:longitude":-61.70295,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Derriere le Morne",
+    "gn:country_code":"GP",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545374,
+    "gn:latitude":15.95297,
+    "gn:longitude":-61.70295,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Derri\u00e8re le Morne",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Derri\u00e8re le Morne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545374
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"59343914e0ff338a9a07da84204e615c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344066855,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344066855,
+    "wof:lastmodified":1537624043,
+    "wof:name":"Derriere le Morne",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.70295,
+    15.95297,
+    -61.70295,
+    15.95297
+],
+  "geometry": {"coordinates":[-61.70295,15.95297],"type":"Point"}
+}

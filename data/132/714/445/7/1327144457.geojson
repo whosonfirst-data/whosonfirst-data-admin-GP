@@ -1,0 +1,70 @@
+{
+  "id": 1327144457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.29798,15.93524,-61.29798,15.93524",
+    "geom:latitude":15.93524,
+    "geom:longitude":-61.29798,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Les Sources",
+    "gn:country_code":"GP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578931,
+    "gn:latitude":15.93524,
+    "gn:longitude":-61.29798,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Les Sources",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Les Sources"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578931
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"68d25f7ab1b59d15c428e2568221e89f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1327144457,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1327144457,
+    "wof:lastmodified":1537624014,
+    "wof:name":"Les Sources",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.29798,
+    15.93524,
+    -61.29798,
+    15.93524
+],
+  "geometry": {"coordinates":[-61.29798,15.93524],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293215235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.68412,16.3115,-61.68412,16.3115",
+    "geom:latitude":16.3115,
+    "geom:longitude":-61.68412,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dubic",
+    "gn:country_code":"GP",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11542235,
+    "gn:latitude":16.3115,
+    "gn:longitude":-61.68412,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Dubic",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dubic"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542235
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"b1059c4b1a108c5b9aeae98a4f31a3df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293215235,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1293215235,
+    "wof:lastmodified":1537624031,
+    "wof:name":"Dubic",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.68411999999999,
+    16.3115,
+    -61.68411999999999,
+    16.3115
+],
+  "geometry": {"coordinates":[-61.68411999999999,16.3115],"type":"Point"}
+}

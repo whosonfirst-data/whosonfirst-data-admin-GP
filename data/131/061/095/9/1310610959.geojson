@@ -1,0 +1,70 @@
+{
+  "id": 1310610959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.28579,15.93307,-61.28579,15.93307",
+    "geom:latitude":15.93307,
+    "geom:longitude":-61.28579,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Saint-Georges",
+    "gn:country_code":"GP",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567917,
+    "gn:latitude":15.93307,
+    "gn:longitude":-61.28579,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Saint-Georges",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Saint-Georges"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567917
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"730fc6ab7615372c0a11b362b889f245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310610959,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1310610959,
+    "wof:lastmodified":1537624061,
+    "wof:name":"Saint-Georges",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.28579000000001,
+    15.93307,
+    -61.28579000000001,
+    15.93307
+],
+  "geometry": {"coordinates":[-61.28579000000001,15.93307],"type":"Point"}
+}

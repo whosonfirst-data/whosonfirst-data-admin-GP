@@ -1,0 +1,64 @@
+{
+  "id": 1209633637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.44346,16.35414,-61.44346,16.35414",
+    "geom:latitude":16.35414,
+    "geom:longitude":-61.44346,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jean Bogne",
+    "gn:country_code":"GP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11577789,
+    "gn:latitude":16.35414,
+    "gn:longitude":-61.44346,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Jean Bogne",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jean Bogne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11577789
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"f6295a431ba7dbe93f67347b4af4c5c2",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209633637,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209633637,
+    "wof:lastmodified":1537624072,
+    "wof:name":"Jean Bogne",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.44346,
+    16.35414,
+    -61.44346,
+    16.35414
+],
+  "geometry": {"coordinates":[-61.44346,16.35414],"type":"Point"}
+}

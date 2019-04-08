@@ -1,0 +1,70 @@
+{
+  "id": 1293501935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.74366,16.11151,-61.74366,16.11151",
+    "geom:latitude":16.11151,
+    "geom:longitude":-61.74366,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dupuy",
+    "gn:country_code":"GP",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11543879,
+    "gn:latitude":16.11151,
+    "gn:longitude":-61.74366,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Dupuy",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dupuy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543879
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"2d91b5e724e9c0f1895dc90aacab64a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293501935,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1293501935,
+    "wof:lastmodified":1537624037,
+    "wof:name":"Dupuy",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.74366,
+    16.11151,
+    -61.74366,
+    16.11151
+],
+  "geometry": {"coordinates":[-61.74366,16.11151],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1226357079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.22457,15.88899,-61.22457,15.88899",
+    "geom:latitude":15.88899,
+    "geom:longitude":-61.22457,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tourlourous",
+    "gn:country_code":"GP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11568633,
+    "gn:latitude":15.88899,
+    "gn:longitude":-61.22457,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Tourlourous",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tourlourous"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11568633
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"d0aee7a9c58c5f7193cbdcfe153e238a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226357079,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226357079,
+    "wof:lastmodified":1537624064,
+    "wof:name":"Tourlourous",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.22456999999999,
+    15.88899,
+    -61.22456999999999,
+    15.88899
+],
+  "geometry": {"coordinates":[-61.22456999999999,15.88899],"type":"Point"}
+}

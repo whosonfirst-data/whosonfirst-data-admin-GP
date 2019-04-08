@@ -1,0 +1,73 @@
+{
+  "id": 1276690323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.60125,16.08184,-61.60125,16.08184",
+    "geom:latitude":16.08184,
+    "geom:longitude":-61.60125,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9711.0",
+    "gn:admin4_code":"97107.0",
+    "gn:asciiname":"Neuf-Chateau",
+    "gn:country_code":"GP",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578748,
+    "gn:latitude":16.08184,
+    "gn:longitude":-61.60125,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Neuf-Ch\u00e2teau",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Neuf-Ch\u00e2teau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578748
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"cc7caaab73da72088b0ab03425e0dd6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276690323,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1276690323,
+    "wof:lastmodified":1537624012,
+    "wof:name":"Neuf-Chateau",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.60125,
+    16.08184,
+    -61.60125,
+    16.08184
+],
+  "geometry": {"coordinates":[-61.60125,16.08184],"type":"Point"}
+}

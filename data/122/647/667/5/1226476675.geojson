@@ -1,0 +1,70 @@
+{
+  "id": 1226476675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.26382,15.94646,-61.26382,15.94646",
+    "geom:latitude":15.94646,
+    "geom:longitude":-61.26382,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9712.0",
+    "gn:admin4_code":"97126.0",
+    "gn:asciiname":"La Rose",
+    "gn:country_code":"GP",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3579003,
+    "gn:latitude":15.94646,
+    "gn:longitude":-61.26382,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"La Rose",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579003
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"a2131ee2b9a1f17f501d621b58baa778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226476675,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1226476675,
+    "wof:lastmodified":1537094358,
+    "wof:name":"La Rose",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.26382,
+    15.94646,
+    -61.26382,
+    15.94646
+],
+  "geometry": {"coordinates":[-61.26382,15.94646],"type":"Point"}
+}

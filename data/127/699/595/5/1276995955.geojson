@@ -1,0 +1,70 @@
+{
+  "id": 1276995955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.67253,15.99335,-61.67253,15.99335",
+    "geom:latitude":15.99335,
+    "geom:longitude":-61.67253,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Regnier",
+    "gn:country_code":"GP",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545310,
+    "gn:latitude":15.99335,
+    "gn:longitude":-61.67253,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"R\u00e9gnier",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "R\u00e9gnier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545310
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"005c495988c26f0649f93f16ece70287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276995955,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1276995955,
+    "wof:lastmodified":1537624041,
+    "wof:name":"Regnier",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.67253,
+    15.99335,
+    -61.67253,
+    15.99335
+],
+  "geometry": {"coordinates":[-61.67253,15.99335],"type":"Point"}
+}

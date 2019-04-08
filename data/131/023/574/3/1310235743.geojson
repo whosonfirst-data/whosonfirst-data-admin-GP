@@ -1,0 +1,70 @@
+{
+  "id": 1310235743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.3,16.28333,-61.3,16.28333",
+    "geom:latitude":16.28333,
+    "geom:longitude":-61.3,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9712.0",
+    "gn:admin4_code":"97125.0",
+    "gn:asciiname":"Sainte-Madeleine",
+    "gn:country_code":"GP",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578460,
+    "gn:latitude":16.28333,
+    "gn:longitude":-61.3,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sainte-Madeleine",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578460
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"aca5776e79264e879f73fa4f53dae189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310235743,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1310235743,
+    "wof:lastmodified":1536808344,
+    "wof:name":"Sainte-Madeleine",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.3,
+    16.28333,
+    -61.3,
+    16.28333
+],
+  "geometry": {"coordinates":[-61.3,16.28333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226554399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.50302,16.32597,-61.50302,16.32597",
+    "geom:latitude":16.32597,
+    "geom:longitude":-61.50302,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Quirine",
+    "gn:country_code":"GP",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11546653,
+    "gn:latitude":16.32597,
+    "gn:longitude":-61.50302,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Quirine",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Quirine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546653
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"0b45e445c82a31fa28cdcd13c6c87a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226554399,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1226554399,
+    "wof:lastmodified":1537624048,
+    "wof:name":"Quirine",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.50301999999999,
+    16.32597,
+    -61.50301999999999,
+    16.32597
+],
+  "geometry": {"coordinates":[-61.50301999999999,16.32597],"type":"Point"}
+}

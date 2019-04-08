@@ -1,0 +1,70 @@
+{
+  "id": 1276773257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.30421,16.27085,-61.30421,16.27085",
+    "geom:latitude":16.27085,
+    "geom:longitude":-61.30421,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bien-Desiree",
+    "gn:country_code":"GP",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11571782,
+    "gn:latitude":16.27085,
+    "gn:longitude":-61.30421,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bien-D\u00e9sir\u00e9e",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bien-D\u00e9sir\u00e9e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11571782
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"821688ab0d20f9d4a513b41f29dfbcd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276773257,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1276773257,
+    "wof:lastmodified":1537624067,
+    "wof:name":"Bien-Desiree",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.30421,
+    16.27085,
+    -61.30421,
+    16.27085
+],
+  "geometry": {"coordinates":[-61.30421,16.27085],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242596017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.22387,15.95396,-61.22387,15.95396",
+    "geom:latitude":15.95396,
+    "geom:longitude":-61.22387,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Saint-Aurens",
+    "gn:country_code":"GP",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11568472,
+    "gn:latitude":15.95396,
+    "gn:longitude":-61.22387,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Saint-Aurens",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Saint-Aurens"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11568472
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"6663f7051b0ce9a74a2603d77cec993d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1242596017,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1242596017,
+    "wof:lastmodified":1537624064,
+    "wof:name":"Saint-Aurens",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.22387,
+    15.95396,
+    -61.22387,
+    15.95396
+],
+  "geometry": {"coordinates":[-61.22387,15.95396],"type":"Point"}
+}

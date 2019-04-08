@@ -1,0 +1,70 @@
+{
+  "id": 1193025929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.28952,16.31296,-61.28952,16.31296",
+    "geom:latitude":16.31296,
+    "geom:longitude":-61.28952,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sergent Alleaume",
+    "gn:country_code":"GP",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11571776,
+    "gn:latitude":16.31296,
+    "gn:longitude":-61.28952,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Sergent Alleaume",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sergent Alleaume"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11571776
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"6058b4638ec04eda387e38f819f3522e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1193025929,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1193025929,
+    "wof:lastmodified":1537624067,
+    "wof:name":"Sergent Alleaume",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.28952,
+    16.31296,
+    -61.28952,
+    16.31296
+],
+  "geometry": {"coordinates":[-61.28952,16.31296],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327352003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.69136,16.26232,-61.69136,16.26232",
+    "geom:latitude":16.26232,
+    "geom:longitude":-61.69136,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cacao",
+    "gn:country_code":"GP",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11541960,
+    "gn:latitude":16.26232,
+    "gn:longitude":-61.69136,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Cacao",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cacao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11541960
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"0f469e42859aa25f0a21303e51fba8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1327352003,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1327352003,
+    "wof:lastmodified":1537624027,
+    "wof:name":"Cacao",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.69136,
+    16.26232000000001,
+    -61.69136,
+    16.26232000000001
+],
+  "geometry": {"coordinates":[-61.69136,16.26232000000001],"type":"Point"}
+}

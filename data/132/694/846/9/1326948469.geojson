@@ -1,0 +1,70 @@
+{
+  "id": 1326948469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.62762,15.9871,-61.62762,15.9871",
+    "geom:latitude":15.9871,
+    "geom:longitude":-61.62762,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Schoelcher",
+    "gn:country_code":"GP",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545432,
+    "gn:latitude":15.9871,
+    "gn:longitude":-61.62762,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Sch\u0153lcher",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sch\u0153lcher"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545432
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"ecfd5f15e469ad7651de5543517c771a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1326948469,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1326948469,
+    "wof:lastmodified":1537624044,
+    "wof:name":"Schoelcher",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.62761999999999,
+    15.9871,
+    -61.62761999999999,
+    15.9871
+],
+  "geometry": {"coordinates":[-61.62761999999999,15.9871],"type":"Point"}
+}

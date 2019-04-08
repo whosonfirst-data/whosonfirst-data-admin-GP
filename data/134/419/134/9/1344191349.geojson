@@ -1,0 +1,77 @@
+{
+  "id": 1344191349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.21667,15.88333,-61.21667,15.88333",
+    "geom:latitude":15.88333,
+    "geom:longitude":-61.21667,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9712.0",
+    "gn:admin4_code":"97108.0",
+    "gn:asciiname":"Capesterre-de-Marie-Galante",
+    "gn:country_code":"GP",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579591,
+    "gn:latitude":15.88333,
+    "gn:longitude":-61.21667,
+    "gn:modification_date":"2008-02-29",
+    "gn:name":"Capesterre-de-Marie-Galante",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0628\u0633\u062a\u0631-\u062f\u0648-\u0645\u0627\u0631\u064a-\u062c\u0627\u0644\u0627\u0646\u062a"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30da\u30b9\u30c6\u30fc\u30eb\uff1d\u30c9\uff1d\u30de\u30ea\u30fc\uff1d\u30ac\u30e9\u30f3\u30c8"
+    ],
+    "name:pol_x_preferred":[
+        "Capesterre-de-Marie Galante"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043f\u0435\u0441\u0442\u0435\u0440\u0440-\u0434\u0435-\u041c\u0430\u0440\u0456-\u0413\u0430\u043b\u0430\u043d\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579591,
+        "wk:page":"Capesterre-de-Marie-Galante"
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"856d5733dd2508b15e0f7f9916574055",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344191349,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344191349,
+    "wof:lastmodified":1537624020,
+    "wof:name":"Capesterre-de-Marie-Galante",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.21666999999999,
+    15.88333,
+    -61.21666999999999,
+    15.88333
+],
+  "geometry": {"coordinates":[-61.21666999999999,15.88333],"type":"Point"}
+}

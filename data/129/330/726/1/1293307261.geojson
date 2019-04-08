@@ -1,0 +1,70 @@
+{
+  "id": 1293307261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.22125,15.93109,-61.22125,15.93109",
+    "geom:latitude":15.93109,
+    "geom:longitude":-61.22125,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Archange",
+    "gn:country_code":"GP",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11568525,
+    "gn:latitude":15.93109,
+    "gn:longitude":-61.22125,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Archange",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Archange"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11568525
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"ac14bb0056def2cf4536b57cfd835457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293307261,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1293307261,
+    "wof:lastmodified":1537624064,
+    "wof:name":"Archange",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.22125,
+    15.93109,
+    -61.22125,
+    15.93109
+],
+  "geometry": {"coordinates":[-61.22125,15.93109],"type":"Point"}
+}

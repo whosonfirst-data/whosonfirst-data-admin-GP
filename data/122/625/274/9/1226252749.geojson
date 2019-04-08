@@ -1,0 +1,70 @@
+{
+  "id": 1226252749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.51213,16.29603,-61.51213,16.29603",
+    "geom:latitude":16.29603,
+    "geom:longitude":-61.51213,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gaoza",
+    "gn:country_code":"GP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11546640,
+    "gn:latitude":16.29603,
+    "gn:longitude":-61.51213,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Gaoza",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gaoza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546640
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"1cd04099c82d0ab3322d805a14cfffb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226252749,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1226252749,
+    "wof:lastmodified":1537624047,
+    "wof:name":"Gaoza",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.51213000000001,
+    16.29603,
+    -61.51213000000001,
+    16.29603
+],
+  "geometry": {"coordinates":[-61.51213000000001,16.29603],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310516215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.76648,16.15076,-61.76648,16.15076",
+    "geom:latitude":16.15076,
+    "geom:longitude":-61.76648,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Douenel",
+    "gn:country_code":"GP",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11541991,
+    "gn:latitude":16.15076,
+    "gn:longitude":-61.76648,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Dou\u00ebnel",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dou\u00ebnel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11541991
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"08a5f06e0834172040e17afb6550185a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310516215,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1310516215,
+    "wof:lastmodified":1537624028,
+    "wof:name":"Douenel",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.76648,
+    16.15076,
+    -61.76648,
+    16.15076
+],
+  "geometry": {"coordinates":[-61.76648,16.15076],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209924385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.26515,16.26306,-61.26515,16.26306",
+    "geom:latitude":16.26306,
+    "geom:longitude":-61.26515,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Le Maud'Huy",
+    "gn:country_code":"GP",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11571285,
+    "gn:latitude":16.26306,
+    "gn:longitude":-61.26515,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Le Maud\u2019Huy",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Le Maud\u2019Huy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11571285
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"82b74319238e9126543cd9a872ba6238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1209924385,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209924385,
+    "wof:lastmodified":1537624065,
+    "wof:name":"Le Maud'Huy",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.26515,
+    16.26306,
+    -61.26515,
+    16.26306
+],
+  "geometry": {"coordinates":[-61.26515,16.26306],"type":"Point"}
+}

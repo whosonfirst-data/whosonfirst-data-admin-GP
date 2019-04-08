@@ -1,0 +1,64 @@
+{
+  "id": 1209324599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.25044,15.98702,-61.25044,15.98702",
+    "geom:latitude":15.98702,
+    "geom:longitude":-61.25044,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Les Coqs",
+    "gn:country_code":"GP",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567876,
+    "gn:latitude":15.98702,
+    "gn:longitude":-61.25044,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Les Coqs",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Les Coqs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567876
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"1fe032cfe8b7b19e51ab2c8b8c6e8003",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209324599,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209324599,
+    "wof:lastmodified":1537624059,
+    "wof:name":"Les Coqs",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.25044000000001,
+    15.98702,
+    -61.25044000000001,
+    15.98702
+],
+  "geometry": {"coordinates":[-61.25044000000001,15.98702],"type":"Point"}
+}

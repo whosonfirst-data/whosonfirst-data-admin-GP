@@ -1,0 +1,70 @@
+{
+  "id": 1243085987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.68396,16.01385,-61.68396,16.01385",
+    "geom:latitude":16.01385,
+    "geom:longitude":-61.68396,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dugommier",
+    "gn:country_code":"GP",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545321,
+    "gn:latitude":16.01385,
+    "gn:longitude":-61.68396,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Dugommier",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dugommier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545321
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"6d2c00f7837017715edc44f99f9d9ec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1243085987,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1243085987,
+    "wof:lastmodified":1537624042,
+    "wof:name":"Dugommier",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.68396,
+    16.01385,
+    -61.68396,
+    16.01385
+],
+  "geometry": {"coordinates":[-61.68396,16.01385],"type":"Point"}
+}

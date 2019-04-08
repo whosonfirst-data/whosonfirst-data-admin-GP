@@ -1,0 +1,70 @@
+{
+  "id": 1242592319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.61313,16.16991,-61.61313,16.16991",
+    "geom:latitude":16.16991,
+    "geom:longitude":-61.61313,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bois-Sergent",
+    "gn:country_code":"GP",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11540948,
+    "gn:latitude":16.16991,
+    "gn:longitude":-61.61313,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Bois-Sergent",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bois-Sergent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11540948
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"ee565305b325d962371e97af49487ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1242592319,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1242592319,
+    "wof:lastmodified":1537624023,
+    "wof:name":"Bois-Sergent",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.61313000000001,
+    16.16991,
+    -61.61313000000001,
+    16.16991
+],
+  "geometry": {"coordinates":[-61.61313000000001,16.16991],"type":"Point"}
+}

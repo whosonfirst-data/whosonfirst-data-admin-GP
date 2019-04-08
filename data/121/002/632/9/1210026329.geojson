@@ -1,0 +1,70 @@
+{
+  "id": 1210026329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.35143,16.30341,-61.35143,16.30341",
+    "geom:latitude":16.30341,
+    "geom:longitude":-61.35143,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Eau Blanche",
+    "gn:country_code":"GP",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11571298,
+    "gn:latitude":16.30341,
+    "gn:longitude":-61.35143,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Eau Blanche",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Eau Blanche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11571298
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"069a39c3a6f2b54f82f310f4a92c8dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1210026329,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1210026329,
+    "wof:lastmodified":1537624065,
+    "wof:name":"Eau Blanche",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.35143000000001,
+    16.30341,
+    -61.35143000000001,
+    16.30341
+],
+  "geometry": {"coordinates":[-61.35143000000001,16.30341],"type":"Point"}
+}

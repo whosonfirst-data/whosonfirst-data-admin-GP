@@ -1,0 +1,70 @@
+{
+  "id": 1260303671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.74536,16.33535,-61.74536,16.33535",
+    "geom:latitude":16.33535,
+    "geom:longitude":-61.74536,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Durieu",
+    "gn:country_code":"GP",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11542212,
+    "gn:latitude":16.33535,
+    "gn:longitude":-61.74536,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Durieu",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Durieu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542212
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"f4c926f6be50d823fa2cd3270a0892c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1260303671,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1260303671,
+    "wof:lastmodified":1537624030,
+    "wof:name":"Durieu",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.74536,
+    16.33535,
+    -61.74536,
+    16.33535
+],
+  "geometry": {"coordinates":[-61.74536,16.33535],"type":"Point"}
+}

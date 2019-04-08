@@ -1,0 +1,70 @@
+{
+  "id": 1226558049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.63639,16.00004,-61.63639,16.00004",
+    "geom:latitude":16.00004,
+    "geom:longitude":-61.63639,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Malgre Tout",
+    "gn:country_code":"GP",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11545452,
+    "gn:latitude":16.00004,
+    "gn:longitude":-61.63639,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Malgr\u00e9 Tout",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Malgr\u00e9 Tout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545452
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"6d94622218f8ca6064cb9ba0d5c6750e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226558049,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1226558049,
+    "wof:lastmodified":1537624045,
+    "wof:name":"Malgre Tout",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.63639000000001,
+    16.00004,
+    -61.63639000000001,
+    16.00004
+],
+  "geometry": {"coordinates":[-61.63639000000001,16.00004],"type":"Point"}
+}

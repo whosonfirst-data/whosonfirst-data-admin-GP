@@ -1,0 +1,70 @@
+{
+  "id": 1360095117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.76278,16.22738,-61.76278,16.22738",
+    "geom:latitude":16.22738,
+    "geom:longitude":-61.76278,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Beaujean",
+    "gn:country_code":"GP",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11542206,
+    "gn:latitude":16.22738,
+    "gn:longitude":-61.76278,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Beaujean",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Beaujean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542206
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"1e3c321b1c063e84875fe85bba048559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1360095117,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1360095117,
+    "wof:lastmodified":1537624030,
+    "wof:name":"Beaujean",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.76278000000001,
+    16.22738,
+    -61.76278000000001,
+    16.22738
+],
+  "geometry": {"coordinates":[-61.76278000000001,16.22738],"type":"Point"}
+}

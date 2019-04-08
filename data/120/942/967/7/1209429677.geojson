@@ -1,0 +1,64 @@
+{
+  "id": 1209429677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.6315,16.24339,-61.6315,16.24339",
+    "geom:latitude":16.24339,
+    "geom:longitude":-61.6315,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bonfils",
+    "gn:country_code":"GP",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11541656,
+    "gn:latitude":16.24339,
+    "gn:longitude":-61.6315,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Bonfils",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bonfils"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11541656
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"ec9d9d562f0ca64a9334f5f98bdf21db",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209429677,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209429677,
+    "wof:lastmodified":1537624026,
+    "wof:name":"Bonfils",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.6315,
+    16.24339,
+    -61.6315,
+    16.24339
+],
+  "geometry": {"coordinates":[-61.6315,16.24339],"type":"Point"}
+}

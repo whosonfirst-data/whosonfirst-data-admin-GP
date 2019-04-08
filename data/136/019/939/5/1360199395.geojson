@@ -1,0 +1,70 @@
+{
+  "id": 1360199395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.31567,16.31334,-61.31567,16.31334",
+    "geom:latitude":16.31334,
+    "geom:longitude":-61.31567,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"La Cour des Braves",
+    "gn:country_code":"GP",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11571308,
+    "gn:latitude":16.31334,
+    "gn:longitude":-61.31567,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"La Cour des Braves",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Cour des Braves"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11571308
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"f7680ac886c1ada6bf055946ee9b260f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1360199395,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1360199395,
+    "wof:lastmodified":1537624065,
+    "wof:name":"La Cour des Braves",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.31567,
+    16.31334,
+    -61.31567,
+    16.31334
+],
+  "geometry": {"coordinates":[-61.31567,16.31334],"type":"Point"}
+}

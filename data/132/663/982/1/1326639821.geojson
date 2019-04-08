@@ -1,0 +1,70 @@
+{
+  "id": 1326639821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.67441,15.96216,-61.67441,15.96216",
+    "geom:latitude":15.96216,
+    "geom:longitude":-61.67441,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Grand Etang",
+    "gn:country_code":"GP",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11545391,
+    "gn:latitude":15.96216,
+    "gn:longitude":-61.67441,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Grand \u00c9tang",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Grand \u00c9tang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545391
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"d31b8e1fa1dacd47f33eb876f5a25bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1326639821,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1326639821,
+    "wof:lastmodified":1537624043,
+    "wof:name":"Grand Etang",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.67441,
+    15.96216,
+    -61.67441,
+    15.96216
+],
+  "geometry": {"coordinates":[-61.67441,15.96216],"type":"Point"}
+}

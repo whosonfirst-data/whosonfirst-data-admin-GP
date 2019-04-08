@@ -1,0 +1,70 @@
+{
+  "id": 1343272011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.38143,16.32443,-61.38143,16.32443",
+    "geom:latitude":16.32443,
+    "geom:longitude":-61.38143,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mahaudiere",
+    "gn:country_code":"GP",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11563398,
+    "gn:latitude":16.32443,
+    "gn:longitude":-61.38143,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Mahaudi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mahaudi\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11563398
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"5cbf288021bde78f85c4db8405c9878a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343272011,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1343272011,
+    "wof:lastmodified":1537624057,
+    "wof:name":"Mahaudiere",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.38143,
+    16.32443,
+    -61.38143,
+    16.32443
+],
+  "geometry": {"coordinates":[-61.38143,16.32443],"type":"Point"}
+}

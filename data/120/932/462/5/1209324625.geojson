@@ -1,0 +1,64 @@
+{
+  "id": 1209324625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.60008,16.05351,-61.60008,16.05351",
+    "geom:latitude":16.05351,
+    "geom:longitude":-61.60008,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Manceau",
+    "gn:country_code":"GP",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11544119,
+    "gn:latitude":16.05351,
+    "gn:longitude":-61.60008,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Manceau",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Manceau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11544119
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"ad849eada7cb223f9e5ca0a6cd6df995",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209324625,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209324625,
+    "wof:lastmodified":1537624038,
+    "wof:name":"Manceau",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.60008000000001,
+    16.05351,
+    -61.60008000000001,
+    16.05351
+],
+  "geometry": {"coordinates":[-61.60008000000001,16.05351],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310315369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.28673,15.96714,-61.28673,15.96714",
+    "geom:latitude":15.96714,
+    "geom:longitude":-61.28673,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Poirier",
+    "gn:country_code":"GP",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567893,
+    "gn:latitude":15.96714,
+    "gn:longitude":-61.28673,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Poirier",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Poirier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567893
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"4cab15194316c96fd811b383ac242bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310315369,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1310315369,
+    "wof:lastmodified":1537624060,
+    "wof:name":"Poirier",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.28673000000001,
+    15.96714,
+    -61.28673000000001,
+    15.96714
+],
+  "geometry": {"coordinates":[-61.28673000000001,15.96714],"type":"Point"}
+}

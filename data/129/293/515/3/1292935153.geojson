@@ -1,0 +1,73 @@
+{
+  "id": 1292935153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.57718,16.07127,-61.57718,16.07127",
+    "geom:latitude":16.07127,
+    "geom:longitude":-61.57718,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9711.0",
+    "gn:admin4_code":"97107.0",
+    "gn:asciiname":"Cambrefort",
+    "gn:country_code":"GP",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579601,
+    "gn:latitude":16.07127,
+    "gn:longitude":-61.57718,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Cambrefort",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cambrefort"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579601
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"0f9f9a17cc5ed935d3c7e336590da426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1292935153,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1292935153,
+    "wof:lastmodified":1537624020,
+    "wof:name":"Cambrefort",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.57718000000001,
+    16.07127,
+    -61.57718000000001,
+    16.07127
+],
+  "geometry": {"coordinates":[-61.57718000000001,16.07127],"type":"Point"}
+}

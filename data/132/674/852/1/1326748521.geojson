@@ -1,0 +1,70 @@
+{
+  "id": 1326748521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.34806,16.26723,-61.34806,16.26723",
+    "geom:latitude":16.26723,
+    "geom:longitude":-61.34806,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bois de Lomard",
+    "gn:country_code":"GP",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11571730,
+    "gn:latitude":16.26723,
+    "gn:longitude":-61.34806,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bois de Lomard",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bois de Lomard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11571730
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"52df5c7d992d013e26c3b82cc3af3d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1326748521,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1326748521,
+    "wof:lastmodified":1537624066,
+    "wof:name":"Bois de Lomard",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.34806,
+    16.26723,
+    -61.34806,
+    16.26723
+],
+  "geometry": {"coordinates":[-61.34806,16.26723],"type":"Point"}
+}

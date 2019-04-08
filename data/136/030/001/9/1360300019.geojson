@@ -1,0 +1,70 @@
+{
+  "id": 1360300019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.52415,16.33874,-61.52415,16.33874",
+    "geom:latitude":16.33874,
+    "geom:longitude":-61.52415,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Babin",
+    "gn:country_code":"GP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11546591,
+    "gn:latitude":16.33874,
+    "gn:longitude":-61.52415,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Babin",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Babin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546591
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"83a84d83ad5ffd16c441c9407851d481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1360300019,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1360300019,
+    "wof:lastmodified":1537624046,
+    "wof:name":"Babin",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.52415,
+    16.33874,
+    -61.52415,
+    16.33874
+],
+  "geometry": {"coordinates":[-61.52415,16.33874],"type":"Point"}
+}

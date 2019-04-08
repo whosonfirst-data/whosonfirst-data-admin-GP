@@ -1,0 +1,70 @@
+{
+  "id": 1259411773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.61667,16.2,-61.61667,16.2",
+    "geom:latitude":16.2,
+    "geom:longitude":-61.61667,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9711.0",
+    "gn:admin4_code":"97118.0",
+    "gn:asciiname":"Neau",
+    "gn:country_code":"GP",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3578757,
+    "gn:latitude":16.2,
+    "gn:longitude":-61.61667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"N\u00e9au",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578757
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"ccfdefce3b9e53940a37a7910728739a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259411773,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1259411773,
+    "wof:lastmodified":1536961836,
+    "wof:name":"Neau",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.61666999999999,
+    16.2,
+    -61.61666999999999,
+    16.2
+],
+  "geometry": {"coordinates":[-61.61666999999999,16.2],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226557975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.65367,16.19348,-61.65367,16.19348",
+    "geom:latitude":16.19348,
+    "geom:longitude":-61.65367,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Barbotteau",
+    "gn:country_code":"GP",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11541035,
+    "gn:latitude":16.19348,
+    "gn:longitude":-61.65367,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Barbotteau",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Barbotteau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11541035
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"163862acbb7476ffb33387eb87997192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226557975,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1226557975,
+    "wof:lastmodified":1537624024,
+    "wof:name":"Barbotteau",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.65367,
+    16.19347999999999,
+    -61.65367,
+    16.19347999999999
+],
+  "geometry": {"coordinates":[-61.65367,16.19347999999999],"type":"Point"}
+}

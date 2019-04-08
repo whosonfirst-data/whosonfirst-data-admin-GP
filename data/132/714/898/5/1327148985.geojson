@@ -1,0 +1,70 @@
+{
+  "id": 1327148985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.74942,16.08547,-61.74942,16.08547",
+    "geom:latitude":16.08547,
+    "geom:longitude":-61.74942,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Laurichesse",
+    "gn:country_code":"GP",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11543854,
+    "gn:latitude":16.08547,
+    "gn:longitude":-61.74942,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Laurichesse",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Laurichesse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543854
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"619593a0a3b4084a4437ea63ff7ad0a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1327148985,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1327148985,
+    "wof:lastmodified":1537624037,
+    "wof:name":"Laurichesse",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.74941999999999,
+    16.08547,
+    -61.74941999999999,
+    16.08547
+],
+  "geometry": {"coordinates":[-61.74941999999999,16.08547],"type":"Point"}
+}

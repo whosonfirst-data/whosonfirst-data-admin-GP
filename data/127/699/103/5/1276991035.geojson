@@ -1,0 +1,70 @@
+{
+  "id": 1276991035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.78777,16.2539,-61.78777,16.2539",
+    "geom:latitude":16.2539,
+    "geom:longitude":-61.78777,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Trou Caverne",
+    "gn:country_code":"GP",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11542209,
+    "gn:latitude":16.2539,
+    "gn:longitude":-61.78777,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Trou Caverne",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Trou Caverne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542209
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"35973c782c315592154b7fd241a0d24a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276991035,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1276991035,
+    "wof:lastmodified":1537624030,
+    "wof:name":"Trou Caverne",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.78777,
+    16.2539,
+    -61.78777,
+    16.2539
+],
+  "geometry": {"coordinates":[-61.78777,16.2539],"type":"Point"}
+}

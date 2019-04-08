@@ -1,0 +1,64 @@
+{
+  "id": 1276883313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.7464,16.02453,-61.7464,16.02453",
+    "geom:latitude":16.02453,
+    "geom:longitude":-61.7464,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Morne Mabouya",
+    "gn:country_code":"GP",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545461,
+    "gn:latitude":16.02453,
+    "gn:longitude":-61.7464,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Morne Mabouya",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Morne Mabouya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545461
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"c0d9953b302d4fffcaa90abd975e190a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276883313,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276883313,
+    "wof:lastmodified":1537624045,
+    "wof:name":"Morne Mabouya",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.7464,
+    16.02453,
+    -61.7464,
+    16.02453
+],
+  "geometry": {"coordinates":[-61.7464,16.02453],"type":"Point"}
+}

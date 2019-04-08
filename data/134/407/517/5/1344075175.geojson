@@ -1,0 +1,70 @@
+{
+  "id": 1344075175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.73442,16.06658,-61.73442,16.06658",
+    "geom:latitude":16.06658,
+    "geom:longitude":-61.73442,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Habitation Sainte-Anne",
+    "gn:country_code":"GP",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11544776,
+    "gn:latitude":16.06658,
+    "gn:longitude":-61.73442,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Habitation Sainte-Anne",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Habitation Sainte-Anne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11544776
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"ba4f4edd59a6096f35af937f5c8cc66d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1344075175,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1344075175,
+    "wof:lastmodified":1537624039,
+    "wof:name":"Habitation Sainte-Anne",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.73441999999999,
+    16.06658,
+    -61.73441999999999,
+    16.06658
+],
+  "geometry": {"coordinates":[-61.73441999999999,16.06658],"type":"Point"}
+}

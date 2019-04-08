@@ -1,0 +1,70 @@
+{
+  "id": 1276782013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.76762,16.0936,-61.76762,16.0936",
+    "geom:latitude":16.0936,
+    "geom:longitude":-61.76762,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Monchy",
+    "gn:country_code":"GP",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11543826,
+    "gn:latitude":16.0936,
+    "gn:longitude":-61.76762,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Monchy",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Monchy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543826
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"59d452f94d96ab1a41da1a5d24c98560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276782013,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1276782013,
+    "wof:lastmodified":1537624036,
+    "wof:name":"Monchy",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.76762,
+    16.0936,
+    -61.76762,
+    16.0936
+],
+  "geometry": {"coordinates":[-61.76762,16.0936],"type":"Point"}
+}

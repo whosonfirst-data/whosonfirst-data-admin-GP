@@ -1,0 +1,73 @@
+{
+  "id": 1343295915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.43647,16.26676,-61.43647,16.26676",
+    "geom:latitude":16.26676,
+    "geom:longitude":-61.43647,
+    "gn:admin1_code":"GP",
+    "gn:admin2_code":"971",
+    "gn:admin3_code":"9712.0",
+    "gn:admin4_code":"97128.0",
+    "gn:asciiname":"Belle Place",
+    "gn:country_code":"GP",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579705,
+    "gn:latitude":16.26676,
+    "gn:longitude":-61.43647,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Belle Place",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Belle Place"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579705
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"40eca9a511d09a5a10045d340f8ff299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343295915,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1343295915,
+    "wof:lastmodified":1537624022,
+    "wof:name":"Belle Place",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.43646999999999,
+    16.26676,
+    -61.43646999999999,
+    16.26676
+],
+  "geometry": {"coordinates":[-61.43646999999999,16.26676],"type":"Point"}
+}

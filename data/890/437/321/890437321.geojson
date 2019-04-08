@@ -1,0 +1,68 @@
+{
+  "id": 890437321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.48333,16.38333,-61.48333,16.38333",
+    "geom:latitude":16.38333,
+    "geom:longitude":-61.48333,
+    "gn:country":"GP",
+    "gn:fcode":"ADM4",
+    "gn:pop":8243,
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Petit-Canal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6690400,
+        "qs:id":643870,
+        "wd:id":"Q767111",
+        "wk:page":"Petit-Canal"
+    },
+    "wof:country":"GP",
+    "wof:created":1469052147,
+    "wof:geomhash":"6e009eeefa8c43ec8655427bb8eabead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":890437321,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":890437321,
+    "wof:lastmodified":1527729754,
+    "wof:name":"Petit-Canal",
+    "wof:parent_id":85671209,
+    "wof:placetype":"localadmin",
+    "wof:population":8243,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.48333,
+    16.38333,
+    -61.48333,
+    16.38333
+],
+  "geometry": {"coordinates":[-61.48333,16.38333],"type":"Point"}
+}

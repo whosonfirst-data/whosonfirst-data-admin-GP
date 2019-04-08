@@ -1,0 +1,70 @@
+{
+  "id": 1310219909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.68946,15.99955,-61.68946,15.99955",
+    "geom:latitude":15.99955,
+    "geom:longitude":-61.68946,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Le Papillon",
+    "gn:country_code":"GP",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545308,
+    "gn:latitude":15.99955,
+    "gn:longitude":-61.68946,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Le Papillon",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Le Papillon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545308
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"2b0e917d248c9e952a206b86df638d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310219909,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1310219909,
+    "wof:lastmodified":1537624041,
+    "wof:name":"Le Papillon",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.68946,
+    15.99955,
+    -61.68946,
+    15.99955
+],
+  "geometry": {"coordinates":[-61.68946,15.99955],"type":"Point"}
+}

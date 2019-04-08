@@ -1,0 +1,64 @@
+{
+  "id": 1209324671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.69743,16.31772,-61.69743,16.31772",
+    "geom:latitude":16.31772,
+    "geom:longitude":-61.69743,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lachaise",
+    "gn:country_code":"GP",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11542214,
+    "gn:latitude":16.31772,
+    "gn:longitude":-61.69743,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Lachaise",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lachaise"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542214
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"809e18ccf571fd34995940282a936eef",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209324671,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1209324671,
+    "wof:lastmodified":1537624030,
+    "wof:name":"Lachaise",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.69743,
+    16.31772,
+    -61.69743,
+    16.31772
+],
+  "geometry": {"coordinates":[-61.69743,16.31772],"type":"Point"}
+}

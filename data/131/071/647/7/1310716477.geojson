@@ -1,0 +1,70 @@
+{
+  "id": 1310716477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.38815,16.30818,-61.38815,16.30818",
+    "geom:latitude":16.30818,
+    "geom:longitude":-61.38815,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pavee",
+    "gn:country_code":"GP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11563350,
+    "gn:latitude":16.30818,
+    "gn:longitude":-61.38815,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Pav\u00e9e",
+    "gn:population":0,
+    "gn:timezone":"America/Guadeloupe",
+    "iso:country":"GP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pav\u00e9e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11563350
+    },
+    "wof:country":"GP",
+    "wof:geomhash":"e7f1179442873d81b81ac3ec116965e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310716477,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1310716477,
+    "wof:lastmodified":1537624055,
+    "wof:name":"Pavee",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.38815,
+    16.30818,
+    -61.38815,
+    16.30818
+],
+  "geometry": {"coordinates":[-61.38815,16.30818],"type":"Point"}
+}
