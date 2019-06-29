@@ -30,9 +30,6 @@
     "name:bam_x_preferred":[
         "Petit-Canal"
     ],
-    "name:baq_x_preferred":[
-        "Petit-Canal"
-    ],
     "name:bar_x_preferred":[
         "Petit-Canal"
     ],
@@ -45,16 +42,19 @@
     "name:cat_x_preferred":[
         "Petit-Canal"
     ],
+    "name:ces_x_preferred":[
+        "Petit-Canal"
+    ],
     "name:cos_x_preferred":[
         "Petit-Canal"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Petit-Canal"
     ],
     "name:dan_x_preferred":[
         "Petit-Canal"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Petit-Canal"
     ],
     "name:eng_x_preferred":[
@@ -66,25 +66,25 @@
     "name:est_x_preferred":[
         "Petit-Canal"
     ],
+    "name:eus_x_preferred":[
+        "Petit-Canal"
+    ],
     "name:fao_x_preferred":[
         "Petit-Canal"
     ],
     "name:fin_x_preferred":[
         "Petit-Canal"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Petit-Canal"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Petit-Canal"
     ],
     "name:frp_x_preferred":[
         "Petit-Canal"
     ],
     "name:fur_x_preferred":[
-        "Petit-Canal"
-    ],
-    "name:ger_x_preferred":[
         "Petit-Canal"
     ],
     "name:gla_x_preferred":[
@@ -105,9 +105,6 @@
     "name:hun_x_preferred":[
         "Petit-Canal"
     ],
-    "name:ice_x_preferred":[
-        "Petit-Canal"
-    ],
     "name:ido_x_preferred":[
         "Petit-Canal"
     ],
@@ -118,6 +115,9 @@
         "Petit-Canal"
     ],
     "name:ind_x_preferred":[
+        "Petit-Canal"
+    ],
+    "name:isl_x_preferred":[
         "Petit-Canal"
     ],
     "name:ita_x_preferred":[
@@ -156,19 +156,22 @@
     "name:ltz_x_preferred":[
         "Petit-Canal"
     ],
-    "name:may_x_preferred":[
-        "Petit-Canal"
-    ],
     "name:min_x_preferred":[
         "Petit-Canal"
     ],
     "name:mlg_x_preferred":[
         "Petit-Canal"
     ],
+    "name:msa_x_preferred":[
+        "Petit-Canal"
+    ],
     "name:nap_x_preferred":[
         "Petit-Canal"
     ],
     "name:nds_x_preferred":[
+        "Petit-Canal"
+    ],
+    "name:nld_x_preferred":[
         "Petit-Canal"
     ],
     "name:nno_x_preferred":[
@@ -207,7 +210,7 @@
     "name:roh_x_preferred":[
         "Petit-Canal"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Petit-Canal"
     ],
     "name:scn_x_preferred":[
@@ -216,7 +219,7 @@
     "name:sco_x_preferred":[
         "Petit-Canal"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Petit-Canal"
     ],
     "name:spa_x_preferred":[
@@ -256,9 +259,6 @@
         "Petit-Canal"
     ],
     "name:war_x_preferred":[
-        "Petit-Canal"
-    ],
-    "name:wel_x_preferred":[
         "Petit-Canal"
     ],
     "name:wln_x_preferred":[
@@ -303,7 +303,7 @@
         }
     ],
     "wof:id":890429583,
-    "wof:lastmodified":1531438262,
+    "wof:lastmodified":1561843619,
     "wof:name":"Petit-Canal",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

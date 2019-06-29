@@ -30,9 +30,6 @@
     "name:bam_x_preferred":[
         "Terre-de-Bas"
     ],
-    "name:baq_x_preferred":[
-        "Terre-de-Bas"
-    ],
     "name:bar_x_preferred":[
         "Terre-de-Bas"
     ],
@@ -48,16 +45,19 @@
     "name:cat_x_preferred":[
         "Terre-de-Bas"
     ],
+    "name:ces_x_preferred":[
+        "Terre-de-Bas"
+    ],
     "name:cos_x_preferred":[
         "Terre-de-Bas"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Terre-de-Bas"
     ],
     "name:dan_x_preferred":[
         "Terre-de-Bas"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Terre-de-Bas"
     ],
     "name:eng_x_preferred":[
@@ -69,6 +69,9 @@
     "name:est_x_preferred":[
         "Terre-de-Bas"
     ],
+    "name:eus_x_preferred":[
+        "Terre-de-Bas"
+    ],
     "name:fao_x_preferred":[
         "Terre-de-Bas"
     ],
@@ -78,19 +81,16 @@
     "name:fra_x_preferred":[
         "Petites Anses"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_variant":[
         "Terre-de-Bas"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Terre-de-Bas"
     ],
     "name:frp_x_preferred":[
         "Terre-de-Bas"
     ],
     "name:fur_x_preferred":[
-        "Terre-de-Bas"
-    ],
-    "name:ger_x_preferred":[
         "Terre-de-Bas"
     ],
     "name:gla_x_preferred":[
@@ -111,9 +111,6 @@
     "name:hun_x_preferred":[
         "Terre-de-Bas"
     ],
-    "name:ice_x_preferred":[
-        "Terre-de-Bas"
-    ],
     "name:ido_x_preferred":[
         "Terre-de-Bas"
     ],
@@ -124,6 +121,9 @@
         "Terre-de-Bas"
     ],
     "name:ind_x_preferred":[
+        "Terre-de-Bas"
+    ],
+    "name:isl_x_preferred":[
         "Terre-de-Bas"
     ],
     "name:ita_x_preferred":[
@@ -162,19 +162,22 @@
     "name:ltz_x_preferred":[
         "Terre-de-Bas"
     ],
-    "name:may_x_preferred":[
-        "Terre-de-Bas"
-    ],
     "name:min_x_preferred":[
         "Terre-de-Bas"
     ],
     "name:mlg_x_preferred":[
         "Terre-de-Bas"
     ],
+    "name:msa_x_preferred":[
+        "Terre-de-Bas"
+    ],
     "name:nap_x_preferred":[
         "Terre-de-Bas"
     ],
     "name:nds_x_preferred":[
+        "Terre-de-Bas"
+    ],
+    "name:nld_x_preferred":[
         "Terre-de-Bas"
     ],
     "name:nno_x_preferred":[
@@ -213,7 +216,7 @@
     "name:roh_x_preferred":[
         "Terre-de-Bas"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Terre-de-Bas"
     ],
     "name:scn_x_preferred":[
@@ -222,7 +225,7 @@
     "name:sco_x_preferred":[
         "Terre-de-Bas"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Terre-de-Bas"
     ],
     "name:spa_x_preferred":[
@@ -264,9 +267,6 @@
     "name:war_x_preferred":[
         "Terre-de-Bas"
     ],
-    "name:wel_x_preferred":[
-        "Terre-de-Bas"
-    ],
     "name:wln_x_preferred":[
         "Terre-de-Bas"
     ],
@@ -304,7 +304,7 @@
         }
     ],
     "wof:id":890434939,
-    "wof:lastmodified":1531438263,
+    "wof:lastmodified":1561843619,
     "wof:name":"Terre-de-Bas",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
