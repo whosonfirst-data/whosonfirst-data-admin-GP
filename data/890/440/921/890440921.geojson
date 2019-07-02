@@ -30,9 +30,6 @@
     "name:bam_x_preferred":[
         "Anse-Bertrand"
     ],
-    "name:baq_x_preferred":[
-        "Anse-Bertrand"
-    ],
     "name:bar_x_preferred":[
         "Anse-Bertrand"
     ],
@@ -45,16 +42,19 @@
     "name:cat_x_preferred":[
         "Anse-Bertrand"
     ],
+    "name:ces_x_preferred":[
+        "Anse-Bertrand"
+    ],
     "name:cos_x_preferred":[
         "Anse-Bertrand"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Anse-Bertrand"
     ],
     "name:dan_x_preferred":[
         "Anse-Bertrand"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Anse-Bertrand"
     ],
     "name:eng_x_preferred":[
@@ -66,25 +66,25 @@
     "name:est_x_preferred":[
         "Anse-Bertrand"
     ],
+    "name:eus_x_preferred":[
+        "Anse-Bertrand"
+    ],
     "name:fao_x_preferred":[
         "Anse-Bertrand"
     ],
     "name:fin_x_preferred":[
         "Anse-Bertrand"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Anse-Bertrand"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Anse-Bertrand"
     ],
     "name:frp_x_preferred":[
         "Anse-Bertrand"
     ],
     "name:fur_x_preferred":[
-        "Anse-Bertrand"
-    ],
-    "name:ger_x_preferred":[
         "Anse-Bertrand"
     ],
     "name:gla_x_preferred":[
@@ -105,9 +105,6 @@
     "name:hun_x_preferred":[
         "Anse-Bertrand"
     ],
-    "name:ice_x_preferred":[
-        "Anse-Bertrand"
-    ],
     "name:ido_x_preferred":[
         "Anse-Bertrand"
     ],
@@ -118,6 +115,9 @@
         "Anse-Bertrand"
     ],
     "name:ind_x_preferred":[
+        "Anse-Bertrand"
+    ],
+    "name:isl_x_preferred":[
         "Anse-Bertrand"
     ],
     "name:ita_x_preferred":[
@@ -156,19 +156,22 @@
     "name:ltz_x_preferred":[
         "Anse-Bertrand"
     ],
-    "name:may_x_preferred":[
-        "Anse-Bertrand"
-    ],
     "name:min_x_preferred":[
         "Anse-Bertrand"
     ],
     "name:mlg_x_preferred":[
         "Anse-Bertrand"
     ],
+    "name:msa_x_preferred":[
+        "Anse-Bertrand"
+    ],
     "name:nap_x_preferred":[
         "Anse-Bertrand"
     ],
     "name:nds_x_preferred":[
+        "Anse-Bertrand"
+    ],
+    "name:nld_x_preferred":[
         "Anse-Bertrand"
     ],
     "name:nno_x_preferred":[
@@ -207,7 +210,7 @@
     "name:roh_x_preferred":[
         "Anse-Bertrand"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Anse-Bertrand"
     ],
     "name:scn_x_preferred":[
@@ -216,7 +219,7 @@
     "name:sco_x_preferred":[
         "Anse-Bertrand"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Anse-Bertrand"
     ],
     "name:spa_x_preferred":[
@@ -253,9 +256,6 @@
         "Anse-Bertrand"
     ],
     "name:war_x_preferred":[
-        "Anse-Bertrand"
-    ],
-    "name:wel_x_preferred":[
         "Anse-Bertrand"
     ],
     "name:wln_x_preferred":[
@@ -301,7 +301,7 @@
         }
     ],
     "wof:id":890440921,
-    "wof:lastmodified":1531438267,
+    "wof:lastmodified":1561843619,
     "wof:name":"Anse-Bertrand",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

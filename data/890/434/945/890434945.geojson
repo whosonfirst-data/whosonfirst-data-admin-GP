@@ -18,17 +18,11 @@
     "name:afr_x_preferred":[
         "Basse-Terre"
     ],
-    "name:alb_x_preferred":[
-        "Basse-Terre"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u0633-\u062a\u064a\u0631"
     ],
     "name:arg_x_preferred":[
         "Basse-Terre"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u057d \u054f\u0565\u0580"
     ],
     "name:ast_x_preferred":[
         "Basse-Terre"
@@ -37,9 +31,6 @@
         "Bas-Ter"
     ],
     "name:bam_x_preferred":[
-        "Basse-Terre"
-    ],
-    "name:baq_x_preferred":[
         "Basse-Terre"
     ],
     "name:bar_x_preferred":[
@@ -66,19 +57,19 @@
     "name:cat_x_preferred":[
         "Basse-Terre"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u65af\u7279\u5c14"
+    "name:ces_x_preferred":[
+        "Basse-Terre"
     ],
     "name:cos_x_preferred":[
         "Basse-Terre"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Basse-Terre"
     ],
     "name:dan_x_preferred":[
         "Basse Terre"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Basse-Terre"
     ],
     "name:ell_x_preferred":[
@@ -96,6 +87,9 @@
     "name:est_x_preferred":[
         "Basse-Terre"
     ],
+    "name:eus_x_preferred":[
+        "Basse-Terre"
+    ],
     "name:fao_x_preferred":[
         "Basse-Terre"
     ],
@@ -105,22 +99,16 @@
     "name:fin_x_preferred":[
         "Basse-Terre"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Basse-Terre"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Basse-Terre"
     ],
     "name:frp_x_preferred":[
         "B\u00e2ssa-T\u00e8rra"
     ],
     "name:fur_x_preferred":[
-        "Basse-Terre"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10e1-\u10e2\u10d4\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Basse-Terre"
     ],
     "name:gla_x_preferred":[
@@ -131,9 +119,6 @@
     ],
     "name:glg_x_preferred":[
         "Basse-Terre"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03c2-\u03a4\u03b5\u03c1"
     ],
     "name:gsw_x_preferred":[
         "Basse-Terre"
@@ -156,9 +141,6 @@
     "name:hye_x_preferred":[
         "\u0532\u0561\u057d \u054f\u0565\u0580"
     ],
-    "name:ice_x_preferred":[
-        "Basse-Terre"
-    ],
     "name:ido_x_preferred":[
         "Basse-Terre"
     ],
@@ -169,6 +151,9 @@
         "Basse-Terre"
     ],
     "name:ind_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:isl_x_preferred":[
         "Basse-Terre"
     ],
     "name:ita_x_preferred":[
@@ -222,14 +207,8 @@
     "name:ltz_x_preferred":[
         "Basse-Terre"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0430\u0441 \u0422\u0435\u0440"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u093e\u0938\u0947-\u0924\u0947\u0930"
-    ],
-    "name:may_x_preferred":[
-        "Basse-Terre"
     ],
     "name:min_x_preferred":[
         "Basse-Terre"
@@ -243,10 +222,16 @@
     "name:mon_x_preferred":[
         "\u0411\u0430\u0441-\u0422\u0435\u0440"
     ],
+    "name:msa_x_preferred":[
+        "Basse-Terre"
+    ],
     "name:nap_x_preferred":[
         "Basse-Terre"
     ],
     "name:nds_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:nld_x_preferred":[
         "Basse-Terre"
     ],
     "name:nno_x_preferred":[
@@ -270,9 +255,6 @@
     "name:pcd_x_preferred":[
         "Basse-Terre"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0633-\u062a\u0631"
-    ],
     "name:pms_x_preferred":[
         "Basse-Terre"
     ],
@@ -291,7 +273,7 @@
     "name:roh_x_preferred":[
         "Basse-Terre"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Basse-Terre"
     ],
     "name:rus_x_preferred":[
@@ -306,13 +288,16 @@
     "name:sin_x_preferred":[
         "\u0db6\u0dd0\u0dc3\u0da7\u0dd9\u0dba\u0dbb\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Basse-Terre"
     ],
     "name:slv_x_preferred":[
         "Basse-Terre"
     ],
     "name:spa_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:sqi_x_preferred":[
         "Basse-Terre"
     ],
     "name:srd_x_preferred":[
@@ -372,9 +357,6 @@
     "name:war_x_preferred":[
         "Basse-Terre"
     ],
-    "name:wel_x_preferred":[
-        "Basse-Terre"
-    ],
     "name:wln_x_preferred":[
         "Basse-Terre"
     ],
@@ -422,7 +404,7 @@
         }
     ],
     "wof:id":890434945,
-    "wof:lastmodified":1536881476,
+    "wof:lastmodified":1561843619,
     "wof:name":"Basse-Terre",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
