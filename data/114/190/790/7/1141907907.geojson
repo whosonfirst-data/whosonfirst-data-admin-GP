@@ -56,6 +56,9 @@
     "name:cat_x_preferred":[
         "Basse-Terre"
     ],
+    "name:ceb_x_preferred":[
+        "Basse-Terre"
+    ],
     "name:ces_x_preferred":[
         "Basse-Terre"
     ],
@@ -219,6 +222,9 @@
         "\u0411\u0430\u0441-\u0422\u0435\u0440"
     ],
     "name:msa_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:nan_x_preferred":[
         "Basse-Terre"
     ],
     "name:nap_x_preferred":[
@@ -490,7 +496,7 @@
         }
     ],
     "wof:id":1141907907,
-    "wof:lastmodified":1561843620,
+    "wof:lastmodified":1563260839,
     "wof:name":"Basse-terre",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

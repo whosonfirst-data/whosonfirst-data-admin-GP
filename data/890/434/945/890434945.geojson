@@ -39,6 +39,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0430\u0441-\u0422\u044d\u0440"
     ],
+    "name:bel_x_variant":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0411\u0430\u0441\u0430-\u0422\u044d\u0440\u044d"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b8\u09c7-\u099f\u09cd\u09af\u09be\u09b0\u09c0"
     ],
@@ -57,6 +60,9 @@
     "name:cat_x_preferred":[
         "Basse-Terre"
     ],
+    "name:ceb_x_preferred":[
+        "Basse-Terre"
+    ],
     "name:ces_x_preferred":[
         "Basse-Terre"
     ],
@@ -68,6 +74,9 @@
     ],
     "name:dan_x_preferred":[
         "Basse Terre"
+    ],
+    "name:dan_x_variant":[
+        "Basse-Terre"
     ],
     "name:deu_x_preferred":[
         "Basse-Terre"
@@ -83,6 +92,9 @@
     ],
     "name:epo_x_preferred":[
         "Bas-Tero"
+    ],
+    "name:epo_x_variant":[
+        "Basse-Terre"
     ],
     "name:est_x_preferred":[
         "Basse-Terre"
@@ -223,6 +235,9 @@
         "\u0411\u0430\u0441-\u0422\u0435\u0440"
     ],
     "name:msa_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:nan_x_preferred":[
         "Basse-Terre"
     ],
     "name:nap_x_preferred":[
@@ -404,7 +419,7 @@
         }
     ],
     "wof:id":890434945,
-    "wof:lastmodified":1561843619,
+    "wof:lastmodified":1563260746,
     "wof:name":"Basse-Terre",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

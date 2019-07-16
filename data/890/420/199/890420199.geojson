@@ -15,11 +15,53 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bre_x_preferred":[
+        "arondisamant Basse-Terre"
+    ],
+    "name:ces_x_preferred":[
+        "Arrondissement Basse-Terre"
+    ],
+    "name:deu_x_preferred":[
+        "Arrondissement Basse-Terre"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u039c\u03c0\u03b1\u03c2-\u03a4\u03b5\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Basse-Terre"
     ],
+    "name:eng_x_variant":[
+        "arrondissement of Basse-Terre"
+    ],
+    "name:eus_x_preferred":[
+        "Basse-Terreko barrutia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0628\u0633-\u062a\u0631"
+    ],
     "name:fra_x_preferred":[
         "Basse-Terre"
+    ],
+    "name:ind_x_preferred":[
+        "Arondisemen Basse-Terre"
+    ],
+    "name:ltz_x_preferred":[
+        "Arrondissement Basse-Terre"
+    ],
+    "name:nan_x_preferred":[
+        "Basse-Terre K\u016bn"
+    ],
+    "name:nld_x_preferred":[
+        "Arrondissement Basse-Terre"
+    ],
+    "name:pol_x_preferred":[
+        "Okr\u0119g Basse-Terre"
+    ],
+    "name:ron_x_preferred":[
+        "Arondismentul Basse-Terre"
+    ],
+    "name:sqi_x_preferred":[
+        "Qarku Basse-Terre"
     ],
     "name:unk_x_variant":[
         "La Basse-Terre"
@@ -70,7 +112,7 @@
         }
     ],
     "wof:id":890420199,
-    "wof:lastmodified":1536617372,
+    "wof:lastmodified":1563260740,
     "wof:name":"Arrondissement de la Basse-Terre",
     "wof:parent_id":85671209,
     "wof:placetype":"localadmin",

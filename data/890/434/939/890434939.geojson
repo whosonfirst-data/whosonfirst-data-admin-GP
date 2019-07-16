@@ -45,6 +45,9 @@
     "name:cat_x_preferred":[
         "Terre-de-Bas"
     ],
+    "name:ceb_x_preferred":[
+        "Terre-de-Bas"
+    ],
     "name:ces_x_preferred":[
         "Terre-de-Bas"
     ],
@@ -304,7 +307,7 @@
         }
     ],
     "wof:id":890434939,
-    "wof:lastmodified":1561843619,
+    "wof:lastmodified":1563260744,
     "wof:name":"Terre-de-Bas",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
