@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "Anse-Bertrand"
     ],
+    "name:ceb_x_preferred":[
+        "Anse-Bertrand"
+    ],
     "name:ces_x_preferred":[
         "Anse-Bertrand"
     ],
@@ -301,7 +304,7 @@
         }
     ],
     "wof:id":890440921,
-    "wof:lastmodified":1561843619,
+    "wof:lastmodified":1563260729,
     "wof:name":"Anse-Bertrand",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

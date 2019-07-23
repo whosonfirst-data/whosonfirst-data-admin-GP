@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "Petit-Canal"
     ],
+    "name:ceb_x_preferred":[
+        "Petit-Canal"
+    ],
     "name:ces_x_preferred":[
         "Petit-Canal"
     ],
@@ -303,7 +306,7 @@
         }
     ],
     "wof:id":890429583,
-    "wof:lastmodified":1561843619,
+    "wof:lastmodified":1563260739,
     "wof:name":"Petit-Canal",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",
