@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "J\u00e9r\u00e9mie"
     ],
+    "name:pol_x_preferred":[
+        "Jeremie"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1326744959,
-    "wof:lastmodified":1537624028,
+    "wof:lastmodified":1564218397,
     "wof:name":"Jeremie",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

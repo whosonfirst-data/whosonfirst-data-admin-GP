@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Merlet"
     ],
+    "name:nld_x_preferred":[
+        "Merlet"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276263599,
-    "wof:lastmodified":1537624012,
+    "wof:lastmodified":1564218507,
     "wof:name":"Merlet",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

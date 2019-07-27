@@ -25,8 +25,80 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Lachaise"
+    ],
+    "name:ceb_x_preferred":[
+        "Lachaise"
+    ],
+    "name:deu_x_preferred":[
+        "Lachaise"
+    ],
+    "name:eus_x_preferred":[
+        "Lachaise"
+    ],
     "name:fra_x_preferred":[
         "Lachaise"
+    ],
+    "name:hun_x_preferred":[
+        "Lachaise"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561\u0577\u0565\u0566"
+    ],
+    "name:ita_x_preferred":[
+        "Lachaise"
+    ],
+    "name:lat_x_preferred":[
+        "Lachaise"
+    ],
+    "name:msa_x_preferred":[
+        "Lachaise"
+    ],
+    "name:nld_x_preferred":[
+        "Lachaise"
+    ],
+    "name:oci_x_preferred":[
+        "Lachaise"
+    ],
+    "name:pol_x_preferred":[
+        "Lachaise"
+    ],
+    "name:por_x_preferred":[
+        "Lachaise"
+    ],
+    "name:ron_x_preferred":[
+        "Lachaise"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0448\u0435\u0437"
+    ],
+    "name:slk_x_preferred":[
+        "Lachaise"
+    ],
+    "name:spa_x_preferred":[
+        "Lachaise"
+    ],
+    "name:swe_x_preferred":[
+        "Lachaise"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0448\u0435\u0437"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0686\u0627\u06cc\u0633\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Lachaise"
+    ],
+    "name:vol_x_preferred":[
+        "Lachaise"
+    ],
+    "name:war_x_preferred":[
+        "Lachaise"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u8c22\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +117,7 @@
         }
     ],
     "wof:id":1209324671,
-    "wof:lastmodified":1537624030,
+    "wof:lastmodified":1564218557,
     "wof:name":"Lachaise",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

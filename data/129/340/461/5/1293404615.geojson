@@ -25,8 +25,89 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Gissac"
+    ],
+    "name:ceb_x_preferred":[
+        "Gissac"
+    ],
+    "name:deu_x_preferred":[
+        "Gissac"
+    ],
+    "name:eus_x_preferred":[
+        "Gissac"
+    ],
     "name:fra_x_preferred":[
         "Gissac"
+    ],
+    "name:hun_x_preferred":[
+        "Gissac"
+    ],
+    "name:hye_x_preferred":[
+        "\u053a\u056b\u057d\u0561\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Gissac"
+    ],
+    "name:lat_x_preferred":[
+        "Gissac"
+    ],
+    "name:mlg_x_preferred":[
+        "Gissac"
+    ],
+    "name:msa_x_preferred":[
+        "Gissac"
+    ],
+    "name:nld_x_preferred":[
+        "Gissac"
+    ],
+    "name:oci_x_preferred":[
+        "Gissac"
+    ],
+    "name:pam_x_preferred":[
+        "Gissac"
+    ],
+    "name:pms_x_preferred":[
+        "Gissac"
+    ],
+    "name:pol_x_preferred":[
+        "Gissac"
+    ],
+    "name:por_x_preferred":[
+        "Gissac"
+    ],
+    "name:ron_x_preferred":[
+        "Gissac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0438\u0441\u0441\u0430\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "Gissac"
+    ],
+    "name:spa_x_preferred":[
+        "Gissac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0438\u0441\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Gissac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0438\u0441\u0441\u0430\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Gissac"
+    ],
+    "name:vol_x_preferred":[
+        "Gissac"
+    ],
+    "name:war_x_preferred":[
+        "Gissac"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u8428\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +132,7 @@
         }
     ],
     "wof:id":1293404615,
-    "wof:lastmodified":1537624056,
+    "wof:lastmodified":1564218482,
     "wof:name":"Gissac",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

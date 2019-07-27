@@ -25,6 +25,9 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Joubert"
+    ],
     "name:fra_x_preferred":[
         "Joubert"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276350335,
-    "wof:lastmodified":1537624016,
+    "wof:lastmodified":1564218517,
     "wof:name":"Joubert",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

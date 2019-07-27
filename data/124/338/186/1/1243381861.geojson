@@ -25,8 +25,62 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Lagarde"
+    ],
+    "name:ceb_x_preferred":[
+        "Lagarde"
+    ],
+    "name:ces_x_preferred":[
+        "Lagarde"
+    ],
+    "name:deu_x_preferred":[
+        "Lagarde"
+    ],
     "name:fra_x_preferred":[
         "Lagarde"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d2\u05d0\u05e8\u05d3"
+    ],
+    "name:ita_x_preferred":[
+        "Lagarde"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30ac\u30eb\u30c9"
+    ],
+    "name:nds_x_preferred":[
+        "Lagarde"
+    ],
+    "name:nld_x_preferred":[
+        "Lagarde"
+    ],
+    "name:oci_x_preferred":[
+        "Lagarde"
+    ],
+    "name:pms_x_preferred":[
+        "Lagarde"
+    ],
+    "name:pol_x_preferred":[
+        "Lagarde"
+    ],
+    "name:por_x_preferred":[
+        "Lagarde"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0433\u0430\u0440\u0434"
+    ],
+    "name:slk_x_preferred":[
+        "Lagarde"
+    ],
+    "name:spa_x_preferred":[
+        "Lagarde"
+    ],
+    "name:swe_x_preferred":[
+        "Lagarde"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0433\u0430\u0440\u0434"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +105,7 @@
         }
     ],
     "wof:id":1243381861,
-    "wof:lastmodified":1537624069,
+    "wof:lastmodified":1564218676,
     "wof:name":"Lagarde",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

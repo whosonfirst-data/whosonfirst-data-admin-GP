@@ -15,6 +15,339 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Port Louis"
+    ],
+    "name:amh_x_preferred":[
+        "\u1356\u122d\u1275 \u1209\u12ca\u1235"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u062a \u0644\u0648\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Puertu Lluis"
+    ],
+    "name:aze_x_preferred":[
+        "Port-Luiz"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041b\u0443\u0456"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cb\u09b0\u09cd\u099f \u09b2\u09c1\u0987\u09b8"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f63\u0f7c\u0f0b\u0f61\u0f72\u0f0b\u0f66\u0f72\u0f0b\u0f42\u0fb2\u0f74\u0f0b\u0f41\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Port Louis"
+    ],
+    "name:bre_x_preferred":[
+        "Port Louis"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0440\u0442 \u041b\u0443\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Port Louis"
+    ],
+    "name:cdo_x_preferred":[
+        "Port Louis"
+    ],
+    "name:ces_x_preferred":[
+        "Port Louis"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041b\u0443\u0438"
+    ],
+    "name:chv_x_preferred":[
+        "\u041f\u043e\u0440\u0442 \u041b\u0443\u0438"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u06c6\u0631\u062a \u0644\u0648\u06cc\u0633"
+    ],
+    "name:crh_x_preferred":[
+        "Port Lui"
+    ],
+    "name:cym_x_preferred":[
+        "Port Louis"
+    ],
+    "name:dan_x_preferred":[
+        "Port Louis"
+    ],
+    "name:deu_x_preferred":[
+        "Port Louis"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c1-\u039b\u03bf\u03c5\u03af"
+    ],
+    "name:epo_x_preferred":[
+        "Port-Luiso"
+    ],
+    "name:est_x_preferred":[
+        "Port Louis"
+    ],
+    "name:eus_x_preferred":[
+        "Port Louis"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u200c\u0644\u0648\u0626\u06cc\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Port Louis"
+    ],
+    "name:fra_x_preferred":[
+        "Port-Louis"
+    ],
+    "name:fry_x_preferred":[
+        "Port Louis"
+    ],
+    "name:gla_x_preferred":[
+        "Port Louis"
+    ],
+    "name:gle_x_preferred":[
+        "Port Louis"
+    ],
+    "name:glg_x_preferred":[
+        "Port Louis"
+    ],
+    "name:grn_x_preferred":[
+        "Port Louis"
+    ],
+    "name:hak_x_preferred":[
+        "Port Louis"
+    ],
+    "name:hat_x_preferred":[
+        "P\u00f2-Loui"
+    ],
+    "name:hau_x_preferred":[
+        "Port Louis"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8 \u05dc\u05d5\u05d0\u05d9"
+    ],
+    "name:hif_x_preferred":[
+        "Port Louis"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094b\u0930\u094d\u091f \u0932\u0941\u0908"
+    ],
+    "name:hrv_x_preferred":[
+        "Port Louis"
+    ],
+    "name:hun_x_preferred":[
+        "Port Louis"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0580\u057f \u053c\u0578\u0582\u056b"
+    ],
+    "name:ido_x_preferred":[
+        "Port Louis"
+    ],
+    "name:ile_x_preferred":[
+        "Port Louis"
+    ],
+    "name:ind_x_preferred":[
+        "Port Louis"
+    ],
+    "name:isl_x_preferred":[
+        "Port Louis"
+    ],
+    "name:ita_x_preferred":[
+        "Port Louis"
+    ],
+    "name:jav_x_preferred":[
+        "Port Louis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30c8\u30eb\u30a4\u30b9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10e0\u10e2-\u10da\u10e3\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041b\u0443\u0438"
+    ],
+    "name:kir_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041b\u0443\u0438"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ud2b8\ub8e8\uc774\uc2a4"
+    ],
+    "name:lat_x_preferred":[
+        "Portus Ludovici"
+    ],
+    "name:lav_x_preferred":[
+        "Portlu\u012b"
+    ],
+    "name:lfn_x_preferred":[
+        "Port Louis"
+    ],
+    "name:lij_x_preferred":[
+        "Port Louis"
+    ],
+    "name:lit_x_preferred":[
+        "Port Luisas"
+    ],
+    "name:lmo_x_preferred":[
+        "Port Louis"
+    ],
+    "name:ltz_x_preferred":[
+        "Port Louis"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d4b\u0d7c\u0d1f\u0d4d\u0d1f\u0d4d \u0d32\u0d42\u0d2f\u0d3f\u0d38\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u094b\u0930\u094d\u091f \u0932\u0941\u0908\u0938"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041b\u0443\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u0440\u0442 \u041b\u0443\u0438\u0441"
+    ],
+    "name:mlg_x_preferred":[
+        "Port Louis"
+    ],
+    "name:msa_x_preferred":[
+        "Port Louis"
+    ],
+    "name:nah_x_preferred":[
+        "Port Louis"
+    ],
+    "name:nld_x_preferred":[
+        "Port Louis"
+    ],
+    "name:nno_x_preferred":[
+        "Port Louis"
+    ],
+    "name:nor_x_preferred":[
+        "Port Louis"
+    ],
+    "name:nov_x_preferred":[
+        "Port Louis"
+    ],
+    "name:oci_x_preferred":[
+        "Port Louis"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b2a\u0b4b\u0b30\u0b4d\u0b1f \u0b32\u0b41\u0b07\u0b38"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041b\u0443\u0438"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2a\u0a4b\u0a30\u0a1f \u0a32\u0a42\u0a08"
+    ],
+    "name:pms_x_preferred":[
+        "Port Luis"
+    ],
+    "name:pnb_x_preferred":[
+        "\u067e\u0648\u0631\u0679 \u0644\u0648\u0626\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port Louis"
+    ],
+    "name:por_x_preferred":[
+        "Port Louis"
+    ],
+    "name:pus_x_preferred":[
+        "\u067e\u0648\u0631\u062a \u0644\u0648\u06cc\u0633"
+    ],
+    "name:ron_x_preferred":[
+        "Port Louis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041b\u0443\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Port Louis"
+    ],
+    "name:slk_x_preferred":[
+        "Port Louis"
+    ],
+    "name:slv_x_preferred":[
+        "Port Louis"
+    ],
+    "name:sna_x_preferred":[
+        "Port Louis"
+    ],
+    "name:som_x_preferred":[
+        "Bort Lois"
+    ],
+    "name:spa_x_preferred":[
+        "Port Louis"
+    ],
+    "name:sqi_x_preferred":[
+        "Port Louis"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0440\u0442 \u041b\u0443\u0458"
+    ],
+    "name:swa_x_preferred":[
+        "Port Louis"
+    ],
+    "name:swe_x_preferred":[
+        "Port Louis"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0bb2\u0bc2\u0baf\u0bbf\u0bb8\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041b\u0443\u0438"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041b\u0443\u0438"
+    ],
+    "name:tgl_x_preferred":[
+        "Port Louis"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e2d\u0e23\u0e4c\u0e15\u0e25\u0e39\u0e2d\u0e34\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Port Louis"
+    ],
+    "name:udm_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041b\u0443\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041b\u0443\u0457"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0631\u0679 \u0644\u0648\u0626\u0633"
+    ],
+    "name:uzb_x_preferred":[
+        "Port-lui"
+    ],
+    "name:vec_x_preferred":[
+        "Port Louis"
+    ],
+    "name:vep_x_preferred":[
+        "Port Lui"
+    ],
+    "name:vie_x_preferred":[
+        "Port Louis"
+    ],
+    "name:vol_x_preferred":[
+        "Port Louis"
+    ],
+    "name:war_x_preferred":[
+        "Port Louis"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8def\u6613\u6e2f"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10de\u10dd\u10e0\u10e2-\u10da\u10e3\u10d8"
+    ],
+    "name:yor_x_preferred":[
+        "Port Louis"
+    ],
+    "name:zho_x_preferred":[
+        "\u8def\u6613\u6e2f"
+    ],
     "qs:name":"Port-Louis",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -45,7 +378,7 @@
         }
     ],
     "wof:id":890422905,
-    "wof:lastmodified":1513814001,
+    "wof:lastmodified":1564218668,
     "wof:name":"Port-Louis",
     "wof:parent_id":85671209,
     "wof:placetype":"localadmin",

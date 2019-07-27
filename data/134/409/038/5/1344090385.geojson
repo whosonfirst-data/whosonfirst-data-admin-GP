@@ -28,7 +28,25 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dorot"
+    ],
+    "name:ces_x_preferred":[
+        "Dorot"
+    ],
     "name:fra_x_preferred":[
+        "Dorot"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05e8\u05d5\u05ea"
+    ],
+    "name:nno_x_preferred":[
+        "Dorot"
+    ],
+    "name:pol_x_preferred":[
+        "Dorot"
+    ],
+    "name:swe_x_preferred":[
         "Dorot"
     ],
     "src:geom":"geonames",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1344090385,
-    "wof:lastmodified":1537624018,
+    "wof:lastmodified":1564218435,
     "wof:name":"Dorot",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

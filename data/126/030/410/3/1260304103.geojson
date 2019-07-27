@@ -25,7 +25,19 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Coton"
+    ],
     "name:fra_x_preferred":[
+        "Coton"
+    ],
+    "name:ita_x_preferred":[
+        "Coton"
+    ],
+    "name:pol_x_preferred":[
+        "Coton"
+    ],
+    "name:swe_x_preferred":[
         "Coton"
     ],
     "src:geom":"geonames",
@@ -45,7 +57,7 @@
         }
     ],
     "wof:id":1260304103,
-    "wof:lastmodified":1537624028,
+    "wof:lastmodified":1564218597,
     "wof:name":"Coton",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

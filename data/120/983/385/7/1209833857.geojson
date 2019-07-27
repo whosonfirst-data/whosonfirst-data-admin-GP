@@ -25,8 +25,26 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Michaux"
+    ],
+    "name:deu_x_preferred":[
+        "Michaux"
+    ],
     "name:fra_x_preferred":[
         "Michaux"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30b7\u30e7\u30fc"
+    ],
+    "name:pol_x_preferred":[
+        "Michaux"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0448\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0448\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1209833857,
-    "wof:lastmodified":1537624054,
+    "wof:lastmodified":1564218545,
     "wof:name":"Michaux",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

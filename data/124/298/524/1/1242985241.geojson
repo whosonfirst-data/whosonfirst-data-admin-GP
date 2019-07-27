@@ -25,8 +25,275 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Seldery"
+    ],
+    "name:amh_x_preferred":[
+        "\u1230\u1208\u122a"
+    ],
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0641\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Apium graveolens"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0644\u06cc \u06a9\u0631\u0648\u06cc\u0632"
+    ],
+    "name:aze_x_preferred":[
+        "\u0130yli k\u0259r\u0259viz"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09a5\u09c1\u09a8\u09bf \u09b6\u09be\u0995"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f63\u0f95\u0f0b\u0f5a\u0f63\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Celer"
+    ],
+    "name:bre_x_preferred":[
+        "Ach"
+    ],
+    "name:cat_x_preferred":[
+        "Api"
+    ],
+    "name:ceb_x_preferred":[
+        "Apium graveolens"
+    ],
+    "name:ces_x_preferred":[
+        "Mi\u0159\u00edk celer"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06a9\u06d5\u0631\u06d5\u0648\u0632"
+    ],
+    "name:cym_x_preferred":[
+        "Seleri"
+    ],
+    "name:dan_x_preferred":[
+        "Vild selleri"
+    ],
+    "name:deu_x_preferred":[
+        "Echter Sellerie"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ad\u03bb\u03b9\u03bd\u03bf"
+    ],
+    "name:eml_x_preferred":[
+        "S\u00e8lar"
+    ],
+    "name:epo_x_preferred":[
+        "Vera celerio"
+    ],
+    "name:est_x_preferred":[
+        "Aedseller"
+    ],
+    "name:eus_x_preferred":[
+        "Apio"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0641\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Selleri"
+    ],
     "name:fra_x_preferred":[
         "Celery"
+    ],
+    "name:fra_x_variant":[
+        "C\u00e9leri"
+    ],
+    "name:frr_x_preferred":[
+        "Echt silere"
+    ],
+    "name:gle_x_preferred":[
+        "Soilire"
+    ],
+    "name:glg_x_preferred":[
+        "Apio"
+    ],
+    "name:glv_x_preferred":[
+        "Smullish"
+    ],
+    "name:hat_x_preferred":[
+        "S\u00e8lri"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05dc\u05e8\u05d9"
+    ],
+    "name:hrv_x_preferred":[
+        "Pravi celer"
+    ],
+    "name:hun_x_preferred":[
+        "Zeller"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0565\u056d\u0578\u0582\u0580 \u0562\u0578\u0582\u0580\u0561\u057e\u0565\u057f"
+    ],
+    "name:ido_x_preferred":[
+        "Celerio"
+    ],
+    "name:ind_x_preferred":[
+        "Seledri"
+    ],
+    "name:isl_x_preferred":[
+        "Seljur\u00f3t"
+    ],
+    "name:ita_x_preferred":[
+        "Apium graveolens"
+    ],
+    "name:jav_x_preferred":[
+        "Sl\u00e8dri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30ed\u30ea"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc6\u0cb2\u0cb0\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d8\u10d0\u10ee\u10e3\u10e0\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u043b\u0434\u044b\u0440\u043a\u04e9\u043a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc140\ub7ec\ub9ac"
+    ],
+    "name:lat_x_preferred":[
+        "Apium graveolens"
+    ],
+    "name:lav_x_preferred":[
+        "Selerija"
+    ],
+    "name:lij_x_preferred":[
+        "S\u00e9llou"
+    ],
+    "name:lit_x_preferred":[
+        "Valgomasis salieras"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u091c\u092e\u094b\u0926\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Daun Saderi"
+    ],
+    "name:mya_x_preferred":[
+        "\u1010\u101b\u102f\u1010\u103a\u1014\u1036\u1014\u1036\u1015\u1004\u103a"
+    ],
+    "name:nap_x_preferred":[
+        "Accio"
+    ],
+    "name:nav_x_preferred":[
+        "Haza\u02bcaleehtsoh"
+    ],
+    "name:nld_x_preferred":[
+        "Selderij"
+    ],
+    "name:nno_x_preferred":[
+        "Selleri"
+    ],
+    "name:nor_x_preferred":[
+        "Selleri"
+    ],
+    "name:oci_x_preferred":[
+        "Api"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u043c\u0430\u0440"
+    ],
+    "name:pcd_x_preferred":[
+        "Chilri"
+    ],
+    "name:pol_x_preferred":[
+        "Selery zwyczajne"
+    ],
+    "name:por_x_preferred":[
+        "Apium graveolens"
+    ],
+    "name:que_x_preferred":[
+        "Apiyu"
+    ],
+    "name:ron_x_preferred":[
+        "\u021aelin\u0103"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043b\u044c\u0434\u0435\u0440\u0435\u0439 \u043f\u0430\u0445\u0443\u0447\u0438\u0439"
+    ],
+    "name:san_x_preferred":[
+        "\u0915\u0941\u0938\u094d\u0924\u0941\u092e\u094d\u092c\u0930\u0940\u092a\u0930\u094d\u0923\u092e\u094d"
+    ],
+    "name:scn_x_preferred":[
+        "Apium graveolens"
+    ],
+    "name:sco_x_preferred":[
+        "Celery"
+    ],
+    "name:slk_x_preferred":[
+        "Zeler vo\u0148av\u00fd"
+    ],
+    "name:slv_x_preferred":[
+        "Navadna zelena"
+    ],
+    "name:spa_x_preferred":[
+        "Apium graveolens"
+    ],
+    "name:sqi_x_preferred":[
+        "Selinoja"
+    ],
+    "name:srd_x_preferred":[
+        "Appiu"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0435\u043b\u0435\u0440"
+    ],
+    "name:sun_x_preferred":[
+        "Sal\u00e9dri"
+    ],
+    "name:swe_x_preferred":[
+        "Selleri"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0bb5\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc0\u0bb0\u0bc8"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0444\u0441"
+    ],
+    "name:tgl_x_preferred":[
+        "Apyo"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e02\u0e36\u0e49\u0e19\u0e09\u0e48\u0e32\u0e22"
+    ],
+    "name:tur_x_preferred":[
+        "Kereviz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043b\u0435\u0440\u0430 \u043f\u0430\u0445\u0443\u0447\u0430"
+    ],
+    "name:vec_x_preferred":[
+        "S\u00e8\u0142eno"
+    ],
+    "name:vie_x_preferred":[
+        "C\u1ea7n t\u00e2y"
+    ],
+    "name:vls_x_preferred":[
+        "Seldery"
+    ],
+    "name:war_x_preferred":[
+        "Apium graveolens"
+    ],
+    "name:wln_x_preferred":[
+        "Celeri"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10dd\u10dc\u10d0"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e1\u05e2\u05dc\u05e2\u05e8\u05d9"
+    ],
+    "name:zha_x_preferred":[
+        "Ginzcaiq"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +318,7 @@
         }
     ],
     "wof:id":1242985241,
-    "wof:lastmodified":1537624062,
+    "wof:lastmodified":1564218702,
     "wof:name":"Celery",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

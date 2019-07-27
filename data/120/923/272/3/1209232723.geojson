@@ -28,6 +28,15 @@
     "name:fra_x_preferred":[
         "Catherinette"
     ],
+    "name:fra_x_variant":[
+        "Catherinettes"
+    ],
+    "name:ind_x_preferred":[
+        "Catherinette"
+    ],
+    "name:swe_x_preferred":[
+        "Catherinette"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85671209
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1209232723,
-    "wof:lastmodified":1537624062,
+    "wof:lastmodified":1564218549,
     "wof:name":"Catherinette",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Monplaisir"
+    ],
+    "name:fra_x_preferred":[
+        "Monplaisir"
+    ],
     "name:und_x_variant":[
         "Montplaisir"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1259817409,
-    "wof:lastmodified":1537624012,
+    "wof:lastmodified":1564218734,
     "wof:name":"Monplaisir",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

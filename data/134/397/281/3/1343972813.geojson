@@ -25,6 +25,9 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Varin"
+    ],
     "name:fra_x_preferred":[
         "Varin"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1343972813,
-    "wof:lastmodified":1537624028,
+    "wof:lastmodified":1564218433,
     "wof:name":"Varin",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",
