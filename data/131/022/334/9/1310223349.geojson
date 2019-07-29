@@ -25,8 +25,86 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bug_x_preferred":[
+        "Belloc"
+    ],
+    "name:cat_x_preferred":[
+        "B\u00e8ll\u00f2c"
+    ],
+    "name:ceb_x_preferred":[
+        "Belloc"
+    ],
+    "name:eus_x_preferred":[
+        "B\u00e8ll\u00f2c"
+    ],
     "name:fra_x_preferred":[
         "Belloc"
+    ],
+    "name:hun_x_preferred":[
+        "Belloc"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u056c\u056c\u0578\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Belloc"
+    ],
+    "name:lat_x_preferred":[
+        "Belloc"
+    ],
+    "name:mlg_x_preferred":[
+        "Belloc"
+    ],
+    "name:msa_x_preferred":[
+        "Belloc"
+    ],
+    "name:nld_x_preferred":[
+        "Belloc"
+    ],
+    "name:oci_x_preferred":[
+        "B\u00e8ll\u00f2c"
+    ],
+    "name:pol_x_preferred":[
+        "Belloc"
+    ],
+    "name:por_x_preferred":[
+        "Belloc"
+    ],
+    "name:ron_x_preferred":[
+        "Belloc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043b\u043e\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "Belloc"
+    ],
+    "name:spa_x_preferred":[
+        "Belloc"
+    ],
+    "name:sqi_x_preferred":[
+        "Belloc"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Belloc"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u043b\u043e\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Belloc"
+    ],
+    "name:vol_x_preferred":[
+        "Belloc"
+    ],
+    "name:war_x_preferred":[
+        "Belloc"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u6d1b\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +129,7 @@
         }
     ],
     "wof:id":1310223349,
-    "wof:lastmodified":1537624067,
+    "wof:lastmodified":1564218617,
     "wof:name":"Belloc",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

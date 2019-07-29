@@ -18,8 +18,26 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a-\u0622\u0646"
     ],
+    "name:bre_x_preferred":[
+        "Sainte-Anne"
+    ],
+    "name:ceb_x_preferred":[
+        "Sainte-Anne"
+    ],
+    "name:deu_x_preferred":[
+        "Sainte-Anne"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0646\u062a\u0646\u060c \u06af\u0648\u0622\u062f\u0648\u0644\u0648\u067e"
+    ],
+    "name:fra_x_preferred":[
+        "Sainte-Anne"
+    ],
+    "name:ita_x_preferred":[
+        "Sainte-Anne"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30f3\u30cc"
     ],
     "name:lit_x_preferred":[
         "Sent Ana"
@@ -27,8 +45,38 @@
     "name:mzn_x_preferred":[
         "\u0633\u0646\u062a\u0646\u060c \u06af\u0648\u0622\u062f\u0648\u0644\u0648\u067e"
     ],
+    "name:nds_x_preferred":[
+        "Sainte-Anne"
+    ],
+    "name:nld_x_preferred":[
+        "Sainte-Anne"
+    ],
+    "name:oci_x_preferred":[
+        "Sainte-Anne"
+    ],
+    "name:pms_x_preferred":[
+        "Sainte-Anne"
+    ],
+    "name:pol_x_preferred":[
+        "Sainte-Anne"
+    ],
+    "name:por_x_preferred":[
+        "Sainte-Anne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0410\u043d\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Sainte-Anne"
+    ],
+    "name:spa_x_preferred":[
+        "Sainte-Anne"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u043d\u0442 \u0410\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Sainte-Anne"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u0442-\u0410\u043d\u043d"
@@ -67,7 +115,7 @@
         }
     ],
     "wof:id":890453611,
-    "wof:lastmodified":1527736640,
+    "wof:lastmodified":1564218668,
     "wof:name":"Sainte-Anne",
     "wof:parent_id":85671209,
     "wof:placetype":"localadmin",

@@ -28,7 +28,19 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gardel"
+    ],
     "name:fra_x_preferred":[
+        "Gardel"
+    ],
+    "name:ita_x_preferred":[
+        "Gardel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0440\u0434\u0435\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
         "Gardel"
     ],
     "src:geom":"geonames",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1326864145,
-    "wof:lastmodified":1537624017,
+    "wof:lastmodified":1564218395,
     "wof:name":"Gardel",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

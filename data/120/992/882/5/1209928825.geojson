@@ -28,6 +28,12 @@
     "name:fra_x_preferred":[
         "Lazare"
     ],
+    "name:ita_x_preferred":[
+        "Lazare"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b6\u30fc\u30eb"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1209928825,
-    "wof:lastmodified":1537624057,
+    "wof:lastmodified":1564218554,
     "wof:name":"Lazare",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

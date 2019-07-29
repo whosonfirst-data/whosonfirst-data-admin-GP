@@ -28,6 +28,12 @@
     "name:fra_x_preferred":[
         "Morin"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0440\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0440\u0435\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293108925,
-    "wof:lastmodified":1537624043,
+    "wof:lastmodified":1564218499,
     "wof:name":"Morin",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

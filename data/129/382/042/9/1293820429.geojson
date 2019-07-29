@@ -28,6 +28,12 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Coignet"
+    ],
+    "name:fra_x_preferred":[
+        "Coignet"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293820429,
-    "wof:lastmodified":1536803993,
+    "wof:lastmodified":1564218479,
     "wof:name":"Coignet",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

@@ -28,9 +28,84 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Surgy"
+    ],
+    "name:ceb_x_preferred":[
+        "Surgy"
+    ],
+    "name:deu_x_preferred":[
+        "Surgy"
+    ],
+    "name:eus_x_preferred":[
+        "Surgy"
+    ],
+    "name:fra_x_preferred":[
+        "Surgy"
+    ],
+    "name:hun_x_preferred":[
+        "Surgy"
+    ],
+    "name:ita_x_preferred":[
+        "Surgy"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u044e\u0440\u0436\u0438"
+    ],
+    "name:lat_x_preferred":[
+        "Surgy"
+    ],
+    "name:msa_x_preferred":[
+        "Surgy"
+    ],
+    "name:nld_x_preferred":[
+        "Surgy"
+    ],
+    "name:oci_x_preferred":[
+        "Surgy"
+    ],
+    "name:pms_x_preferred":[
+        "Surgy"
+    ],
+    "name:pol_x_preferred":[
+        "Surgy"
+    ],
+    "name:por_x_preferred":[
+        "Surgy"
+    ],
+    "name:ron_x_preferred":[
+        "Surgy"
+    ],
+    "name:slk_x_preferred":[
+        "Surgy"
+    ],
+    "name:spa_x_preferred":[
+        "Surgy"
+    ],
+    "name:swe_x_preferred":[
+        "Surgy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u044e\u0440\u0436\u0456"
+    ],
     "name:und_x_variant":[
         "De Surgy",
         "Surgy"
+    ],
+    "name:uzb_x_preferred":[
+        "Surgy"
+    ],
+    "name:vie_x_preferred":[
+        "Surgy"
+    ],
+    "name:vol_x_preferred":[
+        "Surgy"
+    ],
+    "name:war_x_preferred":[
+        "Surgy"
+    ],
+    "name:zho_x_preferred":[
+        "\u53d9\u5c14\u5409"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +130,7 @@
         }
     ],
     "wof:id":1343597503,
-    "wof:lastmodified":1537624008,
+    "wof:lastmodified":1564218445,
     "wof:name":"Surgy",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

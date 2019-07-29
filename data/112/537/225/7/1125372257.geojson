@@ -19,6 +19,96 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u0648 \u0645\u0648\u0644"
+    ],
+    "name:azb_x_preferred":[
+        "\u0644\u0648 \u0645\u0648\u0644"
+    ],
+    "name:bug_x_preferred":[
+        "Le Moule"
+    ],
+    "name:cat_x_preferred":[
+        "Le Moule"
+    ],
+    "name:ceb_x_preferred":[
+        "Le Moule"
+    ],
+    "name:deu_x_preferred":[
+        "Le Moule"
+    ],
+    "name:eus_x_preferred":[
+        "Le Moule"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648 \u0645\u0648\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Le Moule"
+    ],
+    "name:ind_x_preferred":[
+        "Le Moule"
+    ],
+    "name:ita_x_preferred":[
+        "Le Moule"
+    ],
+    "name:lat_x_preferred":[
+        "Le Moule"
+    ],
+    "name:msa_x_preferred":[
+        "Le Moule"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0644\u0648 \u0645\u0648\u0644"
+    ],
+    "name:nld_x_preferred":[
+        "Le Moule"
+    ],
+    "name:nor_x_preferred":[
+        "Le Moule"
+    ],
+    "name:oci_x_preferred":[
+        "Le Moule"
+    ],
+    "name:pms_x_preferred":[
+        "Le Moule"
+    ],
+    "name:pol_x_preferred":[
+        "Le Moule"
+    ],
+    "name:por_x_preferred":[
+        "Le Moule"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435-\u041c\u0443\u043b\u044c"
+    ],
+    "name:slk_x_preferred":[
+        "Le Moule"
+    ],
+    "name:spa_x_preferred":[
+        "Le Moule"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435 \u041c\u0443\u043b"
+    ],
+    "name:swa_x_preferred":[
+        "Le Moule"
+    ],
+    "name:swe_x_preferred":[
+        "Le Moule"
+    ],
+    "name:tur_x_preferred":[
+        "Le Moule"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435-\u041c\u0443\u043b\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Le Moule"
+    ],
+    "name:war_x_preferred":[
+        "Le Moule"
+    ],
     "qs_pg:aaroncc":"GP",
     "qs_pg:gn_country":"GP",
     "qs_pg:gn_fcode":"ADM4",
@@ -57,7 +147,7 @@
         }
     ],
     "wof:id":1125372257,
-    "wof:lastmodified":1509389351,
+    "wof:lastmodified":1564218673,
     "wof:name":"Le Moule",
     "wof:parent_id":85671209,
     "wof:placetype":"localadmin",

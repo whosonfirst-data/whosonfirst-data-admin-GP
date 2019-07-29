@@ -25,8 +25,14 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Taillefer"
+    ],
     "name:fra_x_preferred":[
         "Taillefer"
+    ],
+    "name:fra_x_variant":[
+        "Ivo Taillefer"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1243278841,
-    "wof:lastmodified":1537624060,
+    "wof:lastmodified":1564218709,
     "wof:name":"Taillefer",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

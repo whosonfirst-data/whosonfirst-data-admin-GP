@@ -28,6 +28,21 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Vince"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0646\u0633"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30f3\u30b9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043d\u0441"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1276263777,
-    "wof:lastmodified":1536870772,
+    "wof:lastmodified":1564218507,
     "wof:name":"Vince",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

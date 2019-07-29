@@ -28,6 +28,15 @@
     "name:fra_x_preferred":[
         "Dugommier"
     ],
+    "name:ita_x_preferred":[
+        "Dugommier"
+    ],
+    "name:nld_x_preferred":[
+        "Dugommier"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044e\u0433\u043e\u043c\u044c\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1243085987,
-    "wof:lastmodified":1537624042,
+    "wof:lastmodified":1564218681,
     "wof:name":"Dugommier",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

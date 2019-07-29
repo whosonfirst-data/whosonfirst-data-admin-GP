@@ -25,7 +25,22 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Vanier"
+    ],
     "name:fra_x_preferred":[
+        "Vanier"
+    ],
+    "name:ita_x_preferred":[
+        "Vanier"
+    ],
+    "name:nds_x_preferred":[
+        "Vanier"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043d\u044c\u0435"
+    ],
+    "name:swe_x_preferred":[
         "Vanier"
     ],
     "src:geom":"geonames",
@@ -45,7 +60,7 @@
         }
     ],
     "wof:id":1209329221,
-    "wof:lastmodified":1537624035,
+    "wof:lastmodified":1564218556,
     "wof:name":"Vanier",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

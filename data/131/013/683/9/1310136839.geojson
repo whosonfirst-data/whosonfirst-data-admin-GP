@@ -28,7 +28,16 @@
     "iso:country":"GP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Savane"
+    ],
     "name:fra_x_preferred":[
+        "Savane"
+    ],
+    "name:spa_x_preferred":[
+        "Savane"
+    ],
+    "name:swe_x_preferred":[
         "Savane"
     ],
     "src:geom":"geonames",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1310136839,
-    "wof:lastmodified":1537624009,
+    "wof:lastmodified":1564218616,
     "wof:name":"Savane",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",
