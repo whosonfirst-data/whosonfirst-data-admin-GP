@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.11627,16.27679,-61.07627,16.31679",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "La Tranch\u00e9e aux Canons"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1226757605,
-    "wof:lastmodified":1537624068,
+    "wof:lastmodified":1566640152,
     "wof:name":"La Tranchee aux Canons",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.77342,16.11867,-61.73342,16.15867",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bon Air"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1293893425,
-    "wof:lastmodified":1564218496,
+    "wof:lastmodified":1566640029,
     "wof:name":"Bon Air",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

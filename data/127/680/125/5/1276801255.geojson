@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.6744,16.22048,-61.6344,16.26048",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Rozi\u00e8re",
         "La Rosi\u00e8re"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276801255,
-    "wof:lastmodified":1537624014,
+    "wof:lastmodified":1566640038,
     "wof:name":"La Rosiere",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

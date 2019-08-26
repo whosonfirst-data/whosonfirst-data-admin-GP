@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.54092,16.29005,-61.50092,16.33005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Perrin"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1259498149,
-    "wof:lastmodified":1564218723,
+    "wof:lastmodified":1566640144,
     "wof:name":"Perrin",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

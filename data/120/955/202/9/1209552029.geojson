@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.04032,16.30974,-61.00032,16.34974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Baie Mahault"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209552029,
-    "wof:lastmodified":1537624023,
+    "wof:lastmodified":1566640056,
     "wof:name":"Baie Mahault",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

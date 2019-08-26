@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.47099,16.28989,-61.43099,16.32989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Labatte"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225958811,
-    "wof:lastmodified":1537624059,
+    "wof:lastmodified":1566640150,
     "wof:name":"Labatte",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

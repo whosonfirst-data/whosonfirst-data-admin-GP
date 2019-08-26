@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.06098,16.29447,-61.02098,16.33447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Souffleur",
         "Le Souffleur"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1360020079,
-    "wof:lastmodified":1537624014,
+    "wof:lastmodified":1566640106,
     "wof:name":"Le Souffleur",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

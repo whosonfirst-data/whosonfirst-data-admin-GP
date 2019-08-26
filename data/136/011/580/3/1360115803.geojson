@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.30571,16.26946,-61.26571,16.30946",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Labarthe"
     ],
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1360115803,
-    "wof:lastmodified":1564218647,
+    "wof:lastmodified":1566640103,
     "wof:name":"Labarthe",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

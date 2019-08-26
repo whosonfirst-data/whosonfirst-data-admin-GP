@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.38164,16.31445,-61.34164,16.35445",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Damencourt"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226457159,
-    "wof:lastmodified":1537624053,
+    "wof:lastmodified":1566640153,
     "wof:name":"Damencourt",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

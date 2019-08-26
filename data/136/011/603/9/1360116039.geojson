@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.62296,16.00229,-61.58296,16.04229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "L\u2019Habitu\u00e9e"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360116039,
-    "wof:lastmodified":1537624014,
+    "wof:lastmodified":1566640102,
     "wof:name":"L'Habituee",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

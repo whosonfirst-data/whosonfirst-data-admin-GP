@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.62125,16.06184,-61.58125,16.10184",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Neuf-Ch\u00e2teau"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276690323,
-    "wof:lastmodified":1537624012,
+    "wof:lastmodified":1566640039,
     "wof:name":"Neuf-Chateau",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

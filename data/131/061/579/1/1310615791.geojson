@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.58455,16.0298,-61.54455,16.0698",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Source P\u00e9rou"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310615791,
-    "wof:lastmodified":1537624037,
+    "wof:lastmodified":1566640096,
     "wof:name":"Source Perou",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

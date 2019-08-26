@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.65983,16.25054,-61.61983,16.29054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0644\u0629"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1309915877,
-    "wof:lastmodified":1564218659,
+    "wof:lastmodified":1566640107,
     "wof:name":"Solitude",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

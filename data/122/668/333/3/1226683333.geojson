@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.70954,16.29635,-61.66954,16.33635",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Diavet"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226683333,
-    "wof:lastmodified":1537624018,
+    "wof:lastmodified":1566640159,
     "wof:name":"Diavet",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.27314,15.90513,-61.23314,15.94513",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Ballet"
     ],
@@ -291,7 +295,7 @@
         }
     ],
     "wof:id":1209329195,
-    "wof:lastmodified":1564218559,
+    "wof:lastmodified":1566640065,
     "wof:name":"Ballet",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

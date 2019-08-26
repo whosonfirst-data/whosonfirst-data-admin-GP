@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.74628,16.00098,-61.70628,16.04098",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Bellevue"
     ],
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1327152569,
-    "wof:lastmodified":1564218409,
+    "wof:lastmodified":1566639974,
     "wof:name":"Bellevue",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

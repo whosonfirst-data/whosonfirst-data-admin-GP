@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.35627,16.29544,-61.31627,16.33544",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "D\u2019Audoin"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310320033,
-    "wof:lastmodified":1537624066,
+    "wof:lastmodified":1566640094,
     "wof:name":"D'Audoin",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

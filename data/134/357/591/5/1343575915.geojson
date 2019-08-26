@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.60248,15.85276,-61.56248,15.89276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Maison Blanche"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343575915,
-    "wof:lastmodified":1537624069,
+    "wof:lastmodified":1566639999,
     "wof:name":"Maison Blanche",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

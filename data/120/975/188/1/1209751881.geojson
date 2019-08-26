@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.43812,16.38597,-61.39812,16.42597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Gros Cap"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209751881,
-    "wof:lastmodified":1537624016,
+    "wof:lastmodified":1566640070,
     "wof:name":"Gros Cap",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

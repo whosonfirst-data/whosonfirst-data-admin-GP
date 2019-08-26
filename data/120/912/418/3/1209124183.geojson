@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.33578,16.25453,-61.29578,16.29453",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Jacques"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1209124183,
-    "wof:lastmodified":1564218547,
+    "wof:lastmodified":1566640059,
     "wof:name":"Saint-Jacques",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

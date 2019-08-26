@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.49577,16.35753,-61.45577,16.39753",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Deville"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1310319983,
-    "wof:lastmodified":1564218624,
+    "wof:lastmodified":1566640089,
     "wof:name":"Deville",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

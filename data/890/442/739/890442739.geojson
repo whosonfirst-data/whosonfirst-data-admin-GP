@@ -11,10 +11,14 @@
     "geom:longitude":-61.73333,
     "gn:country":"GP",
     "gn:fcode":"ADM4",
-    "gn:pop":5836,
+    "gn:population":5836,
     "iso:country":"GP",
+    "lbl:bbox":"-61.83333,15.91667,-61.63333,16.11667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Baillif"
     ],
@@ -288,7 +292,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6690411,
-        "qs:id":643881,
+        "qs_pg:id":643881,
         "wd:id":"Q773569",
         "wk:page":"Baillif"
     },
@@ -305,7 +309,7 @@
         }
     ],
     "wof:id":890442739,
-    "wof:lastmodified":1563260743,
+    "wof:lastmodified":1566640114,
     "wof:name":"Baillif",
     "wof:parent_id":85671209,
     "wof:placetype":"localadmin",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.78421,16.20512,-61.74421,16.24512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Les Plaines"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293820769,
-    "wof:lastmodified":1537624014,
+    "wof:lastmodified":1566640018,
     "wof:name":"Les Plaines",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

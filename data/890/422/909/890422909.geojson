@@ -11,10 +11,14 @@
     "geom:longitude":-61.51667,
     "gn:country":"GP",
     "gn:fcode":"ADM4",
-    "gn:pop":17408,
+    "gn:population":17408,
     "iso:country":"GP",
+    "lbl:bbox":"-61.61667,16.13333,-61.41667,16.33333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
@@ -312,7 +316,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6690399,
-        "qs:id":643869,
+        "qs_pg:id":643869,
         "wd:id":"Q335322",
         "wk:page":"Pointe-\u00e0-Pitre"
     },
@@ -329,7 +333,7 @@
         }
     ],
     "wof:id":890422909,
-    "wof:lastmodified":1563260730,
+    "wof:lastmodified":1566640112,
     "wof:name":"Pointe-\u00e0-Pitre",
     "wof:parent_id":85671209,
     "wof:placetype":"localadmin",

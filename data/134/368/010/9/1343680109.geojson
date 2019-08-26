@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.67684,15.95463,-61.63684,15.99463",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "La Violette"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343680109,
-    "wof:lastmodified":1537624044,
+    "wof:lastmodified":1566639998,
     "wof:name":"La Violette",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

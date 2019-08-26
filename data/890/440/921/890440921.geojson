@@ -11,10 +11,14 @@
     "geom:longitude":-61.50778,
     "gn:country":"GP",
     "gn:fcode":"PPL",
-    "gn:pop":5146,
+    "gn:population":5146,
     "iso:country":"GP",
+    "lbl:bbox":"-61.52778,16.45206,-61.48778,16.49206",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Anse-Bertrand"
     ],
@@ -287,7 +291,7 @@
     "wof:concordances":{
         "gn:id":3579789,
         "gp:id":80524,
-        "qs:id":149047,
+        "qs_pg:id":149047,
         "wd:id":"Q569447",
         "wk:page":"Anse-Bertrand"
     },
@@ -304,7 +308,7 @@
         }
     ],
     "wof:id":890440921,
-    "wof:lastmodified":1563260729,
+    "wof:lastmodified":1566640111,
     "wof:name":"Anse-Bertrand",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

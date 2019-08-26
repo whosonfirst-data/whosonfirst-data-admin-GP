@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.70503,16.16305,-61.66503,16.20305",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Piolet"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209833823,
-    "wof:lastmodified":1537624032,
+    "wof:lastmodified":1566640057,
     "wof:name":"Piolet",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",
