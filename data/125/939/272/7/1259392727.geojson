@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.41485,16.25021,-61.37485,16.29021",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Saragotte"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259392727,
-    "wof:lastmodified":1537624057,
+    "wof:lastmodified":1566640138,
     "wof:name":"Saragotte",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

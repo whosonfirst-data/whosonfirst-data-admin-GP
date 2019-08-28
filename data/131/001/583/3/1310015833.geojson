@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.59775,15.85107,-61.55775,15.89107",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Le Marigot"
     ],
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":1310015833,
-    "wof:lastmodified":1564218626,
+    "wof:lastmodified":1566640090,
     "wof:name":"Le Marigot",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

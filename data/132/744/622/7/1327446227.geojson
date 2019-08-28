@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.4757,16.34025,-61.4357,16.38025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Rougeole"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327446227,
-    "wof:lastmodified":1537624070,
+    "wof:lastmodified":1566639985,
     "wof:name":"Rougeole",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

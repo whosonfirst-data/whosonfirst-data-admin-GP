@@ -11,10 +11,14 @@
     "geom:longitude":-61.68333,
     "gn:country":"GP",
     "gn:fcode":"ADM4",
-    "gn:pop":8088,
+    "gn:population":8088,
     "iso:country":"GP",
+    "lbl:bbox":"-61.78333,15.88333,-61.58333,16.08333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Gourbeyre"
     ],
@@ -288,7 +292,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6690405,
-        "qs:id":643875,
+        "qs_pg:id":643875,
         "wd:id":"Q996284",
         "wk:page":"Gourbeyre"
     },
@@ -305,7 +309,7 @@
         }
     ],
     "wof:id":890418559,
-    "wof:lastmodified":1563260741,
+    "wof:lastmodified":1566640114,
     "wof:name":"Gourbeyre",
     "wof:parent_id":85671209,
     "wof:placetype":"localadmin",

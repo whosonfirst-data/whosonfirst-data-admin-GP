@@ -11,10 +11,14 @@
     "geom:longitude":-61.58333,
     "gn:country":"GP",
     "gn:fcode":"ADM4",
-    "gn:pop":21283,
+    "gn:population":21283,
     "iso:country":"GP",
+    "lbl:bbox":"-61.68333,16.08333,-61.48333,16.28333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Petit-Bourg"
     ],
@@ -297,7 +301,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6690401,
-        "qs:id":643871,
+        "qs_pg:id":643871,
         "wd:id":"Q844987",
         "wk:page":"Petit-Bourg"
     },
@@ -314,7 +318,7 @@
         }
     ],
     "wof:id":890437323,
-    "wof:lastmodified":1563260735,
+    "wof:lastmodified":1566640112,
     "wof:name":"Petit-Bourg",
     "wof:parent_id":85671209,
     "wof:placetype":"localadmin",

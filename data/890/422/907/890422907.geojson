@@ -11,10 +11,14 @@
     "geom:longitude":-61.78333,
     "gn:country":"GP",
     "gn:fcode":"ADM4",
-    "gn:pop":7115,
+    "gn:population":7115,
     "iso:country":"GP",
+    "lbl:bbox":"-61.88333,16.13333,-61.68333,16.33333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Pointe-Noire"
     ],
@@ -176,7 +180,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6690398,
-        "qs:id":643868,
+        "qs_pg:id":643868,
         "wk:page":"Pointe-Noire"
     },
     "wof:country":"GP",
@@ -192,7 +196,7 @@
         }
     ],
     "wof:id":890422907,
-    "wof:lastmodified":1564218666,
+    "wof:lastmodified":1566640112,
     "wof:name":"Pointe-Noire",
     "wof:parent_id":85671209,
     "wof:placetype":"localadmin",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.67595,16.24537,-61.63595,16.28537",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Jaula"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259994469,
-    "wof:lastmodified":1537624031,
+    "wof:lastmodified":1566640140,
     "wof:name":"Jaula",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

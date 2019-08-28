@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.52313,16.1977,-61.48313,16.2377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Poussette",
         "Pousset",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209345305,
-    "wof:lastmodified":1537624010,
+    "wof:lastmodified":1566640066,
     "wof:name":"Poucet",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

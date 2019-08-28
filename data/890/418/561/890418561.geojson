@@ -11,10 +11,14 @@
     "geom:longitude":-61.78333,
     "gn:country":"GP",
     "gn:fcode":"ADM4",
-    "gn:pop":4322,
+    "gn:population":4322,
     "iso:country":"GP",
+    "lbl:bbox":"-61.88333,16.2,-61.68333,16.4",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Deshaies"
     ],
@@ -288,7 +292,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6690406,
-        "qs:id":643876,
+        "qs_pg:id":643876,
         "wd:id":"Q996301",
         "wk:page":"Deshaies"
     },
@@ -305,7 +309,7 @@
         }
     ],
     "wof:id":890418561,
-    "wof:lastmodified":1563260742,
+    "wof:lastmodified":1566640114,
     "wof:name":"Deshaies",
     "wof:parent_id":85671209,
     "wof:placetype":"localadmin",

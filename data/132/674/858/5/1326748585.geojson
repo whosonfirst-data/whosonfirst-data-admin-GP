@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.341,16.29752,-61.301,16.33752",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "D\u2019Arles"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326748585,
-    "wof:lastmodified":1537624066,
+    "wof:lastmodified":1566639969,
     "wof:name":"D'Arles",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

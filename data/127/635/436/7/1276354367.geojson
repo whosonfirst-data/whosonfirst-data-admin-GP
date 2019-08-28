@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.45275,16.29258,-61.41275,16.33258",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lolo"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1276354367,
-    "wof:lastmodified":1564218515,
+    "wof:lastmodified":1566640042,
     "wof:name":"Lolo",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

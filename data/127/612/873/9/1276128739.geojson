@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.52647,16.27799,-61.48647,16.31799",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Leonie"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276128739,
-    "wof:lastmodified":1564218523,
+    "wof:lastmodified":1566640046,
     "wof:name":"Leonie",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.67339,16.26726,-61.63339,16.30726",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Reizet",
         "Reiset",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1243002765,
-    "wof:lastmodified":1537624010,
+    "wof:lastmodified":1566640118,
     "wof:name":"Reizet-Sainte-Marie",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

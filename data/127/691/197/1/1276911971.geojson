@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.6026,15.84656,-61.5626,15.88656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bug_x_preferred":[
         "Terre-de-Haut"
     ],
@@ -84,8 +88,7 @@
     ],
     "name:und_x_variant":[
         "Bourg des Saintes",
-        "Le Bourg des Saintes",
-        "Terre-de-Haut"
+        "Le Bourg des Saintes"
     ],
     "name:vie_x_preferred":[
         "Terre-de-Haut"
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1276911971,
-    "wof:lastmodified":1564218533,
+    "wof:lastmodified":1566640052,
     "wof:name":"Terre-de-Haut",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

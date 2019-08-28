@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.63943,15.97092,-61.59943,16.01092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Morne Cinq-Jours"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326748459,
-    "wof:lastmodified":1537624042,
+    "wof:lastmodified":1566639968,
     "wof:name":"Morne Cinq-Jours",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

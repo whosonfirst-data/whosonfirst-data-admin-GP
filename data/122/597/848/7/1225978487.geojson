@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"America/Guadeloupe",
     "iso:country":"GP",
+    "lbl:bbox":"-61.48643,16.44601,-61.44643,16.48601",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pressec"
     ],
     "name:und_x_variant":[
-        "Pressac",
-        "Pressec"
+        "Pressac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1225978487,
-    "wof:lastmodified":1564218753,
+    "wof:lastmodified":1566640161,
     "wof:name":"Pressec",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",
