@@ -312,6 +312,9 @@
     },
     "wof:country":"GP",
     "wof:created":1469052046,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6d5a914d8ee42d5f2f2a52cc8c3b3f98",
     "wof:hierarchy":[
         {
@@ -323,7 +326,7 @@
         }
     ],
     "wof:id":890434941,
-    "wof:lastmodified":1566640115,
+    "wof:lastmodified":1582358677,
     "wof:name":"Saint-Fran\u00e7ois",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",
