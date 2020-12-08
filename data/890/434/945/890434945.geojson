@@ -403,7 +403,9 @@
     "wd:wordcount":4217,
     "wof:belongsto":[],
     "wof:breaches":[],
-    "wof:capital_of":85671209,
+    "wof:capital_of":[
+        85671209
+    ],
     "wof:concordances":{
         "gn:id":3579732,
         "gp:id":80502,
@@ -423,7 +425,7 @@
         }
     ],
     "wof:id":890434945,
-    "wof:lastmodified":1566640115,
+    "wof:lastmodified":1607390879,
     "wof:name":"Basse-Terre",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
