@@ -87,7 +87,13 @@
         "Saint-Georges"
     ],
     "name:ukr_x_preferred":[
+        "\u0421\u0435\u0439\u043d\u0442-\u0414\u0436\u043e\u0440\u0434\u0436\u0435\u0441"
+    ],
+    "name:ukr_x_variant":[
         "\u0421\u0435\u043d-\u0416\u043e\u0440\u0436"
+    ],
+    "name:vie_x_preferred":[
+        "Saint-Georges"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -101,7 +107,7 @@
         "gn:id":11567917
     },
     "wof:country":"GP",
-    "wof:geomhash":"730fc6ab7615372c0a11b362b889f245",
+    "wof:geomhash":"bbcffc20a283173b1c599c2cc8a9291d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1310610959,
-    "wof:lastmodified":1566640095,
+    "wof:lastmodified":1636502859,
     "wof:name":"Saint-Georges",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",
@@ -122,10 +128,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -61.28579000000001,
+    -61.28579,
     15.93307,
-    -61.28579000000001,
+    -61.28579,
     15.93307
 ],
-  "geometry": {"coordinates":[-61.28579000000001,15.93307],"type":"Point"}
+  "geometry": {"coordinates":[-61.28579,15.93307],"type":"Point"}
 }

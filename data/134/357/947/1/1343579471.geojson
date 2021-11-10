@@ -38,7 +38,16 @@
     "name:deu_x_preferred":[
         "Plaisance"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u0633\u0627\u0646\u0633"
+    ],
     "name:fra_x_preferred":[
+        "Plaisance"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05d0\u05d9\u05e1\u05d0\u05e0\u05e1"
+    ],
+    "name:hun_x_preferred":[
         "Plaisance"
     ],
     "name:ita_x_preferred":[
@@ -86,7 +95,7 @@
         "gn:id":11541651
     },
     "wof:country":"GP",
-    "wof:geomhash":"1bcf770838842cdb8662ebc1d39fe6a4",
+    "wof:geomhash":"3ffef5b93c24dc446aa2b89a3c7adced",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1343579471,
-    "wof:lastmodified":1566639998,
+    "wof:lastmodified":1636502857,
     "wof:name":"Plaisance",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",
@@ -107,10 +116,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -61.60384000000001,
+    -61.60384,
     16.23424,
-    -61.60384000000001,
+    -61.60384,
     16.23424
 ],
-  "geometry": {"coordinates":[-61.60384000000001,16.23424],"type":"Point"}
+  "geometry": {"coordinates":[-61.60384,16.23424],"type":"Point"}
 }

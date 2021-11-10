@@ -35,6 +35,12 @@
     "name:fra_x_preferred":[
         "Littoral"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d6\u05d5\u05e8 \u05d4\u05db\u05e8\u05d9\u05ea"
+    ],
+    "name:hun_x_preferred":[
+        "Littoral"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293818591,
-    "wof:lastmodified":1566640033,
+    "wof:lastmodified":1636502857,
     "wof:name":"Littoral",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

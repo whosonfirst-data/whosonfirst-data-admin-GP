@@ -29,8 +29,32 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0627\u0631\u062f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09bf\u09df\u09be\u09b0\u09cd\u09a1"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03b1\u03c1\u03bd\u03c4"
+    ],
     "name:fra_x_preferred":[
         "Liard"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05d0\u05e8\u05d3"
+    ],
+    "name:hun_x_preferred":[
+        "Liard"
+    ],
+    "name:ind_x_preferred":[
+        "Liard"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uc544\ub4dc"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Liard"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1326648153,
-    "wof:lastmodified":1566639982,
+    "wof:lastmodified":1636502857,
     "wof:name":"Liard",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

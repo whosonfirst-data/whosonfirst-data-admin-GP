@@ -48,7 +48,13 @@
         "Gros Morne"
     ],
     "name:pol_x_preferred":[
+        "Gros Morne"
+    ],
+    "name:pol_x_variant":[
         "Gros-Morne"
+    ],
+    "name:por_x_preferred":[
+        "Gros Morne"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u043e-\u041c\u043e\u0440\u043d"
@@ -59,6 +65,21 @@
     "name:swe_x_preferred":[
         "Gros Morne"
     ],
+    "name:tur_x_preferred":[
+        "Gros Morne"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0631\u0627\u0633 \u0645\u0648\u0631\u0646\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "N\u00fai Gros Morne"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u683c\u7f57\u83ab\u8bb7\u5c71"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u683c\u7f85\u6469\u6069\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -66,7 +87,7 @@
         "gn:id":3579158
     },
     "wof:country":"GP",
-    "wof:geomhash":"9ccf84814f8f0bcf4a4533e9e68c7f46",
+    "wof:geomhash":"b2f318ac0ef87784a955bc7af2ac684f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -76,7 +97,7 @@
         }
     ],
     "wof:id":1209852233,
-    "wof:lastmodified":1566640061,
+    "wof:lastmodified":1636502858,
     "wof:name":"Gros Morne",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -86,10 +107,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -61.78333000000001,
+    -61.78333,
     16.21667,
-    -61.78333000000001,
+    -61.78333,
     16.21667
 ],
-  "geometry": {"coordinates":[-61.78333000000001,16.21667],"type":"Point"}
+  "geometry": {"coordinates":[-61.78333,16.21667],"type":"Point"}
 }

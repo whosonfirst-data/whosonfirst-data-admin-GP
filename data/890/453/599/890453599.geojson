@@ -157,6 +157,9 @@
         "Guadeloupe"
     ],
     "name:hin_x_preferred":[
+        "\u0917\u0941\u0906\u0921\u093e\u0932\u0942\u092a\u0947"
+    ],
+    "name:hin_x_variant":[
         "\u0917\u0941\u0906\u0926\u0947\u0932\u0942\u092a"
     ],
     "name:hrv_x_preferred":[
@@ -385,6 +388,9 @@
         "Gvadelupa"
     ],
     "name:vie_x_preferred":[
+        "\u0110\u1ea3o Guadeloupe"
+    ],
+    "name:vie_x_variant":[
         "Guadeloupe"
     ],
     "name:war_x_preferred":[
@@ -401,6 +407,12 @@
     ],
     "name:yue_x_preferred":[
         "\u74dc\u5fb7\u7f85\u666e"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u74dc\u5fb7\u7f57\u666e\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u74dc\u5fb7\u7f85\u666e\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u74dc\u5fb7\u7f57\u666e"
@@ -437,7 +449,7 @@
         }
     ],
     "wof:id":890453599,
-    "wof:lastmodified":1566640113,
+    "wof:lastmodified":1636502859,
     "wof:name":"Guadeloupe",
     "wof:parent_id":85671209,
     "wof:placetype":"county",

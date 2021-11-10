@@ -29,14 +29,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ac\u09cb\u09ae\u09cd\u09ac\u09cb"
+    ],
     "name:ceb_x_preferred":[
         "Bombo"
+    ],
+    "name:deu_x_preferred":[
+        "Bombo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03cc\u03bc\u03c0\u03bf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0645\u0628\u0648"
     ],
     "name:fra_x_preferred":[
         "Bombo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05de\u05d1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0949\u092e\u094d\u092c\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Bombo"
+    ],
+    "name:ind_x_preferred":[
+        "Bombo"
+    ],
     "name:ita_x_preferred":[
         "Bombo"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd04\ubcf4"
     ],
     "name:lug_x_preferred":[
         "Bombo"
@@ -50,8 +77,24 @@
     "name:spa_x_preferred":[
         "Bombo"
     ],
+    "name:spa_x_variant":[],
     "name:swe_x_preferred":[
         "Bombo"
+    ],
+    "name:tur_x_preferred":[
+        "Bombo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u043c\u0431\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "Bombo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u90a6\u535a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u90a6\u535a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +108,7 @@
         "gn:id":11563393
     },
     "wof:country":"GP",
-    "wof:geomhash":"f6cca3b7a8a18f5341c0dd75ee68f4c5",
+    "wof:geomhash":"74fb692e9377f2f18e3f5e2f2dcaad1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +119,7 @@
         }
     ],
     "wof:id":1327040105,
-    "wof:lastmodified":1566639979,
+    "wof:lastmodified":1636502856,
     "wof:name":"Bombo",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",
@@ -86,10 +129,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -61.38104000000001,
+    -61.38104,
     16.25476,
-    -61.38104000000001,
+    -61.38104,
     16.25476
 ],
-  "geometry": {"coordinates":[-61.38104000000001,16.25476],"type":"Point"}
+  "geometry": {"coordinates":[-61.38104,16.25476],"type":"Point"}
 }

@@ -153,6 +153,9 @@
         "Port Louis"
     ],
     "name:hin_x_preferred":[
+        "\u092a\u094b\u0930\u094d\u091f \u0932\u0941\u0907\u0938"
+    ],
+    "name:hin_x_variant":[
         "\u092a\u094b\u0930\u094d\u091f \u0932\u0941\u0908"
     ],
     "name:hrv_x_preferred":[
@@ -394,7 +397,7 @@
         }
     ],
     "wof:id":1226073691,
-    "wof:lastmodified":1566640169,
+    "wof:lastmodified":1636502861,
     "wof:name":"Port Louis",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

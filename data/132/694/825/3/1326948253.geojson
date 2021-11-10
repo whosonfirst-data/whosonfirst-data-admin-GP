@@ -678,6 +678,9 @@
         "London"
     ],
     "name:vie_x_preferred":[
+        "London"
+    ],
+    "name:vie_x_variant":[
         "Lu\u00e2n \u0110\u00f4n"
     ],
     "name:vls_x_preferred":[
@@ -733,7 +736,7 @@
         }
     ],
     "wof:id":1326948253,
-    "wof:lastmodified":1566639971,
+    "wof:lastmodified":1636502856,
     "wof:name":"London",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

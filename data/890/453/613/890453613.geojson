@@ -50,6 +50,9 @@
         "\u05e1\u05e0\u05d8 \u05dc\u05d5\u05d0\u05d9\u05e1"
     ],
     "name:hun_x_preferred":[
+        "Saint-Louis"
+    ],
+    "name:hun_x_variant":[
         "Saint Louis"
     ],
     "name:jpn_x_preferred":[
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":890453613,
-    "wof:lastmodified":1566640113,
+    "wof:lastmodified":1636502859,
     "wof:name":"Saint-Louis",
     "wof:parent_id":85671209,
     "wof:placetype":"localadmin",
