@@ -31,6 +31,9 @@
     "name:ell_x_preferred":[
         "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u039c\u03c0\u03b1\u03c2-\u03a4\u03b5\u03c1"
     ],
+    "name:ell_x_variant":[
+        "\u03b4\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u03c4\u03b7\u03c2 \u039c\u03c0\u03b1\u03c2-\u03a4\u03b5\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Basse-Terre"
     ],
@@ -46,6 +49,9 @@
     "name:fra_x_preferred":[
         "Basse-Terre"
     ],
+    "name:gle_x_preferred":[
+        "Arrondissement Basse-Terre"
+    ],
     "name:ind_x_preferred":[
         "Arondisemen Basse-Terre"
     ],
@@ -57,6 +63,9 @@
     ],
     "name:nld_x_preferred":[
         "Arrondissement Basse-Terre"
+    ],
+    "name:nld_x_variant":[
+        "arrondissement Basse-Terre"
     ],
     "name:pol_x_preferred":[
         "Okr\u0119g Basse-Terre"
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":890420199,
-    "wof:lastmodified":1566640114,
+    "wof:lastmodified":1690922100,
     "wof:name":"Arrondissement de la Basse-Terre",
     "wof:parent_id":85671209,
     "wof:placetype":"localadmin",
