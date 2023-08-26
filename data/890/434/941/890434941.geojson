@@ -25,8 +25,14 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646-\u0641\u0631\u0627\u0646\u0633\u0648\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0648\u0627"
+    ],
     "name:arg_x_preferred":[
         "Saint-Fran\u00e7ois"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0648\u0627"
     ],
     "name:ast_x_preferred":[
         "Saint-Fran\u00e7ois"
@@ -52,6 +58,9 @@
     "name:ces_x_preferred":[
         "Saint-Fran\u00e7ois"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0435\u043d-\u0424\u0433\u04c0\u0430\u043d\u0441\u0443\u0430"
+    ],
     "name:cos_x_preferred":[
         "Saint-Fran\u00e7ois"
     ],
@@ -63,6 +72,9 @@
     ],
     "name:deu_x_preferred":[
         "Saint-Fran\u00e7ois"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b9\u03bd-\u03a6\u03c1\u03b1\u03bd\u03c3\u03bf\u03c5\u03ac"
     ],
     "name:eng_x_preferred":[
         "Saint-Fran\u00e7ois"
@@ -148,6 +160,9 @@
     "name:lat_x_preferred":[
         "Saint-Fran\u00e7ois"
     ],
+    "name:lat_x_variant":[
+        "Sanctus Franciscus"
+    ],
     "name:lav_x_preferred":[
         "Saint-Fran\u00e7ois"
     ],
@@ -158,6 +173,9 @@
         "Saint-Fran\u00e7ois"
     ],
     "name:lit_x_preferred":[
+        "Saint-Fran\u00e7ois"
+    ],
+    "name:lld_x_preferred":[
         "Saint-Fran\u00e7ois"
     ],
     "name:ltz_x_preferred":[
@@ -244,6 +262,9 @@
     "name:swe_x_preferred":[
         "Saint-Fran\u00e7ois"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0435\u043d-\u0424\u0440\u0430\u043d\u0441\u0443\u0430"
+    ],
     "name:tur_x_preferred":[
         "Saint-Fran\u00e7ois"
     ],
@@ -279,6 +300,9 @@
     ],
     "name:wol_x_preferred":[
         "Saint-Fran\u00e7ois"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u5f17\u6717\u7d22\u74e6"
     ],
     "name:zul_x_preferred":[
         "Saint-Fran\u00e7ois"
@@ -326,7 +350,7 @@
         }
     ],
     "wof:id":890434941,
-    "wof:lastmodified":1582358677,
+    "wof:lastmodified":1690922103,
     "wof:name":"Saint-Fran\u00e7ois",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

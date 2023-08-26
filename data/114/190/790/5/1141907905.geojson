@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-61.532998903,16.2414750356,-61.532998903,16.2414750356",
+    "geom:bbox":"-61.532999,16.241475,-61.532999,16.241475",
     "geom:latitude":16.241475,
     "geom:longitude":-61.532999,
     "iso:country":"GP",
@@ -53,6 +53,9 @@
     ],
     "name:ces_x_preferred":[
         "Pointe-\u00e0-Pitre"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0443\u044d\u043d\u0442-\u0430-\u041f\u0438\u0442\u0433\u04c0"
     ],
     "name:cos_x_preferred":[
         "Pointe-\u00e0-Pitre"
@@ -113,6 +116,9 @@
     ],
     "name:gsw_x_preferred":[
         "Pointe-\u00e0-Pitre"
+    ],
+    "name:hat_x_preferred":[
+        "Lapwent"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05d0\u05e0\u05d8-\u05d0-\u05e4\u05d9\u05d8\u05e8"
@@ -179,6 +185,9 @@
     ],
     "name:lit_x_preferred":[
         "Puant a Pitras"
+    ],
+    "name:lld_x_preferred":[
+        "Pointe-\u00e0-Pitre"
     ],
     "name:ltz_x_preferred":[
         "Pointe-\u00e0-Pitre"
@@ -269,6 +278,12 @@
     ],
     "name:swe_x_preferred":[
         "Pointe-\u00e0-Pitre"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0443\u044d\u043d\u0442-\u0430-\u041f\u0438\u0442\u0440"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e27\u0e07\u0e15\u0e32\u0e1b\u0e34\u0e17\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Pointe-\u00e0-Pitre"
@@ -414,7 +429,7 @@
     },
     "wof:country":"GP",
     "wof:created":1499130786,
-    "wof:geomhash":"fc0ae91c028303b1afb4f82b41fd56c4",
+    "wof:geomhash":"5bb6e99334fb6e862275ac8918dbd6d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -425,7 +440,7 @@
         }
     ],
     "wof:id":1141907905,
-    "wof:lastmodified":1566640170,
+    "wof:lastmodified":1690922105,
     "wof:name":"Pointe-a-Pitre",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",
@@ -435,10 +450,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -61.53299890302799,
-    16.2414750355631,
-    -61.53299890302799,
-    16.2414750355631
+    -61.532999,
+    16.241475,
+    -61.532999,
+    16.241475
 ],
-  "geometry": {"coordinates":[-61.53299890302799,16.2414750355631],"type":"Point"}
+  "geometry": {"coordinates":[-61.532999,16.241475],"type":"Point"}
 }
