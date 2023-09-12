@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":400584,
     "iso:country":"GP",
+    "label:eng_x_preferred_longname":[
+        "Guadeloupe Statistical Gore"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "statistical gore"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -501,7 +507,7 @@
     },
     "wof:country":"GP",
     "wof:created":1469052860,
-    "wof:geomhash":"fba9ceb9511cb91cad22cb222d4564bc",
+    "wof:geomhash":"38a99439be971a0fb215f4b8750c7fb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -512,7 +518,7 @@
         }
     ],
     "wof:id":890453599,
-    "wof:lastmodified":1690922099,
+    "wof:lastmodified":1694497771,
     "wof:name":"Guadeloupe",
     "wof:parent_id":85671209,
     "wof:placetype":"county",
